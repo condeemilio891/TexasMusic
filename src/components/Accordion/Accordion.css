@@ -1,0 +1,58 @@
+
+.accordion {
+    max-width: 300px;
+    margin: .5rem auto;
+    box-sizing: border-box;
+    position:relative;
+   right:0%;
+   top:5%;
+   color:#DA70D6;
+  
+  }
+  
+  .accordion-title {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    cursor: pointer;
+    background-color: #710193;
+    flex-wrap: wrap;
+    width: 280px;
+    padding: 1rem;
+    border:3px groove #630330;
+    border-radius: 30px 30px 0px 0px
+  }
+  
+  .accordion-title:hover {
+    background-color: #4D0F28;
+  }
+  
+
+  
+  .accordion-content{
+    padding:1rem;
+  background-color: #570861 ;
+  height: auto;
+  width: 280px;
+  overflow:visible;
+  white-space: pre-line;
+  text-align: center;
+  border:3px groove #630330;
+  border-radius: 0px 0px 30px 30px;
+  
+
+    
+  }
+
+  
+  @media screen and (max-width: 700px) {
+    body {
+      font-size: 18px;
+    }
+  
+    .accordion {
+      width: 90%;
+    }
+  }
+
+  

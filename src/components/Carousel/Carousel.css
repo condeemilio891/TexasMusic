@@ -1,0 +1,91 @@
+.carousel {
+    overflow: hidden;
+}
+
+.inner {
+    white-space: nowrap;
+    transition: transform 0.3s;
+}
+
+
+.carousel-item{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    /* color:#fff; */
+    flex-wrap: wrap;
+}
+
+.indicators{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    z-index: 2;
+    cursor: pointer;
+    flex-wrap: wrap;
+    
+}
+
+.indicators >button{
+    margin:5px;
+    color:white;
+    background-color: black;
+    cursor: pointer;
+    }
+
+    @media screen and (max-width: 480px){
+    .indicators >button{
+        display: flex;
+        flex-wrap: wrap;
+        
+    }
+}
+
+
+.indicators > button.active{
+    background-color: #a1251b;
+    color: black;
+}
+
+
+.selenah1{ 
+    white-space: pre-wrap;
+    color: #DA70D6;
+    text-shadow: 3px 4px 7px black;
+  margin-top: 7px;
+  font-size: 70px;
+ 
+    
+}
+.selenah2{ 
+    white-space: pre-wrap;
+    color: #DA70D6;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+   1px -1px 0 #000,
+  -1px -1px 0 #000;
+ 
+    
+}
+
+
+.selenah6{
+    margin-bottom: 500px;
+    white-space: pre-wrap;
+    color: #DA70D6;
+    text-shadow: -1px 1px 0 #000,
+    1px 1px 0 #000,
+   1px -1px 0 #000,
+  -1px -1px 0 #000;
+  position: relative;
+  bottom:-20%;
+  left:10%
+ 
+}
+@media screen and (max-width: 770px){
+    .selenah6{
+        margin-bottom: 50px;
+        
+    }
+}
