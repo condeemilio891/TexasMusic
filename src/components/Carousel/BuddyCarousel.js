@@ -34,6 +34,16 @@ const BuddyCarousel = () => {
       ))}
       </div>
     </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#FFD700'}}> #3. Everyday</h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=GEE2TyadgEM'/>
+        <div className="accordion" >
+      {trueLoveWaysAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#FFD700" borderColor2="#FFD700" color='#FFD700' backgroundColor="#1B1A17" backgroundColorContent="#1B1A17" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
 
     
   </Carousel>

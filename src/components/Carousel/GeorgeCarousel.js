@@ -9,7 +9,7 @@ let color = '#189AB4'
 const GeorgeCarousel = () => {
   return (
       <>
-    <h1 className='selenah1' style={{color:'#7380A2'}}>#2 George Strait</h1>
+    <h1 className='selenah1' style={{color:'#7380A2'}}>#6 George Strait</h1>
     <h2 className='selenah2' style={{color:'#9B9BA1'}}> </h2>
 
   <Carousel>
