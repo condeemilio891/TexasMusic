@@ -8,8 +8,8 @@ import { blueVelvetAccordianData,alwaysOnMyMindAccordianData,clementineTreeAccor
 const SahadCarousel = () => {
   return (
       <>
-    <h1 className='selenah1' style={{color:'#D4F1F4'}}>Featured Daniel Sahad</h1>
-    <h2 className='selenah2' style={{color:'#D4F1F4'}}> Daniel Sahad's unique, soulful music demonstrated why 
+    <h1 className='selenah1' style={{color:'#189AB4'}}>Featured Daniel Sahad</h1>
+    <h2 className='selenah2' style={{color:'#c9c19f'}}> Daniel Sahad's unique, soulful music demonstrated why 
     the Black Pumas chose Nane as their protégé.
     Sahad has range: In his ability to falseto, In his style and in the diversity of emotions he makes you feel.
     
@@ -23,7 +23,7 @@ const SahadCarousel = () => {
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=oduElbJDfHw'/>
         <div className="accordion" style={{color:'#D4F1F4'}} >
       {clementineTreeAccordianData.map(({ title, content }) => (
-        <Accordion style={{color:'#D4F1F4'}} title={title} content={content} />
+        <Accordion style={{color:'#D4F1F4'}} borderColor="#c9c19f" borderColor2="#630330" color="#b8336a" backgroundColorContent="#acacde" backgroundColor="#acacde" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -33,17 +33,17 @@ const SahadCarousel = () => {
           <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=uG1onm9JXU0'/>
           <div className="accordion" style={{color:'#D4F1F4'}} >
         {blueVelvetAccordianData.map(({ title, content }) => (
-          <Accordion style={{color:'#D4F1F4'}} title={title} content={content} />
+          <Accordion style={{color:'#D4F1F4'}} borderColor="#c9c19f" borderColor2="#630330" color="#b8336a" backgroundColorContent="#acacde" backgroundColor="#acacde" title={title} content={content} />
         ))}
         </div>
       </CarouselItem>
       <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#189AB4'}}> #3. Always on my Mind </h3>
+      <h3 className='selenah6' style={{color:'#189AB4'}}> #. Always on my Mind </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=buTfqkL2W04'/>
         <div className="accordion" style={{color:'#D4F1F4'}} >
       {alwaysOnMyMindAccordianData.map(({ title, content }) => (
-        <Accordion style={{color:'#D4F1F4'}} title={title} content={content} />
+        <Accordion style={{color:'#D4F1F4'}} borderColor="#c9c19f" borderColor2="#630330" color="#b8336a" backgroundColorContent="#acacde" backgroundColor="#acacde" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>

@@ -14,7 +14,7 @@ export const myChurchAccordionData = [
     {
       title: 'Description',
       content: `My Church, as the name suggests, contains heavy elements of gospel and soul. 
-                The song demonstrates the importance of redemtion and forgiveness as taught in church`
+                `
     },
     {
       title: 'Lyrics',

@@ -11,8 +11,7 @@ export const blueVelvetAccordianData = [
       content: `
       In the own bands words "
       'Blue Velvet' is about not taking yourself too seriously, having fun, and coming together. 
-      Don't let peoples opinions keep you captive." True to their word this song makes even
-       Dirty 6th sound like a good time. 
+      Don't let peoples opinions keep you captive." 
       `
     },
     {
@@ -156,8 +155,7 @@ export const blueVelvetAccordianData = [
     {
       title: 'Description',
       content: ` "Sweet and sour as the fruit, but filled with overwhelming power on each extreme. This is Nané's newest powerhouse single." - Where the Music Meets
-      I agree with this. The finesse and the delicacy of Sahads Voice at the beginning of the song comes at no cost to Sahads emotion. Like growing a Clementine tree
-      it stats delicate and nurturing but grows into something beautiful. 
+
        
       `
     },

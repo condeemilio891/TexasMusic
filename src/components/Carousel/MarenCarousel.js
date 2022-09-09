@@ -5,6 +5,7 @@ import Accordion from '../Accordion/Accordion'
 import { myChurchAccordionData } from '../utils/marenContent'
 
 
+let color = '#189AB4'
 const MarenCarousel = () => {
   return (
       <>
@@ -17,9 +18,9 @@ const MarenCarousel = () => {
       
         <h3 className='selenah6' style={{color:'#189AB4'}}> #1. My Church </h3>
           <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=MiDJOrOFu1k&ab_channel=MarenMorrisVEVO'/>
-          <div className="accordion" style={{color:'#D4F1F4'}} >
+          <div className="accordion" >
         {myChurchAccordionData.map(({ title, content }) => (
-          <Accordion style={{color:'#D4F1F4'}} title={title} content={content} />
+          <Accordion borderColor="#189AB4" borderColor2="#189AB4" backgroundColor="#D4F1F4" backgroundColorContent="#D4F1F4" color="#189AB4" title={title} content={content} />
         ))}
         </div>
       </CarouselItem>
