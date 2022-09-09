@@ -23,3 +23,17 @@ section{
 #backgroundHolly{
   background-image: url("./Assets/Images/buddyBackground.webp");
 }
+
+#backgroundDRI{
+  background-image:url("./Assets/Images/DRIBackground.jpg")
+}
+
+#backgroundStevie{
+  background-image: url("./Assets/Images/StevieRaybackground.jpg");
+}
+#backgroundGeorge{
+  background-image: url("./Assets/Images/GeorgeBackground.jpg");
+}
+#backgroundBigJade{
+  background-image: url("./Assets/Images/BigJadebackground.jpeg");
+}
