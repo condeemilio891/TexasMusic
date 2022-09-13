@@ -9,9 +9,8 @@ const SahadCarousel = () => {
   return (
       <>
     <h1 className='selenah1' style={{color:'#189AB4'}}>Featured Daniel Sahad</h1>
-    <h2 className='selenah2' style={{color:'#c9c19f'}}> Daniel Sahad's unique, soulful music demonstrated why 
-    the Black Pumas chose Nane as their protégé.
-    Sahad has range: In his ability to falseto, In his style and in the diversity of emotions he makes you feel.
+    <h2 className='selenah2' style={{color:'#c9c19f'}}> Daniel 
+    Sahad manages to have range and hit extremes at no cost of balance. Sahad's voice is delicate yet powerful. Poignant and precise.  
     
      
    </h2>
@@ -19,7 +18,7 @@ const SahadCarousel = () => {
   <Carousel>
   <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#189AB4'}}> #1.Clementine Tree</h3>
+      <h3 className='selenah6' style={{color:'#189AB4'}}> Clementine Tree</h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=oduElbJDfHw'/>
         <div className="accordion" style={{color:'#D4F1F4'}} >
       {clementineTreeAccordianData.map(({ title, content }) => (
@@ -39,7 +38,7 @@ const SahadCarousel = () => {
       </CarouselItem>
       <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#189AB4'}}> #. Always on my Mind </h3>
+      <h3 className='selenah6' style={{color:'#189AB4'}}>  Always on my Mind </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=buTfqkL2W04'/>
         <div className="accordion" style={{color:'#D4F1F4'}} >
       {alwaysOnMyMindAccordianData.map(({ title, content }) => (

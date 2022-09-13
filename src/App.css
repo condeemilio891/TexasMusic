@@ -41,3 +41,9 @@ section{
 #backgroundBigJade{
   background-image: url("./Assets/Images/BigJadebackground.jpeg");
 }
+#backgroundJanisJoplin{
+  background-image: url("./Assets/Images/janisjoplinbackground.jpg")
+}
+#backgroundAGiantDog{
+  background-image: url("./Assets/Images/AGiantDog.jpg");
+}
