@@ -65,3 +65,465 @@ export const myChurchAccordionData = [
       Yeah I guess that's my church`
     }
   ];
+
+
+  export const iCouldUseALoveSongAccordionData = [
+    {
+      title: 'I Could Use a Love Song Quick Info',
+      content: `Released	March 27, 2017
+      Genre	Country
+      Length	3:15
+      Label	Columbia Nashville
+      Songwriter(s)	
+      Maren MorrisJimmy RobbinsLaura Veltz
+      Producer(s)	
+      busbeeMaren Morris`
+                
+    },
+    {
+      title: 'Description',
+      content: ` null 
+                `
+    },
+    {
+      title: 'Lyrics',
+      content: `Usually a drink will do the trick
+      Take the edge off quick, sittin' in the dark
+      With a shared cigarette
+      Seeing eye-to-eye, and heart-to-heart
+      But maybe I'm just gettin' old
+      Used to work but now it don't
+      A long gone drive
+      You know the kind where you take a turn
+      And you don't know why
+      But it clears your mind, a surefire cure
+      I need somethin' stronger
+      That'll last a little longer
+      I could use a love song
+      That takes me back, just like that
+      When it comes on
+      To a time when I wouldn't roll my eyes
+      At a guy and a girl
+      Who make it work in a world
+      That for me so far just seems to go so wrong
+      Yeah I could use, I could use a love song
+      I wish I didn't know so much
+      I peeked behind the curtain
+      Now that magic rush
+      Feels like a trick that isn't workin'
+      But I haven't lost all hope yet
+      And yeah it's hurtin' but it ain't dead
+      I could use a love song
+      That takes me back, just like that
+      When it comes on
+      To a time when I wouldn't roll my eyes
+      At a guy and a girl
+      Who make it work in a world
+      That for me so far just seems to go so wrong
+      Yeah I could use, I could use a love song
+      Give me a sign or a rhyme or a reason
+      Just somethin' that I can believe in
+      I could use a love song
+      That takes me back, just like that
+      When it comes on
+      To a time when I wouldn't roll my eyes
+      At a guy and a girl
+      Who make it work in a world
+      That for me so far just seems to go so wrong
+      Yeah I could use
+      Yeah I could use, I could use a love song
+      Ooh, ooh, ooh`
+    }
+  ];
+
+  export const theMiddleAccordionData = [
+    {
+      title: 'The Middle Quick Info',
+      content: `Released	23 January 2018
+      Genre	
+      Dance-pop
+      Length	3:04
+      Label	Interscope
+      Songwriter(s)	
+      Jordan JohnsonAnton ZaslavskiSarah AaronsKyle TrewarthaStefan JohnsonMichael TrewarthaMarcus Lomax
+      Producer(s)	
+      ZeddGreyThe Monsters and the Strangerz`
+                
+    },
+    {
+      title: 'Description',
+      content: ` null 
+                `
+    },
+    {
+      title: 'Lyrics',
+      content: `Take a seat, right over there, sat on the stairs
+      Stay or leave, the cabinets are bare, and I'm unaware
+      Of just how we got into this mess, got so aggressive
+      I know we meant all good intentions
+      So pull me closer
+      Why don't you pull me close?
+      Why don't you come on over?
+      I can't just let you go
+      Oh, baby, why don't you just meet me in the middle?
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle?
+      In the middle
+      Baby, why don't you just meet me in the middle?
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle?
+      In the middle
+      Oh, take a step back for a minute, into the kitchen
+      Floors are wet and taps are still running, dishes are broken
+      How did we get into this mess? Got so aggressive
+      I know we meant all good intentions
+      So pull me closer
+      Why don't you pull me close?
+      Why don't you come on over?
+      I can't just let you go
+      Oh, baby, why don't you just meet me in the middle?
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle?
+      In the middle
+      Looking at you, I can't lie
+      Just pouring out admission
+      Regardless of my objection, oh-oh
+      And it's not about my pride
+      I need you on my skin
+      Just come over, pull me in, just-
+      Oh, baby, why don't you just meet me in the middle?
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle?
+      In the middle, no, no
+      Baby, why don't you just meet me in the middle? Oh, yeah
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle? Oh
+      In the middle
+      Baby, why don't you just meet me in the middle, baby?
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle, middle?
+      In the middle, middle`
+    }
+  ];
+
+  export const theBonesAccordionData = [
+    {
+      title: 'The Middle Quick Info',
+      content: `Released	23 January 2018
+      Genre	
+      Dance-pop
+      Length	3:04
+      Label	Interscope
+      Songwriter(s)	
+      Jordan JohnsonAnton ZaslavskiSarah AaronsKyle TrewarthaStefan JohnsonMichael TrewarthaMarcus Lomax
+      Producer(s)	
+      ZeddGreyThe Monsters and the Strangerz`
+                
+    },
+    {
+      title: 'Description',
+      content: ` null 
+                `
+    },
+    {
+      title: 'Lyrics',
+      content: `Take a seat, right over there, sat on the stairs
+      Stay or leave, the cabinets are bare, and I'm unaware
+      Of just how we got into this mess, got so aggressive
+      I know we meant all good intentions
+      So pull me closer
+      Why don't you pull me close?
+      Why don't you come on over?
+      I can't just let you go
+      Oh, baby, why don't you just meet me in the middle?
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle?
+      In the middle
+      Baby, why don't you just meet me in the middle?
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle?
+      In the middle
+      Oh, take a step back for a minute, into the kitchen
+      Floors are wet and taps are still running, dishes are broken
+      How did we get into this mess? Got so aggressive
+      I know we meant all good intentions
+      So pull me closer
+      Why don't you pull me close?
+      Why don't you come on over?
+      I can't just let you go
+      Oh, baby, why don't you just meet me in the middle?
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle?
+      In the middle
+      Looking at you, I can't lie
+      Just pouring out admission
+      Regardless of my objection, oh-oh
+      And it's not about my pride
+      I need you on my skin
+      Just come over, pull me in, just-
+      Oh, baby, why don't you just meet me in the middle?
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle?
+      In the middle, no, no
+      Baby, why don't you just meet me in the middle? Oh, yeah
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle? Oh
+      In the middle
+      Baby, why don't you just meet me in the middle, baby?
+      I'm losing my mind just a little
+      So why don't you just meet me in the middle, middle?
+      In the middle, middle`
+    }
+  ];
+  export const girlAccordionData = [
+    {
+      title: 'Girl Quick Info',
+      content: `Released	March 8, 2019
+      Recorded	2017–2019
+      Genre	
+      Country popR&B[1][2][3]pop[4]
+      Length	46:59
+      Label	Columbia Nashville
+      Producer	
+      busbeeMaren MorrisGreg Kurstin[5]`
+                
+    },
+    {
+      title: 'Description',
+      content: ` null 
+                `
+    },
+    {
+      title: 'Lyrics',
+      content: `[Verse 1]
+      Man, this shit's unflatterin', all up in my head again
+      I don't feel myself right now, maybe I should just lay down
+      If vanity's my vitamin, well, I don't feel the difference
+      I don't like myself right now, gotta find a way out
+      
+      [Pre-Chorus 1]
+      What you feel is natural
+      But I don't wanna feel this anymore
+      Pick yourself up off the kitchen floor
+      What you waitin' for?
+      
+      
+      
+      [Chorus 1]
+      Girl, won't you stop your cryin'?
+      I know that you're tryin'
+      Everything's gonna be okay
+      Baby girl, don't you hang your head low
+      Don't you lose your halo
+      Everyone's gonna be okay
+      Baby girl
+      
+      [Verse 2]
+      Draw your comparisons, tryin' to find who's lesser than
+      I don't wanna wear your crown, there's enough to go around
+      
+      [Pre-Chorus 2]
+      What you feel is natural (Natural)
+      You don't gotta put up with this anymore (Anymore)
+      Pick yourself up off the kitchen floor (Oh)
+      Tell me what you waitin' for?
+      
+      [Chorus 1]
+      Girl, won't you stop your cryin'?
+      I know that you're tryin'
+      Everything's gonna be okay
+      Baby girl, don't you hang your head low
+      Don't you lose your halo
+      Everyone's gonna be okay
+      Baby girl
+      
+      
+      [Bridge]
+      Girl, don't hang your head low
+      Don't lose your halo, don't lose your halo
+      Girl, don't hang your head low
+      Don't lose your halo, oh
+      
+      [Chorus 2]
+      Girl, won't you stop your cryin'?
+      I know that you're tryin'
+      Everything's gonna be okay
+      Baby girl, don't you hang your head low
+      Don't you lose your halo
+      Everyone's gonna be okay
+      Baby girl, won't you stop your cryin'? (Won't you stop your cryin'?)
+      I know that you're tryin'
+      Everything's gonna be okay (Everything's gonna be okay)
+      Baby girl, don't you hang your head low
+      Don't you lose your halo
+      Everyone's gonna be okay (Everyone's gonna be okay)
+      Baby girl
+      
+      [Outro]
+      Everyone's gonna be okay, baby
+      Mm mm mm, mm mm mm
+      Hoo hoo hoo, hoo`
+    }
+  ];
+
+  export const richAccordionData = [
+    {
+      title: 'Rich Quick Info',
+      content: `Released	February 12, 2018
+      Genre	
+      Country reggae hip hop
+      Length	3:28
+      Label	Columbia Nashville
+      Songwriter(s)	
+      Maren MorrisJessie Jo DillonLaura Veltz
+      Producer(s)	
+      busbeeMaren Morris`
+                
+    },
+    {
+      title: 'Description',
+      content: ` Why don't you do right?? like some of the other men do.  
+                `
+    },
+    {
+      title: 'Lyrics',
+      content: `La-a-a-a-a-di-da
+      La-a-a-a-a-di-da
+      If I had a dollar every time that I swore you off
+      And a twenty every time that I picked up when you called
+      And a crisp new Benjamin for when you're here then gone again
+      And a dollar every time I was right about you after all
+      
+      Boy I'd be rich, head to toe Prada
+      Benz in the driveway, yacht in the water
+      Vegas at the Mandarin, high roller gambling
+      Me and Diddy drippin' diamonds like Marilyn
+      No I wouldn't be drowning in all your IOU's
+      Every promise you made me would have some real value
+      Cause all the little lies rolling off your lips
+      Is money falling from the sky...(ka-ching, ka-ching) shit I'd be rich
+      La-a-a-a-a-di-da
+      I'd be rich
+      La-a-a-a-a-di-da
+      
+      If I had a dime every time that you crossed my mind
+      Well I'd basically be sitting on a big ass pile of dimes
+      And all the times that you make my heart feel cheap
+      I might as well have won the lottery
+      All of this pain and me cursing your name
+      Would just turn into dollar signs
+      
+      Cause I'd be rich, head to toe Prada
+      Benz in the driveway, yacht in the water
+      Vegas at the Mandarin, high roller gambling
+      Me and Diddy drippin' diamonds like Marilyn
+      No I wouldn't be drowning in all your IOU's
+      Every promise you made me would have some real value
+      Cause all the little lies rolling off your lips
+      Is money falling from the sky...(ka-ching, ka-ching) shit I'd be rich
+      La-a-a-a-a-di-da
+      I'd be rich
+      La-a-a-a-a-di-da
+      
+      Told myself I wouldn't do this again
+      But how much you wanna bet I'mma do this again?
+      
+      Rich, head to toe Prada
+      Benz in the driveway, yacht in the water
+      Vegas at the Mandarin, high roller gambling
+      Me and Diddy drippin' diamonds like Marilyn
+      No I wouldn't be drowning in all your IOU's
+      Every promise you made me would have some real value
+      Cause all the little lies rolling off your lips
+      Is money falling from the sky...(ka-ching, ka-ching) shit I'd be rich
+      La-a-a-a-a-di-da
+      I'd be rich
+      La-a-a-a-a-di-da
+      
+      I'd be rich
+      La-a-a-a-a-di-da
+      I'd be rich
+      La-a-a-a-a-di-da`
+    }
+  ];
+
+  export const makeOutWithMeAccordionData = [
+    {
+      title: 'Rich Quick Info',
+      content: `Released	February 12, 2018
+      Genre	
+      Country reggae hip hop
+      Length	3:28
+      Label	Columbia Nashville
+      Songwriter(s)	
+      Maren MorrisJessie Jo DillonLaura Veltz
+      Producer(s)	
+      busbeeMaren Morris`
+                
+    },
+    {
+      title: 'Description',
+      content: ` Why don't you do right?? like some of the other men do.  
+                `
+    },
+    {
+      title: 'Lyrics',
+      content: `La-a-a-a-a-di-da
+      La-a-a-a-a-di-da
+      If I had a dollar every time that I swore you off
+      And a twenty every time that I picked up when you called
+      And a crisp new Benjamin for when you're here then gone again
+      And a dollar every time I was right about you after all
+      
+      Boy I'd be rich, head to toe Prada
+      Benz in the driveway, yacht in the water
+      Vegas at the Mandarin, high roller gambling
+      Me and Diddy drippin' diamonds like Marilyn
+      No I wouldn't be drowning in all your IOU's
+      Every promise you made me would have some real value
+      Cause all the little lies rolling off your lips
+      Is money falling from the sky...(ka-ching, ka-ching) shit I'd be rich
+      La-a-a-a-a-di-da
+      I'd be rich
+      La-a-a-a-a-di-da
+      
+      If I had a dime every time that you crossed my mind
+      Well I'd basically be sitting on a big ass pile of dimes
+      And all the times that you make my heart feel cheap
+      I might as well have won the lottery
+      All of this pain and me cursing your name
+      Would just turn into dollar signs
+      
+      Cause I'd be rich, head to toe Prada
+      Benz in the driveway, yacht in the water
+      Vegas at the Mandarin, high roller gambling
+      Me and Diddy drippin' diamonds like Marilyn
+      No I wouldn't be drowning in all your IOU's
+      Every promise you made me would have some real value
+      Cause all the little lies rolling off your lips
+      Is money falling from the sky...(ka-ching, ka-ching) shit I'd be rich
+      La-a-a-a-a-di-da
+      I'd be rich
+      La-a-a-a-a-di-da
+      
+      Told myself I wouldn't do this again
+      But how much you wanna bet I'mma do this again?
+      
+      Rich, head to toe Prada
+      Benz in the driveway, yacht in the water
+      Vegas at the Mandarin, high roller gambling
+      Me and Diddy drippin' diamonds like Marilyn
+      No I wouldn't be drowning in all your IOU's
+      Every promise you made me would have some real value
+      Cause all the little lies rolling off your lips
+      Is money falling from the sky...(ka-ching, ka-ching) shit I'd be rich
+      La-a-a-a-a-di-da
+      I'd be rich
+      La-a-a-a-a-di-da
+      
+      I'd be rich
+      La-a-a-a-a-di-da
+      I'd be rich
+      La-a-a-a-a-di-da`
+    }
+  ];

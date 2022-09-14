@@ -23,11 +23,11 @@ const App = () => {
     <section id="backgroundBigJade">
       <BigJadeCarousel/>
     </section>
-    <section id ="backgroundMaren">
-      <MarenCarousel/>
-    </section>
     <section id="backgroundHolly">
       <BuddyCarousel/>
+    </section>
+    <section id ="backgroundMaren">
+      <MarenCarousel/>
     </section>
     <section id="backgroundDRI">
       <DRICarousel/>

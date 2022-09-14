@@ -9,8 +9,7 @@ export const blueVelvetAccordianData = [
     {
       title: 'Description',
       content: `
-      In the own bands words "
-      'Blue Velvet' is about not taking yourself too seriously, having fun, and coming together. 
+      In the own bands words " 'Blue Velvet' is about not taking yourself too seriously, having fun, and coming together. 
       Don't let peoples opinions keep you captive." 
       `
     },
@@ -104,7 +103,7 @@ export const blueVelvetAccordianData = [
     },
     {
       title: 'Description',
-      content: ` 'Always on my Mind' is a soulfun ballad about losing your mind at a romantic prospect. 
+      content: ` 'Always on my Mind'
        
       `
     },
