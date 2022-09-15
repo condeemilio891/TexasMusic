@@ -8,7 +8,7 @@ export const allGasNoBrakesAccordionData = [
     },
     {
       title: 'Description',
-      content: ` In 'All Gas no Brakes' Big Jade boasts about her focus and the inability of others to distract her. `
+      content: `'All Gas no Brakes' describes the race of life and how Big Jade is Winning. `
     },
     {
       title: 'Lyrics',
@@ -213,8 +213,7 @@ export const allGasNoBrakesAccordionData = [
     },
     {
       title: 'Description',
-      content: `The production in Pressed brings in the southern trap-like beat. While this beat is slower Big Jade's shows the ability to 
-      rap in a stocastic, slower style. `
+      content: `The production in 'Pressed' brings in the southern trap-like beat. `
     },
     {
       title: 'Lyrics',
@@ -293,8 +292,8 @@ export const allGasNoBrakesAccordionData = [
     },
     {
       title: 'Description',
-      content: `Get It shows another dimension to Big Jades rapping ability. The production appeals to a club-going audience that wants to dance while 
-      Big Jade's dense rap appeals to those who want to think and listen.`
+      content: `'Get It' shows another dimension to Big Jades rapping ability. The production and memorable chorus
+       appeal to a club going audience.`
     },
     {
       title: 'Lyrics',
@@ -369,6 +368,119 @@ export const allGasNoBrakesAccordionData = [
   ];
 
 
+  export const demGirldAccordionData = [
+    {
+      title: 'Dem Girls Quick Info',
+      content: `Artist: Big Jade
+      Featured artists: BeatKing, Erica Banks
+      Album: Pressure (Chopped & Screwed by Michael Watts)
+      Released: 2021
+      
+      `
+                
+    },
+    {
+      title: 'Description',
+      content: `The transitions in Big Jades verse occur right when the rhythm start to get repetitive.`
+    },
+    {
+      title: 'Lyrics',
+      content: `Yup, hold up bitch, ay
+      Hold up bitch, ay
+      Why yo' face so ugly?
+      Yeah, yeah
+      All the (man, BeatKing)
+      All the girls get down on the floor (come here bitch)
+      Bust it open, drop it down, touch your toes (come here bitch)
+      She got money, but she dance like a ho (drop it down)
+      Middle finger to a broke hating ho (to the ground, uh)
+      All the girls get down on the floor (come here bitch)
+      Bust it open, drop it down, touch your toes (come here bitch)
+      She got money, but she dance like a ho (drop it down)
+      Middle fingers to a broke hating ho (to the ground, uh) (ay, ay, ay)
+      I'm everything but a pussy (a pussy)
+      He begging cuz he want the pussy (ay)
+      If it's a problem, I promise I check it
+      This shit gon' all crazy, I get disrespected
+      Smoking on Lexus, pull up with a Lexus
+      Coming direct I ain't sending no message
+      'Cause we got some money, we turnt and we flexing
+      Selling the bundles got tired of finessing, ay
+      Nigga on my line, lying talking 'bout he want me (ay, ay)
+      I can not deal with these niggas
+      They cheating, and I act a donkey (ay, ay, ay)
+      Look, other bitches are irrelevant (irrelevant)
+      Pressure, I promise I'm Heaven-sent (Heaven-sent)
+      He wanna sing to the pussy
+      I told him, "Falsetto away, baby don't play"
+      Get on your knees baby like you praying
+      I gotta go I can't play like I'm staying
+      We got the tools and glocks, I got the drop for the block
+      Told him pull up to the spot
+      Hating on me, I got money for real (for real)
+      Run it up that's how I live
+      I get the bag at the crib, honestly, I cannot chill (ay)
+      Really I been in the field
+      All the girls get down on the floor (come here bitch)
+      Bust it open, drop it down, touch your toes (come here bitch)
+      She got money, but she dance like a ho (drop it down)
+      Middle finger to a broke hating ho (to the ground, uh)
+      All the girls get down on the floor (come here bitch)
+      Bust it open, drop it down, touch your toes (come here bitch)
+      She got money, but she dance like a ho (drop it down)
+      Middle fingers to a broke hating ho (to the ground, uh)
+      All in the club and we turning it out in this ho (all in the club)
+      We got shooters for real and we lit
+      If you ain't got money and ho if you broke
+      Then ho get out my way while I'm talking my shit
+      'Cause I been on they ass and I been in the cut, bitch (cut)
+      No you ain't getting no pass (pussy)
+      He ain't got dollars and he ain't been poppin'?
+      Shit, no you ain't getting no ass, uh
+      Slid on this ho with no breather (slid)
+      Turn me up quick in this ho for no reason
+      I'm fucking with Tiff but she fucking with Keisha
+      Don't fuck with no ho who be lying and cheating (hell nah)
+      He want a verse and that come with a fee (he want a verse)
+      Bought me a purse and he bought me a Jeep (bought me a Jeep)
+      And he give me 10k to go put in my teeth
+      Then I'm running this ho while I'm running on E (uh)
+      They're like, "Baby how you do that?" (How you do that?)
+      I'm like, "Scoot back"
+      He gon' spin it, get his boo back
+      She gon toot that
+      She a ho, got a ass on her
+      She got cash on her (she got cash on her, uh)
+      Make a movie, throw them bands on her
+      Put yo' hands on her (ay, uh)
+      All the girls get down on the floor (come here bitch)
+      Bust it open, drop it down, touch your toes (come here bitch)
+      She got money, but she dance like a ho (drop it down)
+      Middle finger to a broke hating ho (to the ground, uh)
+      All the girls get down on the floor (come here bitch)
+      Bust it open, drop it down, touch your toes (come here bitch)
+      She got money, but she dance like a ho (drop it down)
+      Middle fingers to a broke hating ho (to the ground, uh)`
+    }
+  ];
+
+  export const superGremlinFreeStyleAccordionData = [
+    {
+      title: 'Big Jade Freestyle Quick Info',
+      content: `Artist: Big Jade
+      
+      `
+                
+    },
+    {
+      title: 'Description',
+      content: `Big Jade Freestyle `
+    },
+    {
+      title: 'Lyrics',
+      content: `Freestyle`
+    }
+  ];
   export const jadeFreestyleAccordionData = [
     {
       title: 'Big Jade Freestyle Quick Info',

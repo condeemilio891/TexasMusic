@@ -2,7 +2,8 @@ import React, {useState,useEffect} from 'react'
 import Carousel, {CarouselItem} from './Carousel'
 import ReactPlayer from 'react-player'
 import Accordion from '../Accordion/Accordion'
-import { allGasNoBrakesAccordionData,jadeWinsAccordionData,pressedAccordionData,getItAccordionData } from '../utils/bigJadeContent'
+import { allGasNoBrakesAccordionData,jadeWinsAccordionData,pressedAccordionData,getItAccordionData,demGirldAccordionData,
+superGremlinFreeStyleAccordionData } from '../utils/bigJadeContent'
 
 
 
@@ -10,8 +11,7 @@ const BigJadeCarousel = () => {
   return (
       <>
     <h1 className='selenah1' style={{color:'#59E255'}}> Big Jade</h1>
-    <h2 className='selenah2' style={{color:'#59E255'}}>One thing that Big Jade brings to the table is authentic individuality.
-    Jade Refused to sign with rapper Offset after being told to get plastic surgery.</h2>
+    <h2 className='selenah2' style={{color:'#59E255'}}>The confidence of Big Jade's rap hits hard. </h2>
 
   <Carousel>
   <CarouselItem>
@@ -66,24 +66,36 @@ const BigJadeCarousel = () => {
     </CarouselItem>
     <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#59E255'}}> No Hook </h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=YBBe5aNL-1I'/>
+      <h3 className='selenah6' style={{color:'#59E255'}}> Dem Girlz </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=H77DtT9MqAE'/>
         <div className="accordion" >
-      {allGasNoBrakesAccordionData.map(({ title, content }) => (
+      {demGirldAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#59E255" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
     <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#59E255'}}> Gucci Bag </h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=kEQLm4g9kFc'/>
+      <h3 className='selenah6' style={{color:'#59E255'}}>Super Gremlin Freestyle </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=s4UdX2QY-XU'/>
+        <div className="accordion" >
+      {superGremlinFreeStyleAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#59E255" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#59E255'}}> I'll Tell You What </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=ibLLUVUXzzY'/>
         <div className="accordion" >
       {allGasNoBrakesAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#59E255" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
+
 
 
 

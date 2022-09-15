@@ -9,13 +9,13 @@ let color = '#189AB4'
 const StevieCarousel = () => {
   return (
       <>
-    <h1 className='selenah1' style={{color:'#ae647f'}}>#5 Stevie Ray Vaughan</h1>
+    <h1 className='selenah1' style={{color:'#ae647f'}}>Stevie Ray Vaughan</h1>
     <h2 className='selenah2' style={{color:'#ae647f'}}> Guitar Afficianado Stevie Ray Vaughan's jazzy and funky blues guitar hit like heavy metal while creating a psychedelic atmosphere similar to that of Jimi.</h2>
 
   <Carousel>
       <CarouselItem>
       
-        <h3 className='selenah6' style={{color:'#ae647f'}}> #1. Love Struck Baby </h3>
+        <h3 className='selenah6' style={{color:'#ae647f'}}> Love Struck Baby </h3>
           <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=GlR4HYaCI1M&ab_channel=stevierayvaughnVEVO'/>
           <div className="accordion" >
         {loveStruckBabyAccordionData.map(({ title, content }) => (
@@ -26,7 +26,7 @@ const StevieCarousel = () => {
 
       <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#ae647f'}}> #1. Pride And Joy </h3>
+      <h3 className='selenah6' style={{color:'#ae647f'}}> Pride And Joy </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=esVMLLL6Gg4&ab_channel=stevierayvaughnVEVO'/>
         <div className="accordion" >
       {prideAndJoyAccordionData.map(({ title, content }) => (
@@ -34,6 +34,17 @@ const StevieCarousel = () => {
       ))}
       </div>
     </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#ae647f'}}> Voodoo Child </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=nuI5YPaZXIQ'/>
+        <div className="accordion" >
+      {prideAndJoyAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#701462" borderColor2="#701462" backgroundColor="#b9a6af" backgroundColorContent="#b9a6af" color="#701462"  title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+ 
 
     
   </Carousel>

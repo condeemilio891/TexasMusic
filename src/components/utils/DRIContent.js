@@ -357,7 +357,7 @@ export const trashardAccordionData = [
   ];
   export const hookedDoomAccordionData = [
     {
-      title: 'At Dooms Gate Quick Info',
+      title: 'At Dooms Gate (1989) Quick Info',
       content: `Released	October 10, 1989
       Recorded	August–September 1989
       Studio	Cornerstone (Chatsworth, California)
@@ -371,7 +371,7 @@ export const trashardAccordionData = [
     },
     {
       title: 'Description',
-      content: `"At Dooms Gate" takes the guitar riff from DRI's "hooked" song.`
+      content: `"At Dooms Gate" (both the new and old version) took inspiration from the guitar riff from DRI's "hooked" song.`
     },
     {
       title: 'Lyrics',

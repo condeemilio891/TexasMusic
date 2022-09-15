@@ -10,8 +10,9 @@ const DRICarousel = () => {
   return (
       <>
     <h1 className='selenah1' style={{color:'#7c0000'}}> Dirty Rotten Imbeciles</h1>
-    <h2 className='selenah2' style={{color:'#ba0000'}}>DRI's style, known as crossover, switchs between the tight, stripped down and fast paced instrumentation of the Punk Genre and at times slows down to long distorted metal riffs.
-      The adrenaline DRI invokes inspired the GTA-V and DOOM soundtracks and many moshpits.</h2>
+    <h2 className='selenah2' style={{color:'#ba0000'}}>DRI's style, known as crossover, switchs between the tight, 
+    stripped down and fast paced instrumentation of the Punk Genre and at times slows down to long distorted metal riffs. The Transitions are seemless. 
+      The adrenaline DRI invokes makes for a great moshpit and inspired the GTA-V and DOOM soundtracks.</h2>
 
   <Carousel>
   <CarouselItem>
@@ -77,7 +78,7 @@ const DRICarousel = () => {
     </CarouselItem>
     <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#f80000'}}> At Doom's Gate. </h3>
+      <h3 className='selenah6' style={{color:'#f80000'}}> At Doom's Gate by e1m1 </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=YNQ5wMc7LZ8'/>
         <div className="accordion" >
       {hookedDoomAccordionData.map(({ title, content }) => (

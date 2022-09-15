@@ -5,7 +5,7 @@ import Accordion from '../Accordion/Accordion'
 import { thatWillBeTheDayAccordionData,trueLoveWaysAccordionData,
   heartbeatAccordionData,itDoesntMatterAnymoreAccordionData,sendMeSomeLovinAccordionData,
   cryingWaitingHopingAccordionData, everydayAccordionData,blueSuedeShoesAccordionData,
-  valleyOfTearsAccordionData} from '../utils/buddyContent'
+  valleyOfTearsAccordionData,realWildChildAccordionData} from '../utils/buddyContent'
 
 
 const BuddyCarousel = () => {
@@ -103,6 +103,16 @@ const BuddyCarousel = () => {
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=XmgIqnmgMHg'/>
         <div className="accordion" >
       {valleyOfTearsAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#FFD700" borderColor2="#FFD700" color='#FFD700' backgroundColor="#1B1A17" backgroundColorContent="#1B1A17" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#FFD700'}}> Real Wild Child</h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=XmgIqnmgMHg'/>
+        <div className="accordion" >
+      {realWildChildAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#FFD700" borderColor2="#FFD700" color='#FFD700' backgroundColor="#1B1A17" backgroundColorContent="#1B1A17" title={title} content={content} />
       ))}
       </div>

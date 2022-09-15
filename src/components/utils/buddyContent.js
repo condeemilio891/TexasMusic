@@ -383,6 +383,7 @@ export const thatWillBeTheDayAccordionData = [
       You do anything but lay off of my blue suede shoes`
     }
   ];
+
   export const valleyOfTearsAccordionData = [
     {
       title: 'Valley of Tears Quick Info',
@@ -397,6 +398,45 @@ export const thatWillBeTheDayAccordionData = [
     {
       title: 'Description',
       content: ` Another cover that Buddy nailed the essence of. Sentimental and Cathardic.   
+     `
+    },
+    {
+      title: 'Lyrics',
+      content: `I want you to take me
+      Where I belong
+      Where hearts have been broken
+      With a kiss and a song
+      Spend the rest of my days, dear
+      Without any cares
+      Everyone understands me
+      In the Valley of Tears
+      Soft words have been spoken
+      So sweet and low
+      But my mind is made up
+      And I must go
+      Spend the rest of my days, dear
+      Without any cares
+      Everyone understands me
+      In the Valley of Tears`
+    }
+  ];
+  export const realWildChildAccordionData = [
+    {
+      title: 'Real Wild Child Quick Info',
+      content: `Released	5 July 1958
+      Recorded	1958
+      Genre	Rock and roll
+      Length	2:30
+      Label	
+      LeedonFestival
+      Songwriter(s)	
+      Johnny GreenanJohnny O'KeefeDave OwensTony Withers`
+                
+    },
+    {
+      title: 'Description',
+      content: ` Originally an Australian Rock song called 'Wild One'.
+       I Can't tell if Buddy is being sarcastic or not but it works with or without a sarcastic lense.  
      `
     },
     {

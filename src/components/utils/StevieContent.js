@@ -104,3 +104,68 @@ export const loveStruckBabyAccordionData = [
       I'm her little lover boy`
     }
   ];
+
+  export const voodooChildAccordionData = [
+    {
+      title: ' Voodoo Child  Quick Info',
+      content: `B-side	
+      "Hey Joe"
+      "All Along the Watchtower"
+      Released	
+      October 16, 1968 (US album)
+      October 25, 1968 (UK album)
+      October 23, 1970 (UK single)
+      Recorded	May 2, 1968
+      Studio	Record Plant, New York City
+      Genre	
+      Psychedelic rock blues rock hard rock 
+      Length	5:08 
+      Label	
+      Reprise (US album)Track (UK album & single)
+      Songwriter(s)	Jimi Hendrix
+      Producer(s)	Chas Chandler`
+                
+    },
+    {
+      title: 'Description',
+      content: `Nailing Jimi, not only technicly but stylisticly, clearly shows mastery of the guitar. `
+    },
+    {
+      title: 'Lyrics',
+      content: `Well, you've heard about love givin' sight to the blind
+      My baby lovin' cause the sun to shine
+      She my sweet little thing
+      She my pride and joy
+      She my sweet little baby
+      I'm her little lover boy
+      Yeah, I love my baby
+      Heart and soul
+      Love like ours won't never grow old
+      She my sweet little thing
+      She my pride and joy
+      She my sweet little baby
+      I'm her little lover boy
+      Yeah, I love my Lenee
+      She long and lean
+      You mess with her
+      You'll see a man get mean
+      She my sweet little thing
+      She my pride and joy
+      She my sweet little baby
+      I'm her little lover boy
+      Well, I love my baby
+      Like the finest wine
+      Stick with her until the end of time
+      She my sweet little thing
+      She my pride and joy
+      She my sweet little baby
+      I'm her little lover boy
+      Yeah, I love my baby
+      Heart and soul
+      Love like ours won't never grow old
+      She my sweet little thing
+      She my pride and joy
+      She my sweet little baby
+      I'm her little lover boy`
+    }
+  ];
