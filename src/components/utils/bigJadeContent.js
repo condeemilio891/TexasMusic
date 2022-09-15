@@ -481,6 +481,59 @@ export const allGasNoBrakesAccordionData = [
       content: `Freestyle`
     }
   ];
+
+  export const illTellYouWhatAccordionData = [
+    {
+      title: 'Ill Tell You What Quick Info',
+      content: `Artist: Big Jade
+      
+      `
+                
+    },
+    {
+      title: 'Description',
+      content: `An Homage to Texas. It is true most Texans Mosey but the ones who choose to hustle go hard in the paint. Big Jade is a
+      good example of this.`
+    },
+    {
+      title: 'Lyrics',
+      content: `They upset 'cause I'm that bitch, no lie despite of my location
+      Whether I'm in county or in Texas stressin' stuff on my probation
+      Chasin' dreams and chasin' money, we ain't never livin' basic
+      Watch my brother protest on the internet 'cause they was bein' racist
+      Wearin' masks to drop a bag inside the store, that shit is crazy
+      Man dead, he pinned him down like by his throat, that shit is crazy
+      Lotta hoes ain't in they bag, they in they bed, these bitches lazy
+      Gotta watch your circle, everybody ain't happy for you, niggas shady
+      Moms think I'm blinded by the money, I see clearly now
+      Got a couple visions I see clearly, need some business now
+      Why nobody understand, gotta help, tryna understand
+      Get it by any means necessary, never put your trust in a man
+      Gotta put all your trust in God
+      'Cause a lot of people, they be movin' fraud
+      Jump off the porch and get out the yard
+      Make sure your team be on one accord
+      Stressin' lately, feel kinda down
+      But my money up, so I ain't never down
+      Don't give a fuck who don't come around
+      Hated on me, they silent now
+      I'm pullin' up with them bands
+      Get off the plane and go party with friends
+      We tryna get to them ends
+      All my life, follow my mama 'cause been settin' trends
+      Promise we gon' get it in
+      Fam be on some fake shit
+      Watch and learn and don't say shit
+      Grind hard on some ape shit
+      So I'm pullin' up on some late shit
+      Whole team held me down, I don't know about yours
+      So I hustle hard so my whole team can be in and out of them stores
+      Hood rich and we flashy
+      I'm NFO, so don't ask me
+      Never Fall Off actually
+      Boss niggas gon' harass me`
+    }
+  ];
   export const jadeFreestyleAccordionData = [
     {
       title: 'Big Jade Freestyle Quick Info',

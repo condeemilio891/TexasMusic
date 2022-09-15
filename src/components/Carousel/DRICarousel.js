@@ -3,7 +3,8 @@ import Carousel, {CarouselItem} from './Carousel'
 import ReactPlayer from 'react-player'
 import Accordion from '../Accordion/Accordion'
 import {trashardAccordionData, hookedDoomAccordionData,KillTheWordsAccordionData,iDontNeedSocietyAccordionData,acidRainAccordionData,
-suitAndTieGuyAccordionData,beneathTheWheelAccordionData,} from "../utils/DRIContent"
+suitAndTieGuyAccordionData,beneathTheWheelAccordionData,violentPacificationAccordionData,idRatherBeSleepingAccordionData,
+asSeenOnTVAccordionData} from "../utils/DRIContent"
 
 
 const DRICarousel = () => {
@@ -49,7 +50,7 @@ const DRICarousel = () => {
     <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#f80000'}}> I Dont Need Society </h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=hr6IXvxCLB4'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=farFbNMNJm8'/>
         <div className="accordion" >
       {iDontNeedSocietyAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#f80000" borderColor2="#f80000" backgroundColor="#7c0000" backgroundColorContent="#000000" color="#f80000" title={title} content={content} />
@@ -82,6 +83,36 @@ const DRICarousel = () => {
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=YNQ5wMc7LZ8'/>
         <div className="accordion" >
       {hookedDoomAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#f80000" borderColor2="#f80000" backgroundColor="#7c0000" backgroundColorContent="#000000" color="#f80000" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#f80000'}}> Violent Pacification </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=o71tSJ0aYXM'/>
+        <div className="accordion" >
+      {violentPacificationAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#f80000" borderColor2="#f80000" backgroundColor="#7c0000" backgroundColorContent="#000000" color="#f80000" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#f80000'}}> Id Rather Be Sleeping </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=hYJVqlNNrAE'/>
+        <div className="accordion" >
+      {idRatherBeSleepingAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#f80000" borderColor2="#f80000" backgroundColor="#7c0000" backgroundColorContent="#000000" color="#f80000" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#f80000'}}> As Seen on TV</h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=Bj2gnAug_i0'/>
+        <div className="accordion" >
+      {asSeenOnTVAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#f80000" borderColor2="#f80000" backgroundColor="#7c0000" backgroundColorContent="#000000" color="#f80000" title={title} content={content} />
       ))}
       </div>

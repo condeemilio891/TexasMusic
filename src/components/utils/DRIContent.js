@@ -355,6 +355,90 @@ export const trashardAccordionData = [
       Catch up in the end`
     }
   ];
+
+  export const violentPacificationAccordionData = [
+    {
+      title: 'Violent Pacification Quick Info',
+      content: `Genre: Thrashcore, hardcore punk
+      Recorded: November 1983
+      Length: 5:41
+      Released: 1984`
+                
+    },
+    {
+      title: 'Description',
+      content: `The other side of the Hegemonic stability theory coin`
+    },
+    {
+      title: 'Lyrics',
+      content: `Forces united the choice is yours
+      Forces united the choice is yours
+      Forces united the choice is yours
+      Forces united the choice is yours
+      Violent pacification
+      Violent pacification
+      Forces united the choice is yours
+      Forces united the choice is yours
+      Forces united the choice is yours
+      Forces united the choice is yours
+      Violent pacification
+      Violent pacification
+      Violent pacification!
+      Violent pacification!
+      Violent pacification!
+      We'll force you to be nice to each other
+      Kill you before you kill each other
+      Violent pacification!
+      Violent pacification!
+      Violent pacification!
+      Violent pacification!
+      We'll force you to be nice to each other
+      Kill you before you kill each other
+      Violent pacification!
+      Violent pacification!`
+    }
+  ];
+  export const idRatherBeSleepingAccordionData = [
+    {
+      title: 'Id Rather be Sleeping Quick Info',
+      content: `Album: Dealing with It!
+      Artist: D.R.I.
+      Release year: 1985
+      Duration: 1:10
+      Genre: Crossover Thrash`
+                
+    },
+    {
+      title: 'Description',
+      content: `In one minute, "I'd Rather be Sleeping" spits out many mosh-pit invoking riffs while transition seamlessly. The variable pacing
+      appeals to many.   `
+    },
+    {
+      title: 'Lyrics',
+      content: `From sun-up to sun-down
+      Decisions make my head spin round
+      Make me drunk, sick and tired
+      Keep me up 'till I retire
+      And while I could be out bar hopping
+      Meat market, rocker-chick shopping
+      Out there, chasing my dick
+      In it's never-ending search for chicks
+      But, I'd rather be sleeping
+      In my bed, crashed out
+      A slice of death, wrapped up
+      All in wool, passed out
+      Drunk, you stupid fool
+      No more waking hassles
+      Weary of the daily battles
+      So on my bed, I lay curled
+      A "could be" man of the world
+      But, I'd rather be sleeping
+      In my bed, crashed out
+      A slice of death, wrapped up
+      All in wool, passed out
+      Drunk, you stupid fool`
+    }
+  ];
   export const hookedDoomAccordionData = [
     {
       title: 'At Dooms Gate (1989) Quick Info',
@@ -376,5 +460,66 @@ export const trashardAccordionData = [
     {
       title: 'Lyrics',
       content: ``
+    }
+  ];
+
+  export const asSeenOnTVAccordionData = [
+    {
+      title: 'As Seen On T.V. Quick Info',
+      content: `Artist: Dirty Rotten Imbeciles
+      Album: But Wait... There's More!
+      Released: 2016`
+                
+    },
+    {
+      title: 'Description',
+      content: `A Punk styled criticism of our consumer culture.`
+    },
+    {
+      title: 'Lyrics',
+      content: `[Intro]
+      As seen on TV
+      As seen on TV
+      
+      [Verse 1]
+      High-powered, chrome-plated American dream
+      Multi-speed, turbo-charged, high capacity
+      Ergonomic, economic, realistic feel
+      Jumbo-sized, made with high-carbon steel
+      
+      [Refrain]
+      As seen on TV
+      As seen on TV
+      
+      
+      [Verse 2]
+      Comes in spring colors, this is something you need
+      Buy two this week, and we throw one in for free
+      Rust resistant, shatterproof, one day only deal
+      Customized, proven to boost sex appeal
+      
+      [Refrain]
+      As seen on TV
+      As seen on TV
+      
+      [Verse 1]
+      High-powered, chrome-plated American dream
+      Multi-speed, turbo-charged, high capacity
+      Ergonomic, economic, realistic feel
+      Jumbo-sized, made with high-carbon steel
+      
+      [Refrain]
+      As seen on TV
+      As seen on TV
+      
+      [Verse 2]
+      Comes in spring colors, this is something you need
+      Buy two this week, and we throw one in for free
+      Rust resistant, shatterproof, one day only deal
+      Customized, proven to boost sex appeal
+      
+      
+      [Outro]
+      As seen on TV`
     }
   ];

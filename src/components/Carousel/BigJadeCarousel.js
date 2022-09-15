@@ -3,7 +3,7 @@ import Carousel, {CarouselItem} from './Carousel'
 import ReactPlayer from 'react-player'
 import Accordion from '../Accordion/Accordion'
 import { allGasNoBrakesAccordionData,jadeWinsAccordionData,pressedAccordionData,getItAccordionData,demGirldAccordionData,
-superGremlinFreeStyleAccordionData } from '../utils/bigJadeContent'
+superGremlinFreeStyleAccordionData,illTellYouWhatAccordionData } from '../utils/bigJadeContent'
 
 
 
@@ -90,7 +90,7 @@ const BigJadeCarousel = () => {
       <h3 className='selenah6' style={{color:'#59E255'}}> I'll Tell You What </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=ibLLUVUXzzY'/>
         <div className="accordion" >
-      {allGasNoBrakesAccordionData.map(({ title, content }) => (
+      {illTellYouWhatAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#59E255" title={title} content={content} />
       ))}
       </div>
