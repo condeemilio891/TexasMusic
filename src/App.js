@@ -1,5 +1,6 @@
 import React from 'react'
 import "./App.css"
+import Title from './components/Title/Title'
 import SelenaCarousel from './components/Carousel/SelenaCarousel'
 import MarenCarousel from "./components/Carousel/MarenCarousel"
 import BuddyCarousel from './components/Carousel/BuddyCarousel'
@@ -14,6 +15,9 @@ import JanisCarousel from './components/Carousel/JanisCarousel'
 const App = () => {
   return (
     <>
+    
+    <Title/>
+    
     <section id="backgroundSahad">
     <SahadCarousel/>
     </section>

@@ -435,8 +435,8 @@ export const thatWillBeTheDayAccordionData = [
     },
     {
       title: 'Description',
-      content: ` Originally an Australian Rock song called 'Wild One'.
-       I Can't tell if Buddy is being sarcastic or not but it works with or without a sarcastic lense.  
+      content: ` Originally an Australian Rock song called 'Wild One'. Buddy Plays guitar and backs vocals here.
+       I Can't tell if they are being sarcastic or not but it works with or without a sarcastic lense.  
      `
     },
     {

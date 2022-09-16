@@ -10,7 +10,7 @@ const SahadCarousel = () => {
       <>
     <h1 className='selenah1' style={{color:'#189AB4'}}>Featured Daniel Sahad</h1>
     <h2 className='selenah2' style={{color:'#c9c19f'}}> Daniel 
-    Sahad has range. His Prince like falseto and ecclectic style and manages to hit extremes at no cost of balance. 
+    Sahad has range. His Prince like falseto and ecclectic style manage to hit extremes at no cost of balance. 
     Sahad's voice is delicate yet powerful. Poignant and precise.  
     
      

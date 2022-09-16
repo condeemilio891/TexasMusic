@@ -30,21 +30,6 @@ const Accordion = ({title,content,backgroundColor,backgroundColorContent,color,b
     </React.Fragment>
 
 
-
-
-    // <React.Fragment>
-    //   <div className="accordion">
-    //     <div className="accordion-item">
-    //       <div className="accordion-title" 
-    //       onClick={() => setIsActive(!isActive)}>
-    //         <div>{title}</div>
-    //   <div>{isActive ? '-' : '+'}</div>
-    //       </div>
-    //       {isActive && <div className="accordion-content" 
-    //       >{content}</div>}
-    //     </div>
-    //   </div>
-    // </React.Fragment>
   );
 };
 

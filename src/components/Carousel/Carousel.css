@@ -13,7 +13,7 @@
     align-items: center;
     justify-content: center;
     height: auto;
-    /* color:#fff; */
+
     flex-wrap: wrap;
 }
 
@@ -24,14 +24,18 @@
     z-index: 2;
     cursor: pointer;
     flex-wrap: wrap;
+   
     
 }
 
 .indicators >button{
     margin:5px;
-    color:white;
-    background-color: black;
+    color:black;
+    background-color: white;
     cursor: pointer;
+    border-radius: 50%;
+    height: 3rem;
+    width: 3rem;
     }
 
     @media screen and (max-width: 480px){
@@ -44,8 +48,8 @@
 
 
 .indicators > button.active{
-    background-color: #a1251b;
-    color: black;
+    background-color: black;
+    color: white;
 }
 
 

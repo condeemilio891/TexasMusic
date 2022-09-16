@@ -198,3 +198,59 @@ export const blueVelvetAccordianData = [
       Tine tree `
     }
   ];
+
+  export const pinkJagTreeAccordianData = [
+    {
+      title: 'Pink Jag Quick Info',
+      content: `Artist: Nané The Band
+      Release Date: July 31, 2020
+      Album: Nané`
+                
+    },
+    {
+      title: 'Description',
+      content: ` "Sweet and sour as the fruit, but filled with overwhelming power on each extreme. This is Nané's newest powerhouse single." - Where the Music Meets
+
+       
+      `
+    },
+    {
+      title: 'Lyrics',
+      content: `You got me with your longing eyes
+      You got me in your room
+      And when I hold the universe
+      What I know I feel with you
+      
+      I go crazy, I go bad ahhhh
+      I go crazy, I go bad
+      Black eyes and hold like fire
+      She's a smoke, lace and Pink Jaguar
+      And we’re making love, the shape of love
+      We’re gonna make love and say ah
+      
+      
+      I kiss you in the milk of night
+      Your curves within my spoon
+      I can’t hold the bear inside
+      What I know I feel with you
+      
+      I go crazy, I go bad ahhhh
+      I go crazy, I go bad
+      I go crazy
+      I go bad
+      
+      Black eyes and hold like fire
+      She's a smoke, lace and Pink Jaguar
+      And we’re making love, the shape of lovе
+      We’re gonna make lovе and say
+      
+      Black eyes and hold like fire
+      She's a smoke, lace and Pink Jaguar
+      And we’re making love, the shape of love
+      We’re gonna make love and say
+      
+      Making love the shape of love, were gonna make love and say
+      Making love the shape of love, were gonna make love and say
+      Making love the shape of love, were gonna make love and say ahhhhh `
+    }
+  ];

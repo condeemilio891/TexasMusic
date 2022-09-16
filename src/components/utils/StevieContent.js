@@ -169,3 +169,92 @@ export const loveStruckBabyAccordionData = [
       I'm her little lover boy`
     }
   ];
+  export const tightRopeAccordionData = [
+    {
+      title: ' Tight RopeQuick Info',
+      content: `Artist
+      Stevie Ray Vaughan
+      Release Date
+      June 6, 1989
+      Album
+      Tune Up - Rock 38`
+                
+    },
+    {
+      title: 'Description',
+      content: `This song walks a tightrope with its sound. Some blues, some rock and roll, some psychedelic rock, some swing. `
+    },
+    {
+      title: 'Lyrics',
+      content: `Caught up in a whirlwind can't catch my breath
+      Knee deep in hot water, broke out in a cold sweat
+      Can't catch a turtle in this rat race
+      Feels like I'm losin' time at a breakneck pace
+      Afraid of my own shadow in the face of grace
+      Heart full of darkness spotlight on my face
+      There was love all around me but I was lookin' for revenge
+      Thank God it never found me would have been the end
+      Walkin' the tightrope, steppin' on my friends
+      Walkin' the tightrope, it was a shame and a sin
+      Walkin' the tightrope between wrong and right
+      Walkin' the tightrope both day and night
+      Lookin' back in front of me, the mirror's a grin
+      Through eyes of love I see I'm really lookin' at a friend
+      We've all had our problems, that's the way life is
+      My heart goes out to others, who are there to make amends?
+      We've been walkin' the tightrope tryin' to make it right
+      Walkin' the tightrope, every day and every night
+      Walkin' the tightrope, bring it all around
+      Walkin' the tightrope from the lost to found
+      Walkin' the tightrope, stretched around the world
+      Walkin' the tightrope, save the boys and girls
+      Walkin' the tightrope, let's make it right
+      Walkin' the tightrope, do it, do it tonight
+      Walkin' the tightrope`
+    }
+  ];
+
+  export const skyIsCryingAccordionData = [
+    {
+      title: ' Voodoo Child  Quick Info',
+      content: `Artist
+      Stevie Ray Vaughan
+      Release Date
+      June 6, 1989
+      Album
+      Tune Up - Rock 38`
+                
+    },
+    {
+      title: 'Description',
+      content: `This song walks a tightrope with its sound. Some blues, some rock and roll, some psychedelic rock, some swing. `
+    },
+    {
+      title: 'Lyrics',
+      content: `Caught up in a whirlwind can't catch my breath
+      Knee deep in hot water, broke out in a cold sweat
+      Can't catch a turtle in this rat race
+      Feels like I'm losin' time at a breakneck pace
+      Afraid of my own shadow in the face of grace
+      Heart full of darkness spotlight on my face
+      There was love all around me but I was lookin' for revenge
+      Thank God it never found me would have been the end
+      Walkin' the tightrope, steppin' on my friends
+      Walkin' the tightrope, it was a shame and a sin
+      Walkin' the tightrope between wrong and right
+      Walkin' the tightrope both day and night
+      Lookin' back in front of me, the mirror's a grin
+      Through eyes of love I see I'm really lookin' at a friend
+      We've all had our problems, that's the way life is
+      My heart goes out to others, who are there to make amends?
+      We've been walkin' the tightrope tryin' to make it right
+      Walkin' the tightrope, every day and every night
+      Walkin' the tightrope, bring it all around
+      Walkin' the tightrope from the lost to found
+      Walkin' the tightrope, stretched around the world
+      Walkin' the tightrope, save the boys and girls
+      Walkin' the tightrope, let's make it right
+      Walkin' the tightrope, do it, do it tonight
+      Walkin' the tightrope`
+    }
+  ];
