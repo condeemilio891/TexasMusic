@@ -153,7 +153,8 @@ export const blueVelvetAccordianData = [
     },
     {
       title: 'Description',
-      content: ` "Sweet and sour as the fruit, but filled with overwhelming power on each extreme. This is Nané's newest powerhouse single." - Where the Music Meets
+      content: ` "Sweet and sour as the fruit, but filled with overwhelming power on each extreme. This is Nané's newest powerhouse single." - Where the Music Meets. 
+      I would like to that I love Sahads patience here. 
 
        
       `
@@ -199,6 +200,92 @@ export const blueVelvetAccordianData = [
     }
   ];
 
+  export const seventeenAccordianData = [
+    {
+      title: 'Seventeen Quick Info',
+      content: `Artist: Nané The Band
+      Release Date: July 31, 2020
+      Album: Nané`
+                
+    },
+    {
+      title: 'Description',
+      content: ` People in Austin love to throw around the words ecclectic and alternative but what does that even mean?
+      'Seventeen' reminds Austinites of our greatest strength. Our ability to 
+      be weird. To blur the lines without breaking them. To open new lanes without abandoning our identity.  
+      `
+    },
+    {
+      title: 'Lyrics',
+      content: ``
+    }
+  ];
+
+
+
+
+
+
+
+  export const ladyBirdAccordianData = [
+    {
+      title: 'Lady Bird Quick Info',
+      content: `Artist: Nané The Band
+      Release Date: July 31, 2020
+      Album: Nané`
+                
+    },
+    {
+      title: 'Description',
+      content: ` Ladybird nails Duende. Duende is difficult to translate but I think of it as an idea in
+       hispanic folklore that with love comes the potential for pain. Duende invokes a 
+      spine-chilling feeling of authenticity and 
+      warmth in a cold world. Sahad refects that is hard to accept someones warmth as reality but it is reality.
+      It is ok to let go of the cynical shell and and allow yourself to feel the warmth and love
+      of a person even though one day that warmth may not be there anymore. Sahad encorages the listener not to waste their heart in the name
+      of cynisism and
+      nihilism as that is fear. Yes the world is cold, but we have each other so be brave and love.  
+      `
+    },
+    {
+      title: 'Lyrics',
+      content: `We were lovers from the start
+      Burning oils and sage
+      Whole until we’re torn apart
+      Beneath the ash and flame
+      
+      Hideaway hideaway
+      She loves but won't let her be loved now
+      Hideaway hideaway
+      Don’t let this love go to waste
+      Hideaway hideaway
+      She loves but won't let her be loved now
+      Hideaway hideaway
+      Don't let this love go to waste
+      
+      
+      Ladybird you sang to me
+      Like sirens in the blue
+      Now every door I walk through
+      Calls me back to you, calls me back to you
+      
+      Hideaway hideaway
+      She loves but won't let her be loved now
+      Hideaway hideaway
+      Don’t let this love go to waste
+      Hideaway hideaway
+      She loves but won't let her be loved now
+      Hideaway hideaway
+      Don't let this love go to waste
+      
+      Woah
+      Don’t let, don’t let, don't let this heart be gone
+      Don’t let, don’t let, don’t let this heart be gone
+      Don’t let don’t let, don’t let this heart be gone
+      Don’t let, don’t let, don’t let this love go to waste `
+    }
+  ];
+
   export const pinkJagTreeAccordianData = [
     {
       title: 'Pink Jag Quick Info',
@@ -209,9 +296,7 @@ export const blueVelvetAccordianData = [
     },
     {
       title: 'Description',
-      content: ` "Sweet and sour as the fruit, but filled with overwhelming power on each extreme. This is Nané's newest powerhouse single." - Where the Music Meets
-
-       
+      content: ` Sahad's delicate voice complements a guitarist that draws passion from every note. "Pink Jag" is  like Sade, sophisticated and Smooth
       `
     },
     {
