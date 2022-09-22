@@ -210,9 +210,9 @@ export const blueVelvetAccordianData = [
     },
     {
       title: 'Description',
-      content: ` People in Austin love to throw around the words ecclectic and alternative but what does that even mean?
+      content: ` 
       'Seventeen' reminds Austinites of our greatest strength. Our ability to 
-      be weird. To blur the lines without breaking them. To open new lanes without abandoning our identity.  
+      be weird and blur the lines without breaking them. To open new lanes without abandoning our identity.  
       `
     },
     {
@@ -296,7 +296,7 @@ export const blueVelvetAccordianData = [
     },
     {
       title: 'Description',
-      content: ` Sahad's delicate voice complements a guitarist that draws passion from every note. "Pink Jag" is  like Sade, sophisticated and Smooth
+      content: ` Sahad's delicate voice and a guitarist that draws passion from every note reminds me "Pink Jag" is  like Sade, sophisticated and Smooth
       `
     },
     {
@@ -337,5 +337,45 @@ export const blueVelvetAccordianData = [
       Making love the shape of love, were gonna make love and say
       Making love the shape of love, were gonna make love and say
       Making love the shape of love, were gonna make love and say ahhhhh `
+    }
+  ];
+
+  export const buonaseraAccordianData = [
+    {
+      title: 'Buona Sera Quick Info',
+      content: `Artist: Nané The Band
+      Release Date: Febuary, 24 2022
+      Album: Nané`
+                
+    },
+    {
+      title: 'Description',
+      content: ` The journey Nane takes the classic song 'Buona Sera' through takes a similar structure of Tina Turner's cover of "Proud Mary."
+      It starts "easy" and finishes "Rough."  
+      `
+    },
+    {
+      title: 'Lyrics',
+      content: `Buona sera senorina buona sera
+      It is time to say good night to Napoli
+      Though it's hard for us to whisper buona sera
+      Without the moon above the mediterranean sea
+      In the morning senorina we'll go walkin
+      With the mountains at the moon coming at the side
+      And by the little jewelly shop we'll stop and linger
+      While I will buy wedding ring for your finger
+      In the meantime let me tell you thatI love you
+      Buona sera senorina kiss me good night
+      Buona sera senorina kiss me good night
+      Buona sera senorina, buona sera
+      It's time to say good night to Napoli
+      Though it's hard for us to whisper buona sera
+      Without the moon above the meditteranean sea
+      In the morning senorina we'll go walkin
+      With the mountains at the moon coming at the side
+      And by the little jewelly shop we'll stop ringer
+      While I will buy wedding ring for your finger
+      In the meantime let me tell you that I love you
+      Buona Sera senorina kiss me good night `
     }
   ];

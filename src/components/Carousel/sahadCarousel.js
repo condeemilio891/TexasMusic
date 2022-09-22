@@ -3,7 +3,7 @@ import Carousel, {CarouselItem} from './Carousel'
 import ReactPlayer from 'react-player'
 import Accordion from '../Accordion/Accordion'
 import { blueVelvetAccordianData,alwaysOnMyMindAccordianData,clementineTreeAccordianData,seventeenAccordianData,
-pinkJagTreeAccordianData,ladyBirdAccordianData } from '../utils/sahadContent'
+pinkJagTreeAccordianData,ladyBirdAccordianData,buonaseraAccordianData } from '../utils/sahadContent'
 
 
 const SahadCarousel = () => {
@@ -74,6 +74,16 @@ const SahadCarousel = () => {
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=Rg-sJwOwP1s'/>
         <div className="accordion" style={{color:'#D4F1F4'}} >
       {ladyBirdAccordianData.map(({ title, content }) => (
+        <Accordion style={{color:'#D4F1F4'}} borderColor="#c9c19f" borderColor2="#630330" color="#b8336a" backgroundColorContent="#acacde" backgroundColor="#acacde" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#189AB4'}}>  Buona Sera </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=4Bkjn4hK0w8'/>
+        <div className="accordion" style={{color:'#D4F1F4'}} >
+      {buonaseraAccordianData.map(({ title, content }) => (
         <Accordion style={{color:'#D4F1F4'}} borderColor="#c9c19f" borderColor2="#630330" color="#b8336a" backgroundColorContent="#acacde" backgroundColor="#acacde" title={title} content={content} />
       ))}
       </div>
