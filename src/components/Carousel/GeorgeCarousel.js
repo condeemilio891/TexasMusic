@@ -3,6 +3,7 @@ import Carousel, {CarouselItem} from './Carousel'
 import ReactPlayer from 'react-player'
 import Accordion from '../Accordion/Accordion'
 import { allMyExesLiveInTexasAccordionData,amarilloByMorningTexasAccordionData,youLookSoGoodInLoveAccordionData,cowBoyRidesAwayAccordionData,
+  theChairAccordionData,
  } from '../utils/georgeContent'
 
 
@@ -27,7 +28,7 @@ const GeorgeCarousel = () => {
       <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#7380A2'}}> You Look So Good In Love </h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=7KOKM46MnhE&ab_channel=JoeMar'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=sAESfPQdq0M'/>
         <div className="accordion" >
       {youLookSoGoodInLoveAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#7F6451" borderColor2="#7F6451" backgroundColor="#9B9BA1" backgroundColorContent="#BCADA1" color="#312826" title={title} content={content} />
@@ -37,7 +38,7 @@ const GeorgeCarousel = () => {
     <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#7380A2'}}> Amarillo by Morning </h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=7KOKM46MnhE&ab_channel=JoeMar'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=FbVISS-lEAc'/>
         <div className="accordion" >
       {amarilloByMorningTexasAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#7F6451" borderColor2="#7F6451" backgroundColor="#9B9BA1" backgroundColorContent="#BCADA1" color="#312826" title={title} content={content} />
@@ -46,10 +47,20 @@ const GeorgeCarousel = () => {
     </CarouselItem>
     <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#7380A2'}}> Cowboy Walks Away </h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=7KOKM46MnhE&ab_channel=JoeMar'/>
+      <h3 className='selenah6' style={{color:'#7380A2'}}> The Cowboy Rides Away </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=4AnTe663mrY'/>
         <div className="accordion" >
       {cowBoyRidesAwayAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#7F6451" borderColor2="#7F6451" backgroundColor="#9B9BA1" backgroundColorContent="#BCADA1" color="#312826" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#7380A2'}}>The Chair</h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=_Nh-NsqBsGE'/>
+        <div className="accordion" >
+      {theChairAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#7F6451" borderColor2="#7F6451" backgroundColor="#9B9BA1" backgroundColorContent="#BCADA1" color="#312826" title={title} content={content} />
       ))}
       </div>

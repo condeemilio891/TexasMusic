@@ -18,6 +18,26 @@ const DRICarousel = () => {
   <Carousel>
   <CarouselItem>
       
+      <h3 className='selenah6' style={{color:'#f80000'}}> I Dont Need Society </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=farFbNMNJm8'/>
+        <div className="accordion" >
+      {iDontNeedSocietyAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#f80000" borderColor2="#f80000" backgroundColor="#7c0000" backgroundColorContent="#000000" color="#f80000" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#f80000'}}> Acid Rain</h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=YummFZ70WkY'/>
+        <div className="accordion" >
+      {acidRainAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#f80000" borderColor2="#f80000" backgroundColor="#7c0000" backgroundColorContent="#000000" color="#f80000" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+  <CarouselItem>
+      
       <h3 className='selenah6' style={{color:'#f80000'}}> Kill the Words </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=q76pqSXcstE'/>
         <div className="accordion" >
@@ -37,26 +57,8 @@ const DRICarousel = () => {
         </div>
       </CarouselItem>
 
-      <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#f80000'}}> Acid Rain</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=YummFZ70WkY'/>
-        <div className="accordion" >
-      {acidRainAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#f80000" borderColor2="#f80000" backgroundColor="#7c0000" backgroundColorContent="#000000" color="#f80000" title={title} content={content} />
-      ))}
-      </div>
-    </CarouselItem>
-    <CarouselItem>
-      
-      <h3 className='selenah6' style={{color:'#f80000'}}> I Dont Need Society </h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=farFbNMNJm8'/>
-        <div className="accordion" >
-      {iDontNeedSocietyAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#f80000" borderColor2="#f80000" backgroundColor="#7c0000" backgroundColorContent="#000000" color="#f80000" title={title} content={content} />
-      ))}
-      </div>
-    </CarouselItem>
+  
     <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#f80000'}}> Suit and Tie Guy</h3>

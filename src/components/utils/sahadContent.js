@@ -212,7 +212,7 @@ export const blueVelvetAccordianData = [
       title: 'Description',
       content: ` 
       'Seventeen' reminds Austinites of our greatest strength. Our ability to 
-      be weird and blur the lines without breaking them. To open new lanes without abandoning our identity.  
+      be weird and blur the lines without breaking them. 
       `
     },
     {
@@ -237,14 +237,8 @@ export const blueVelvetAccordianData = [
     },
     {
       title: 'Description',
-      content: ` Ladybird nails Duende. Duende is difficult to translate but I think of it as an idea in
-       hispanic folklore that with love comes the potential for pain. Duende invokes a 
-      spine-chilling feeling of authenticity and 
-      warmth in a cold world. Sahad refects that is hard to accept someones warmth as reality but it is reality.
-      It is ok to let go of the cynical shell and and allow yourself to feel the warmth and love
-      of a person even though one day that warmth may not be there anymore. Sahad encorages the listener not to waste their heart in the name
-      of cynisism and
-      nihilism as that is fear. Yes the world is cold, but we have each other so be brave and love.  
+      content: ` An Authentic look at the pain love and loss can cause permanently. In this track Nane begs the listener to not "hideaway" from pain
+      but instead "not let the love go to waste." 
       `
     },
     {
@@ -377,5 +371,24 @@ export const blueVelvetAccordianData = [
       While I will buy wedding ring for your finger
       In the meantime let me tell you that I love you
       Buona Sera senorina kiss me good night `
+    }
+  ];
+  export const runAccordianData = [
+    {
+      title: 'Run Quick Info',
+      content: `Artist: Nané The Band
+      Release Date: July 31, 2020
+      Album: Nané`
+                
+    },
+    {
+      title: 'Description',
+      content: ` 
+      'null 
+      `
+    },
+    {
+      title: 'Lyrics',
+      content: ``
     }
   ];

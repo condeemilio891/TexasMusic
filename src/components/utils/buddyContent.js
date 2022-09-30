@@ -173,15 +173,16 @@ export const thatWillBeTheDayAccordionData = [
   export const sendMeSomeLovinAccordionData = [
     {
       title: 'Send Me Some Lovin Quick Info',
-      content: `Album: Love Songs
-      Artist: Buddy Holly
-      Release year: 2001
+      content: ` By: Little Richard
+      Track 10 on Buddy Holly And The Crickets  
+      Produced by: Norman Petty
+      Release Date: November 1, 1957
       Duration: 2:18`
                 
     },
     {
       title: 'Description',
-      content: ` A melodic song about loneliness.Originally sang by Little Richard, The Crickets remastered the track. 
+      content: ` One of many rock and roll standards Buddy nails. Originally by Little Richard. 
      `
     },
     {
@@ -420,23 +421,61 @@ export const thatWillBeTheDayAccordionData = [
       In the Valley of Tears`
     }
   ];
-  export const realWildChildAccordionData = [
+  export const wordsOfLoveAccordionData = [
     {
-      title: 'Real Wild Child Quick Info',
-      content: `Released	5 July 1958
-      Recorded	1958
-      Genre	Rock and roll
-      Length	2:30
-      Label	
-      LeedonFestival
-      Songwriter(s)	
-      Johnny GreenanJohnny O'KeefeDave OwensTony Withers`
+      title: 'Words of Love Quick Info',
+      content: `B-side	"Mailman, Bring Me No More Blues"
+      Released	June 20, 1957
+      Recorded	April 8, 1957
+      Genre	Jangle pop[1][2]
+      Length	1:56
+      Label	Coral 61852
+      Songwriter(s)	Buddy Holly
+      Producer(s)	Norman Petty`
                 
     },
     {
       title: 'Description',
-      content: ` Originally an Australian Rock song called 'Wild One'. Buddy Plays guitar and backs vocals here.
-       I Can't tell if they are being sarcastic or not but it works with or without a sarcastic lense.  
+      content: ` 
+     `
+    },
+    {
+      title: 'Lyrics',
+      content: `I want you to take me
+      Where I belong
+      Where hearts have been broken
+      With a kiss and a song
+      Spend the rest of my days, dear
+      Without any cares
+      Everyone understands me
+      In the Valley of Tears
+      Soft words have been spoken
+      So sweet and low
+      But my mind is made up
+      And I must go
+      Spend the rest of my days, dear
+      Without any cares
+      Everyone understands me
+      In the Valley of Tears`
+    }
+  ];
+
+  export const slippinAndSlidinAccordionData = [
+    {
+      title: "Slippin'n'Slidin Quick Info",
+      content: `B-side	"Mailman, Bring Me No More Blues"
+      Released	June 20, 1957
+      Recorded	April 8, 1957
+      Genre	Jangle pop[1][2]
+      Length	1:56
+      Label	Coral 61852
+      Songwriter(s)	Buddy Holly
+      Producer(s)	Norman Petty`
+                
+    },
+    {
+      title: 'Description',
+      content: ` 
      `
     },
     {

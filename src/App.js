@@ -46,9 +46,9 @@ const App = () => {
     <section id="backgroundJanisJoplin">
       <JanisCarousel/>
     </section>
-    <section id="backgroundAGiantDog">
+    {/* <section id="backgroundAGiantDog">
       <JanisCarousel/>
-    </section>
+    </section> */}
     </>
   )
 }

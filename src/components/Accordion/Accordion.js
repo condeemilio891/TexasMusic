@@ -23,7 +23,9 @@ const Accordion = ({title,content,backgroundColor,backgroundColorContent,color,b
             <div>{title}</div>
       <div>{isActive ? '-' : '+'}</div>
           </AccordionTitle>
-          {isActive && <AccordionContent className="accordion-content" borderColor2={borderColor2} backgroundColorContent={backgroundColorContent} 
+          
+          {
+          isActive && <AccordionContent className="accordion-content" borderColor2={borderColor2} backgroundColorContent={backgroundColorContent} 
           >{content}</AccordionContent>}
         </div>
       </AccordionWrap>

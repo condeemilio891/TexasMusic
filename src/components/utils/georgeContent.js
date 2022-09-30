@@ -192,3 +192,43 @@ export const allMyExesLiveInTexasAccordionData = [
       This is where the cowboy rides away`
     }
   ];
+
+  export const theChairAccordionData = [
+    {
+      title: 'The Chair Away Quick Info',
+      content: `Album: Something Special
+      Artist: George Strait
+      Release year: 1985
+      Duration: 2:50
+      Genre: Country`
+                
+    },
+    {
+      title: 'Description',
+      content: ` I normally recomend building rapport in a natural manner but if you are this good with the pickup lines go Strait for it. :) `
+    },
+    {
+      title: 'Lyrics',
+      content: `Well, excuse me, but I think you've got my chair
+      No, that one's not taken, I don't mind if you sit here
+      I'll be glad to share
+      Yeah, it's usually packed here on Friday nights
+      Oh, if you don't mind, could I talk you out of a light?
+      Well, thank you, could I drink you a buy?
+      Oh, listen to me, what I mean is, can I buy you a drink?
+      Anything you please
+      Oh, you're welcome, well, I don't think I caught your name
+      Are you waiting for someone to meet you here?
+      Well, that makes two of us, glad you came
+      No, I don't know the name of the band
+      But they're good, aren't they?
+      Would you like to dance?
+      Yeah, I like this song too, it reminds me of you and me, baby
+      Do you think there's a chance that later on I could drive you home?
+      No, I don't mind at all
+      Oh, I like you too, and to tell you the truth
+      That wasn't my chair after all
+      Oh, I like you too, and to tell you the truth
+      That wasn't my chair after all`
+    }
+  ];

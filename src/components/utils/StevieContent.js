@@ -63,7 +63,8 @@ export const loveStruckBabyAccordionData = [
     },
     {
       title: 'Description',
-      content: ``
+      content: ` A Signature song that Stevie wrote himself. The Texas Shovel is a guitar technique that opens the strings when stroking up 
+      and closing them when moving down. This creates a circular rhythm that swings around and around. Innovative`
     },
     {
       title: 'Lyrics',
@@ -256,5 +257,203 @@ export const loveStruckBabyAccordionData = [
       Walkin' the tightrope, let's make it right
       Walkin' the tightrope, do it, do it tonight
       Walkin' the tightrope`
+    }
+  ];
+  export const theHouseisRockinAccordionData = [
+    {
+      title: ' The House is Rockin Quick Info',
+      content: `Album: In Step
+      Artist: Stevie Ray Vaughan and Double Trouble
+      Release year: 1989
+      Duration: 2:24
+      Genre: Blues`
+                
+    },
+    {
+      title: 'Description',
+      content: `Swing  `
+    },
+    {
+      title: 'Lyrics',
+      content: `Well, the house is a rockin', don't bother knockin'
+      Yeah, the house is a rockin', don't bother knockin'
+      If the house is a rockin', don't bother, come on in
+      
+      Kick off your shoes start losin' the blues
+      This old house ain't got nothin' to lose
+      Seen it all for years, start spreadin' the news
+      We got room on the floor, come on baby shake sumpin' loose
+      
+      Well, the house is a rockin', don't bother knockin'
+      Yeah, the house is a rockin', don't bother knockin'
+      Yeah, the house is a rockin', don't bother come on in
+      
+      Well, the house is a rockin', don't bother knockin'
+      Yeah, the house is a rockin', don't bother knockin'
+      Yeah, the house is a rockin', don't bother come on in
+      
+      Walkin' up the street you can hear the sound
+      Of some bad honky tonkers really layin' it down
+      They've seen it all for years and 'ave got nothin' to lose
+      So get out on the floor shimmy 'til you shake sumpin' loose
+      
+      Well, the house is a rockin', don't bother knockin'
+      Yeah, the house is a rockin', don't bother knockin'
+      Yeah, the house is a rockin', don't bother come on in
+      I said the house is a rockin', don't bother come on in`
+    }
+  ];
+
+  export const ScuttleButtinAccordionData = [
+    {
+      title: ' The House is Rockin Quick Info',
+      content: `Album: Couldn't Stand the Weather
+      Artist: Stevie Ray Vaughan
+      Release year: 1990
+      Duration: 1:52`
+                
+    },
+    {
+      title: 'Description',
+      content: `Swing  `
+    },
+    {
+      title: 'Lyrics',
+      content: ``
+    }
+  ];
+
+  export const lennyAccordionData = [
+    {
+      title: ' Lenny Quick Info',
+      content: `Album: Texas Flood
+      Artist: Stevie Ray Vaughan and Double Trouble
+      Release year: 1984
+      Duration: 4:57
+      Genre: Blues`
+                
+    },
+    {
+      title: 'Description',
+      content: `Inspired by Stevie's Wife  `
+    },
+    {
+      title: 'Lyrics',
+      content: ``
+    }
+  ];
+
+  export const crossFireAccordionData = [
+    {
+      title: ' Crossfire Quick Info',
+      content: `Album: The Essential Stevie Ray Vaughan and Double Trouble
+      Artist: Stevie Ray Vaughan
+      Release year: 2016
+      Duration: 4:10
+      Genre: Pop music`
+                
+    },
+    {
+      title: 'Description',
+      content: ` `
+    },
+    {
+      title: 'Lyrics',
+      content: `Day by day night after night
+      Blinded by the neon lights
+      Hurry here hustling there
+      No one's got the time to spare
+      Money's tight nothing free
+      Won't somebody come and rescue me
+      I am stranded
+      Caught in the crossfire
+      Stranded
+      Caught in the crossfire
+      Tooth for tooth eye for an eye
+      Sell your soul just to buy, buy, buy
+      Begging a dollar stealing a dime
+      Come on can't you see that I
+      I'm stranded
+      Caught in the crossfire
+      I'm stranded
+      Caught in the crossfire
+      I need some kind of kindness
+      Some kind of sympathy oh no
+      We're stranded
+      Caught in the crossfire
+      Save the strong lose the weak
+      Never turning the other cheek
+      Trust nobody don't be no fool
+      Whatever happened to the golden rule
+      We got stranded
+      Caught in the crossfire
+      We got stranded
+      Caught in the crossfire
+      We got stranded
+      Caught in the crossfire
+      Stranded
+      Caught in the crossfire
+      Help me`
+    }
+  ];
+
+  export const coldShotAccordionData = [
+    {
+      title: ' Cold Shot Quick Info',
+      content: `Album: Texas Flood
+      Artist: Stevie Ray Vaughan and Double Trouble
+      Release year: 1984
+      Duration: 4:57
+      Genre: Blues`
+                
+    },
+    {
+      title: 'Description',
+      content: `Inspired by Stevie's Wife  `
+    },
+    {
+      title: 'Lyrics',
+      content: `[Verse 1]
+      Once was a sweet thing, baby
+      Held that love in our hands
+      But now I reach to kiss your lips
+      It just don't mean a thing
+      
+      [Hook]
+      And that's a cold shot, baby
+      Yeah that's a drag
+      A cold shot, baby
+      I've let our love go bad
+      
+      
+      [Verse 2]
+      Remember the way that you loved me
+      Do anything I say
+      Now I see you out somewhere
+      You won't give me the time of day
+      
+      [Hook]
+      And that's a cold shot, oh
+      Yeah that's a drag
+      That's a cold shot, baby
+      We'd better learn from that
+      
+      [Verse 3]
+      I really meant I was sorry
+      For ever causing you pain
+      You showed your appreciation
+      By walking out anyway
+      
+      [Hook]
+      And that's a cold shot, baby
+      Yeah that's a drag
+      That's a cold shot, baby
+      We'd better learn from that
+      
+      [Outro]
+      So sad
+      Too bad
+      So sad
+      Don't let our true love run cold`
     }
   ];

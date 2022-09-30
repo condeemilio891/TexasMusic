@@ -1,19 +1,17 @@
 export const myChurchAccordionData = [
     {
       title: 'My Church Quick Info',
-      content: `Released	January 19, 2016
-      Genre	Country pop
-      Length	3:17
-      Label	Columbia Nashville
-      Songwriter(s)	
-      Maren Morrisbusbee
-      Producer(s)	
-      busbeeMaren Morris`
+      content: `Album: Hero
+      Artist: Maren Morris
+      Release year: 2016
+      Duration: 3:17
+      Genre: Country`
                 
     },
     {
       title: 'Description',
-      content: `My Church, as the name suggests, contains heavy elements of gospel and soul. 
+      content: `"My Church", Maren's debut single, contains heavy elements of gospel, soul and country while also hitting a punchy Pop aesthetic. There is something 
+      for everybody in this song 
                 `
     },
     {
@@ -75,14 +73,14 @@ export const myChurchAccordionData = [
       Length	3:15
       Label	Columbia Nashville
       Songwriter(s)	
-      Maren MorrisJimmy RobbinsLaura Veltz
+      Maren Morris Jimmy Robbins Laura Veltz
       Producer(s)	
-      busbeeMaren Morris`
+      busbee Maren Morris`
                 
     },
     {
       title: 'Description',
-      content: ` null 
+      content: `  When single, a love song can be used for escapism. 
                 `
     },
     {
@@ -139,20 +137,16 @@ export const myChurchAccordionData = [
   export const theMiddleAccordionData = [
     {
       title: 'The Middle Quick Info',
-      content: `Released	23 January 2018
-      Genre	
-      Dance-pop
-      Length	3:04
-      Label	Interscope
-      Songwriter(s)	
-      Jordan JohnsonAnton ZaslavskiSarah AaronsKyle TrewarthaStefan JohnsonMichael TrewarthaMarcus Lomax
-      Producer(s)	
-      ZeddGreyThe Monsters and the Strangerz`
+      content: `Album: The Middle - Single
+      Artists: Maren Morris · Zedd · Grey
+      Release year: 2018
+      Duration: 3:04
+      Genre: Dance`
                 
     },
     {
       title: 'Description',
-      content: ` null 
+      content: ` Maren doesn't seem out of her comfort zone when singing something out her wheelhouse.  
                 `
     },
     {
@@ -209,88 +203,73 @@ export const myChurchAccordionData = [
   export const theBonesAccordionData = [
     {
       title: 'The Middle Quick Info',
-      content: `Released	23 January 2018
-      Genre	
-      Dance-pop
-      Length	3:04
-      Label	Interscope
-      Songwriter(s)	
-      Jordan JohnsonAnton ZaslavskiSarah AaronsKyle TrewarthaStefan JohnsonMichael TrewarthaMarcus Lomax
-      Producer(s)	
-      ZeddGreyThe Monsters and the Strangerz`
+      content: `Album: GIRL
+      Artist: Maren Morris
+      Release year: 2019
+      Duration: 3:17
+      Genre: Country`
                 
     },
     {
       title: 'Description',
-      content: ` null 
+      content: ` Position and money can go away sometimes its smart to value the personality of the person because that is who they are. 
                 `
     },
     {
       title: 'Lyrics',
-      content: `Take a seat, right over there, sat on the stairs
-      Stay or leave, the cabinets are bare, and I'm unaware
-      Of just how we got into this mess, got so aggressive
-      I know we meant all good intentions
-      So pull me closer
-      Why don't you pull me close?
-      Why don't you come on over?
-      I can't just let you go
-      Oh, baby, why don't you just meet me in the middle?
-      I'm losing my mind just a little
-      So why don't you just meet me in the middle?
-      In the middle
-      Baby, why don't you just meet me in the middle?
-      I'm losing my mind just a little
-      So why don't you just meet me in the middle?
-      In the middle
-      Oh, take a step back for a minute, into the kitchen
-      Floors are wet and taps are still running, dishes are broken
-      How did we get into this mess? Got so aggressive
-      I know we meant all good intentions
-      So pull me closer
-      Why don't you pull me close?
-      Why don't you come on over?
-      I can't just let you go
-      Oh, baby, why don't you just meet me in the middle?
-      I'm losing my mind just a little
-      So why don't you just meet me in the middle?
-      In the middle
-      Looking at you, I can't lie
-      Just pouring out admission
-      Regardless of my objection, oh-oh
-      And it's not about my pride
-      I need you on my skin
-      Just come over, pull me in, just-
-      Oh, baby, why don't you just meet me in the middle?
-      I'm losing my mind just a little
-      So why don't you just meet me in the middle?
-      In the middle, no, no
-      Baby, why don't you just meet me in the middle? Oh, yeah
-      I'm losing my mind just a little
-      So why don't you just meet me in the middle? Oh
-      In the middle
-      Baby, why don't you just meet me in the middle, baby?
-      I'm losing my mind just a little
-      So why don't you just meet me in the middle, middle?
-      In the middle, middle`
+      content: `We're in the homestretch of the hard times
+      We took a hard left, but we're alright
+      Yeah, life sure can try to put love through it, but
+      We built this right, so nothing's ever gonna move it
+      When the bones are good, the rest don't matter
+      Yeah, the paint could peel, the glass could shatter
+      Let it rain 'cause you and I remain the same
+      When there ain't a crack in the foundation
+      Baby, I know any storm we're facing
+      Will blow right over while we stay put
+      The house don't fall when the bones are good
+      Call it dumb luck, but baby, you and I
+      Can't even mess it up, although we both try
+      No, it don't always go the way we planned it
+      But the wolves came and went, we're still standing
+      When the bones are good, the rest don't matter
+      Yeah, the paint could peel, the glass could shatter
+      Let it rain 'cause you and I remain the same
+      When there ain't a crack in the foundation
+      Baby, I know any storm we're facing
+      Will blow right over while we stay put
+      The house don't fall when the bones are good
+      Mmm, when the bones are good
+      Bones are good, the rest, baby, it don't really matter
+      Paint could peel, the glass
+      Oh, the glass, oh, the glass could shatter
+      Bones are good, the rest, the rest don't matter
+      Paint could peel, the glass, the glass could shatter
+      When the bones are good, the rest don't matter
+      Yeah, the paint could peel, the glass could shatter
+      Let it rain 'cause you and I remain the same
+      When there ain't a crack in the foundation
+      Baby, I know any storm we're facing
+      Will blow right over while we stay put
+      The house don't fall when the bones are good
+      Ooh-ooh
+      Mm-mm-mm-mm-mm`
     }
   ];
   export const girlAccordionData = [
     {
       title: 'Girl Quick Info',
       content: `Released	March 8, 2019
-      Recorded	2017–2019
-      Genre	
-      Country popR&B[1][2][3]pop[4]
-      Length	46:59
-      Label	Columbia Nashville
-      Producer	
-      busbeeMaren MorrisGreg Kurstin[5]`
+      Recorded:	2017–2019
+      Genre: Country pop
+      Length:	46:59
+      Label:	Columbia Nashville
+      Producers: busbee Maren Morris Greg Kurstin`
                 
     },
     {
       title: 'Description',
-      content: ` null 
+      content: ` “Failure is not a permanent condition.” ― Angela Duckworth
                 `
     },
     {
@@ -382,7 +361,7 @@ export const myChurchAccordionData = [
     },
     {
       title: 'Description',
-      content: ` Why don't you do right?? like some of the other men do.  
+      content: `  
                 `
     },
     {
@@ -463,7 +442,7 @@ export const myChurchAccordionData = [
     },
     {
       title: 'Description',
-      content: ` Why don't you do right?? like some of the other men do.  
+      content: ` 
                 `
     },
     {
@@ -538,7 +517,7 @@ export const myChurchAccordionData = [
     },
     {
       title: 'Description',
-      content: ` Why don't you do right?? like some of the other men do.  
+      content: `  
                 `
     },
     {
@@ -600,20 +579,18 @@ export const myChurchAccordionData = [
   ];
   export const eightiesMercedesAccordionData = [
     {
-      title: '80s Mercedes Quick Info',
-      content: `Released	June 27, 2016[1]
-      Recorded	2016
-      Length	3:31
-      Label	Columbia Nashville
-      Songwriter(s)	
-      Maren Morrisbusbee
-      Producer(s)	
-      busbeeMaren Morris`
+      title: "80's Mercedes Quick Info",
+      content: `Album: Hero
+      Artist: Maren Morris
+      Release year: 2016
+      Duration: 3:31
+      Genre: Country`
                 
     },
     {
       title: 'Description',
-      content: ` Why don't you do right?? like some of the other men do.  
+      content: ` 80's Mercedes begins relaxing, slow country song  and accelerates into a pop song with the catchy lyric: "I'm a 90's baby in my 80's 
+      Mercedes." 
                 `
     },
     {

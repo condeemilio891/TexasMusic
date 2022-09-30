@@ -5,7 +5,7 @@ import Accordion from '../Accordion/Accordion'
 import { thatWillBeTheDayAccordionData,trueLoveWaysAccordionData,
   heartbeatAccordionData,itDoesntMatterAnymoreAccordionData,sendMeSomeLovinAccordionData,
   cryingWaitingHopingAccordionData, everydayAccordionData,blueSuedeShoesAccordionData,
-  valleyOfTearsAccordionData,realWildChildAccordionData} from '../utils/buddyContent'
+  valleyOfTearsAccordionData,wordsOfLoveAccordionData} from '../utils/buddyContent'
 
 
 const BuddyCarousel = () => {
@@ -17,22 +17,35 @@ const BuddyCarousel = () => {
    </h2>
 
   <Carousel>
-      <CarouselItem>
-      
-        <h3 className='selenah6' style={{color:'#FFD700'}}> That Will Be The Day </h3>
-          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=eq9FCBatl3A&ab_channel=JBProduction'/>
-          <div className="accordion" >
-        {thatWillBeTheDayAccordionData.map(({ title, content }) => (
-          <Accordion borderColor="#FFD700" borderColor2="#FFD700" color='#FFD700' backgroundColor="#1B1A17" backgroundColorContent="#1B1A17" title={title} content={content} />
-        ))}
-        </div>
-      </CarouselItem>
-      <CarouselItem>
+
+  <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#FFD700'}}>  True Love Ways </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=QjFRHIhSvwc&ab_channel=catman916'/>
         <div className="accordion" >
       {trueLoveWaysAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#FFD700" borderColor2="#FFD700" color='#FFD700' backgroundColor="#1B1A17" backgroundColorContent="#1B1A17" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+  <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#FFD700'}}> Send Me Some Loving</h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=A0chkCXzTSY'/>
+        <div className="accordion" >
+      {sendMeSomeLovinAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#FFD700" borderColor2="#FFD700" color='#FFD700' backgroundColor="#1B1A17" backgroundColorContent="#1B1A17" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    
+    
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#FFD700'}}> That Will Be The Day </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=eq9FCBatl3A&ab_channel=JBProduction'/>
+        <div className="accordion" >
+      {thatWillBeTheDayAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#FFD700" borderColor2="#FFD700" color='#FFD700' backgroundColor="#1B1A17" backgroundColorContent="#1B1A17" title={title} content={content} />
       ))}
       </div>
@@ -47,16 +60,7 @@ const BuddyCarousel = () => {
       ))}
       </div>
     </CarouselItem>
-    <CarouselItem>
-      
-      <h3 className='selenah6' style={{color:'#FFD700'}}> Send Me Some Loving</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=A0chkCXzTSY'/>
-        <div className="accordion" >
-      {sendMeSomeLovinAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#FFD700" borderColor2="#FFD700" color='#FFD700' backgroundColor="#1B1A17" backgroundColorContent="#1B1A17" title={title} content={content} />
-      ))}
-      </div>
-    </CarouselItem>
+    
     <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#FFD700'}}> HeartBeat</h3>
@@ -109,14 +113,15 @@ const BuddyCarousel = () => {
     </CarouselItem>
     <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#FFD700'}}> Real Wild Child</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=XmgIqnmgMHg'/>
+      <h3 className='selenah6' style={{color:'#FFD700'}}> Words of Love</h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=ZcuojSU_hOY'/>
         <div className="accordion" >
-      {realWildChildAccordionData.map(({ title, content }) => (
+      {wordsOfLoveAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#FFD700" borderColor2="#FFD700" color='#FFD700' backgroundColor="#1B1A17" backgroundColorContent="#1B1A17" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
+    
 
     
   </Carousel>

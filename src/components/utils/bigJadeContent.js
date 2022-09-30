@@ -92,7 +92,7 @@ export const allGasNoBrakesAccordionData = [
     },
     {
       title: 'Description',
-      content: `'Jade Wins' outlines Big Jades individualistic values. These pair well with her aggresive, tight rapping style.`
+      content: `congruous with Big Jades individualistic values, 'Jade Wins' has an aggresive, tight rapping style.`
     },
     {
       title: 'Lyrics',

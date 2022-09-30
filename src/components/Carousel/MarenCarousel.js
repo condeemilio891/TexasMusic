@@ -13,11 +13,20 @@ const MarenCarousel = () => {
       <>
     <h1 className='selenah1' style={{color:'#D4F1F4'}}> Maren Morris</h1>
     <h2 className='selenah2' style={{color:'#D4F1F4'}}> Releasing her debut album at 15 after only taking 3 years to learn guitar
-    Maren Morris's country style blends perfectly when she decides to add elements of Pop, House and even Soul. Normally, the Country and Punk 
-    Genres suffer when trying to appeal to a bigger audience and it takes a master of style to extend a country song's reach
+    Maren Morris's country style blends perfectly when she decides to add elements of Pop, House and even Soul. It takes a master of style to extend a country song's reach
      without washing down the things that make Country good. </h2>
 
   <Carousel>
+  <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#189AB4'}}> 80's Mercedes </h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=m9md97nN_SQ'/>
+        <div className="accordion" >
+      {eightiesMercedesAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#189AB4" borderColor2="#189AB4" backgroundColor="#D4F1F4" backgroundColorContent="#D4F1F4" color="#189AB4" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
       <CarouselItem>
       
         <h3 className='selenah6' style={{color:'#189AB4'}}> My Church </h3>
@@ -99,16 +108,7 @@ const MarenCarousel = () => {
       </div>
     </CarouselItem>
 
-    <CarouselItem>
-      
-      <h3 className='selenah6' style={{color:'#189AB4'}}> 80's Mercedes </h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=m9md97nN_SQ'/>
-        <div className="accordion" >
-      {eightiesMercedesAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#189AB4" borderColor2="#189AB4" backgroundColor="#D4F1F4" backgroundColorContent="#D4F1F4" color="#189AB4" title={title} content={content} />
-      ))}
-      </div>
-    </CarouselItem>
+   
     
   </Carousel>
   </>

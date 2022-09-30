@@ -262,7 +262,7 @@ export const trashardAccordionData = [
     },
     {
       title: 'Description',
-      content: `Much of punk revolves around a sword of Damocles themed sarcasm about the belief that money and power will save you from suffering.
+      content: `Much of punk revolves around a sword of Damocles themed sarcasm criticizing the belief that money and power will save you from suffering.
       `
     },
     {
@@ -309,7 +309,8 @@ export const trashardAccordionData = [
     },
     {
       title: 'Description',
-      content: `Another great use of sarcasm. Here DRI paradies an impatient speeding driver.`
+      content: `Punk will use traditional Greek parody and ironically imitate someones behavior in a society.
+       Here they act like an inconsiderate driver. `
     },
     {
       title: 'Lyrics',
