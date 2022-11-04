@@ -11,10 +11,8 @@ const BigJadeCarousel = () => {
   return (
       <>
     <h1 className='selenah1' style={{color:'#59E255'}}> Big Jade</h1>
-    <h2 className='selenah2' style={{color:'#59E255'}}>Big Jades Confidence hits hard. Her individuality present in her rap reflects her life.
-    Whether its refusing to sign with someone who suggests she gets plastic surgery or her true life struggles. Big Jade keeps it real and her
-    authenticity shines through.  </h2>
-
+    <h2 className='selenah2' style={{color:'#FFFFFF'}}>Big Jades Confidence hits hard. Her individualistic themes and non-conformist attitude are authentic 
+      made evident by her refusal to sign with a label suggesting she needs plastic surgery.  </h2>
   <Carousel>
   <CarouselItem>
       

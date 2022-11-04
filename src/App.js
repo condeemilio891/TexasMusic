@@ -10,16 +10,26 @@ import StevieCarousel from './components/Carousel/StevieCarousel'
 import GeorgeCarousel from './components/Carousel/GeorgeCarousel'
 import BigJadeCarousel from './components/Carousel/BigJadeCarousel'
 import JanisCarousel from './components/Carousel/JanisCarousel'
-
+import AGiantDogCarousel from './components/Carousel/AGiantDogCarousel'
+import NoogyCarousel from './components/Carousel/noogyCarousel'
+import BarryWhiteCarousel from './components/Carousel/BarryWhiteCarousel'
+import ExplosionsInTheSkyCarousel from './components/Carousel/ExplosionsInTheSkyCarousel'
+import TheWellCarousel from './components/Carousel/TheWellCarousel'
+import CommentButton from './components/Comments/CommentsButton/CommentButton'
+import SideBarNav from './components/SideBarNav/SideBarNav'
 
 const App = () => {
   return (
     <>
-    
+     
     <Title/>
-    
-    <section id="backgroundSahad">
+   
+    <section 
+    id="backgroundSahad"
+    title='backgroundSahad'
+    >
     <SahadCarousel/>
+    
     </section>
     <section id="backgroundSelena">
     <SelenaCarousel/>
@@ -42,13 +52,31 @@ const App = () => {
     <section id="backgroundGeorge">
       <GeorgeCarousel/>
     </section>
-
     <section id="backgroundJanisJoplin">
       <JanisCarousel/>
     </section>
-    {/* <section id="backgroundAGiantDog">
-      <JanisCarousel/>
-    </section> */}
+    <section id="backgroundAGiantDog">
+      <AGiantDogCarousel/>
+    </section>
+    <section id="backgroundNoogy">
+      <NoogyCarousel/>
+    </section>
+    <section id="backgroundBarryWhite">
+      <BarryWhiteCarousel/>
+    </section>
+    <section id="backgroundExplosionsInTheSky">
+      <ExplosionsInTheSkyCarousel/>
+    </section>
+    <section id="backgroundTheWell">
+      <TheWellCarousel/>
+    </section>
+    <section id="backgroundBeyonce">
+      <TheWellCarousel/>
+    </section>
+    <CommentButton/>
+    <SideBarNav/>
+   
+
     </>
   )
 }

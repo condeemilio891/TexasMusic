@@ -1,0 +1,28 @@
+#commentButton {
+    width: 5rem;
+    height: 5rem;
+    border: none;
+    border-radius: 100px;
+    outline: none;
+    background: black;
+    color: white; 
+    cursor: pointer;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+    position: sticky;
+    bottom: 2%;
+    float: right;
+   z-index: 2;
+   margin-right:2rem;
+  
+
+  }
+  #commentButton:hover {
+    background: #eb2f06;
+    transform: scale(1.1);
+  }
+  .FAcomments{
+    position: absolute;
+    left:25%;
+    bottom:25%;
+
+  }

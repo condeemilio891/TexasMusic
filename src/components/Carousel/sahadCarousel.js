@@ -9,10 +9,10 @@ pinkJagTreeAccordianData,ladyBirdAccordianData,buonaseraAccordianData, runAccord
 const SahadCarousel = () => {
   return (
       <>
-    <h1 className='selenah1' style={{color:'#189AB4'}}>Featured Daniel Sahad</h1>
-    <h2 className='selenah2' style={{color:'#c9c19f'}}> The Lead singer of Nané, Daniel 
+    <h1 className='selenah1' style={{color:'#189AB4'}}>Featuring Daniel Sahad</h1>
+    <h2 className='selenah2' style={{color:'#FFFFFF'}}> The Lead singer of Nané, Daniel 
     Sahad, has range. His Prince like falseto and deep barrotone notes manage to hit extremes while maintaining balance. This creates a  
-    powerful voice that doesn't sacrifice finesse.  
+    powerful voice without sacrificing finesse.  
     
      
    </h2>

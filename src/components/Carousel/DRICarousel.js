@@ -11,7 +11,7 @@ const DRICarousel = () => {
   return (
       <>
     <h1 className='selenah1' style={{color:'#7c0000'}}> Dirty Rotten Imbeciles</h1>
-    <h2 className='selenah2' style={{color:'#ba0000'}}>DRI's style, known as crossover, switchs between the tight, 
+    <h2 className='selenah2' style={{color:'#FFFFFF'}}>DRI's style, known as crossover, switchs between the tight, 
     stripped down and fast paced instrumentation of the Punk Genre and at times slows down to long distorted metal riffs. The Transitions are seemless. 
       The adrenaline DRI invokes makes for a great moshpit and inspired the GTA-V and DOOM soundtracks.</h2>
 

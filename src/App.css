@@ -47,3 +47,18 @@ section{
 #backgroundAGiantDog{
   background-image: url("./Assets/Images/AGiantDog.jpg");
 }
+#backgroundNoogy{
+  background-image: url("./Assets/Images/noogyBackground.png");
+}
+#backgroundBarryWhite{
+  background-image: url("./Assets/Images/BarryWhite.png");
+}
+#backgroundExplosionsInTheSky{
+  background-image:url("./Assets/Images/ExplosionsInTheSky.png")
+}
+#backgroundTheWell{
+  background-image: url("./Assets/Images/TheWell.png");
+}
+#backgroundBeyonce{
+  background-image: url("./Assets/Images/BeyonceBackground.jfif");
+}

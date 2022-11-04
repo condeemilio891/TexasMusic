@@ -11,7 +11,9 @@ const JanisCarousel = () => {
   return (
       <>
     <h1 className='selenah1' style={{color:'#FF7861'}}>Janis Joplin</h1>
-    <h2 className='selenah2' style={{color:'#9B9BA1'}}> </h2>
+    <h2 className='selenah2' style={{color:'#FFFFFF'}}> A cultural icon today, it's difficult to believe that
+     Janis was nominated for "ugliest man on campus" by some random frat at UT. She showed them. 
+     The way her voice alternates from powerful vocals to genuine vulnerabilty and saddness creates an unforgettable blues experience.</h2>
 
   <Carousel>
       <CarouselItem>

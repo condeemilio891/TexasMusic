@@ -7,7 +7,7 @@ export const AccordionWrap = styled.div`
     box-sizing: border-box;
     position:relative;
     right:0%;
-    top:5%;
+    top:0%;
     color:${props=>props.color};
 
 

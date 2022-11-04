@@ -1,5 +1,7 @@
 
 .accordion {
+  display:flex;
+  flex-direction: column;
     max-width: 300px;
     margin: .5rem auto;
     box-sizing: border-box;

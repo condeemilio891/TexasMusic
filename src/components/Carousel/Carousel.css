@@ -13,7 +13,8 @@
     align-items: center;
     justify-content: center;
     height: auto;
-
+    align-content: center;
+    flex-direction: column;
     flex-wrap: wrap;
 }
 
@@ -59,6 +60,7 @@
     text-shadow: 3px 4px 7px black;
   margin-top: 7px;
   font-size: 70px;
+  margin-left: 3.3%;
  
     
 }
@@ -69,15 +71,17 @@
     1px 1px 0 #000,
    1px -1px 0 #000,
   -1px -1px 0 #000;
-  margin-left: 2%;
+  margin-left: 5%;
   text-indent: 1rem;
+  margin-right: 2.5%;
  
     
 }
 
 
 .selenah6{
-    margin-bottom: 500px;
+    margin-bottom:0px;
+    padding-bottom: 5px;
     white-space: pre-wrap;
     color: #DA70D6;
     text-shadow: -1px 1px 0 #000,
@@ -86,8 +90,8 @@
   -1px -1px 0 #000;
   position: relative;
   bottom:-20%;
-  left:10%
- 
+  left:0%;
+  font-size: 1.5rem; 
 }
 @media screen and (max-width: 770px){
     .selenah6{
