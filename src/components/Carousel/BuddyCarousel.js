@@ -12,7 +12,7 @@ const BuddyCarousel = () => {
   return (
       <>
     <h1 className='selenah1' style={{color:'#E45826'}}>Buddy Holly</h1>
-    <h2 className='selenah2' style={{color:'#E45826'}}> Buddy Holly's influnce can't be overstated. Not only did The Beatles derive their name from Buddy's band 'The Crickets'
+    <h2 className='selenah2' style={{color:'#dd3311'}}> Buddy Holly's influnce can't be overstated. Not only did The Beatles derive their name from Buddy's band 'The Crickets'
     but their early performances rely heavily on Buddy Holly covers. Buddy also pioneered the 2 guitarist, 1 bassist and 1 drummer lineup that is considered standard today.
    </h2>
 

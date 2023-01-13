@@ -17,13 +17,15 @@ import ExplosionsInTheSkyCarousel from './components/Carousel/ExplosionsInTheSky
 import TheWellCarousel from './components/Carousel/TheWellCarousel'
 import CommentButton from './components/Comments/CommentsButton/CommentButton'
 import SideBarNav from './components/SideBarNav/SideBarNav'
+import CommentBox from './components/Comments/CommentBox/CommentBox'
+import BeyonceCarousel from './components/Carousel/Beyonce'
 
 const App = () => {
   return (
     <>
      
     <Title/>
-   
+    {/* <CommentBox/> */}
     <section 
     id="backgroundSahad"
     title='backgroundSahad'
@@ -37,9 +39,14 @@ const App = () => {
     <section id="backgroundBigJade">
       <BigJadeCarousel/>
     </section>
+    <section id="backgroundNoogy">
+      <NoogyCarousel/>
+    </section>
+
     <section id="backgroundHolly">
       <BuddyCarousel/>
     </section>
+   
     <section id ="backgroundMaren">
       <MarenCarousel/>
     </section>
@@ -49,31 +56,32 @@ const App = () => {
     <section id="backgroundStevie">
       <StevieCarousel/>
     </section>
-    <section id="backgroundGeorge">
-      <GeorgeCarousel/>
-    </section>
     <section id="backgroundJanisJoplin">
       <JanisCarousel/>
     </section>
     <section id="backgroundAGiantDog">
       <AGiantDogCarousel/>
     </section>
-    <section id="backgroundNoogy">
-      <NoogyCarousel/>
+    <section id="backgroundExplosionsInTheSky">
+      <ExplosionsInTheSkyCarousel/>
     </section>
     <section id="backgroundBarryWhite">
       <BarryWhiteCarousel/>
     </section>
-    <section id="backgroundExplosionsInTheSky">
-      <ExplosionsInTheSkyCarousel/>
-    </section>
-    <section id="backgroundTheWell">
+    <section id="backgroundBarryWhite">
       <TheWellCarousel/>
     </section>
     <section id="backgroundBeyonce">
-      <TheWellCarousel/>
+      <BeyonceCarousel/>
     </section>
-    <CommentButton/>
+    <section id="backgroundGeorge">
+      <GeorgeCarousel/>
+    </section>
+ 
+ 
+   
+    {/* <CommentButton/> */}
+   
     <SideBarNav/>
    
 

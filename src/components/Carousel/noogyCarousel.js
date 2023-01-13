@@ -11,7 +11,7 @@ const NoogyCarousel = () => {
   return (
       <>
     <h1 className='selenah1' style={{color:'#FF7861'}}>Noogy</h1>
-    <h2 className='selenah2' style={{color:'#9B9BA1'}}> </h2>
+    <h2 className='selenah2' style={{color:'white'}}>Noogy has the high energy of a classic UK punk band with blend of dallas thrashmetal. </h2>
 
   <Carousel>
       <CarouselItem>

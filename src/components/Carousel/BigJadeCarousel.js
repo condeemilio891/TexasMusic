@@ -11,7 +11,8 @@ const BigJadeCarousel = () => {
   return (
       <>
     <h1 className='selenah1' style={{color:'#59E255'}}> Big Jade</h1>
-    <h2 className='selenah2' style={{color:'#FFFFFF'}}>Big Jades Confidence hits hard. Her individualistic themes and non-conformist attitude are authentic 
+    <h2 className='selenah2' style={{color:'#FFFFFF'}}>Big Jades Confidence hits hard. Her individualistic attitude and non-conformist themes
+     are authentic 
       made evident by her refusal to sign with a label suggesting she needs plastic surgery.  </h2>
   <Carousel>
   <CarouselItem>

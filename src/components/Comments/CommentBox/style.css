@@ -1,0 +1,16 @@
+#commentBox{
+    height:100vh;
+    width:30%;
+    z-index: 1;
+    background-color: aliceblue;
+    border-style: solid;
+    border-color: black;
+    border-width: 1rem;
+    float:right;
+    position:sticky;
+    top:0;
+    left:0;
+    bottom: 0;
+    right:auto;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
