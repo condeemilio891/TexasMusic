@@ -77,11 +77,7 @@ const App = () => {
     <section id="backgroundGeorge">
       <GeorgeCarousel/>
     </section>
- 
- 
-   
     {/* <CommentButton/> */}
-   
     <SideBarNav/>
    
 

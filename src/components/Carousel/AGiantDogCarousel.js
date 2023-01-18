@@ -10,8 +10,8 @@ let color = '#189AB4'
 const AGiantDogCarousel = () => {
   return (
       <>
-    <h1 className='selenah1' style={{color:'#FF7861'}}>A Giant Dog</h1>
-    <h2 className='selenah2' style={{color:'#9B9BA1'}}> </h2>
+    <h1 className='selenah1' style={{color:'#FF7861'}}> A Giant Dog</h1>
+    <h2 className='selenah2' style={{color:'#9B9BA1'}}> The blending of psychedlia and punk seem like a bad combination until A Giant Dog Plays</h2>
 
   <Carousel>
       <CarouselItem>

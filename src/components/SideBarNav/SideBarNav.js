@@ -51,7 +51,20 @@ const SideBarNav = () => {
         </li>
         <li className="navItem" id="navButton">
         <Link  to="backgroundBeyonce" spy={true} smooth={true}>14: Beyonce</Link>
+        </li> <li className="navItem" id="navButton">
+        <Link  to="backgroundBeyonce" spy={true} smooth={true}>15: Spoon</Link>
         </li>
+         <li className="navItem" id="navButton">
+        <Link  to="backgroundBeyonce" spy={true} smooth={true}>16: Ghostland Observatory</Link>
+        </li>
+        <li className="navItem" id="navButton">
+        <Link  to="backgroundBeyonce" spy={true} smooth={true}>17: shakey Graves</Link>
+        </li>
+        <li className="navItem" id="navButton">
+        <Link  to="backgroundBeyonce" spy={true} smooth={true}>18: Willie Nelson</Link>
+        </li>
+     
+     
      
 
         </ul>
