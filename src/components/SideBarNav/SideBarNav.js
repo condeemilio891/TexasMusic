@@ -11,7 +11,7 @@ const SideBarNav = () => {
     <div id="sideNavBox">
       <ul className='navItems' id="navItems">
         <li className="navItem" id="navButton">
-        <Link activeClass="active" to="backgroundSahad" spy={true} smooth={true}>1: Daniel Sahad</Link>
+        <Link activeClass="active" to="backgroundSahad" spy={true} smooth={true}>1: Nané</Link>
         </li>
         <li className="navItem" id="navButton">
         <Link  to="backgroundSelena" spy={true} smooth={true}>2: Selena </Link>
@@ -52,13 +52,13 @@ const SideBarNav = () => {
         <li className="navItem" id="navButton">
         <Link  to="backgroundBeyonce" spy={true} smooth={true}>14: Beyonce</Link>
         </li> <li className="navItem" id="navButton">
-        <Link  to="backgroundBeyonce" spy={true} smooth={true}>15: Spoon</Link>
+        <Link  to="backgroundSpoon" spy={true} smooth={true}>15: Spoon</Link>
         </li>
          <li className="navItem" id="navButton">
-        <Link  to="backgroundBeyonce" spy={true} smooth={true}>16: Ghostland Observatory</Link>
+        <Link  to="backgroundGhostland" spy={true} smooth={true}>16: Ghostland Observatory</Link>
         </li>
         <li className="navItem" id="navButton">
-        <Link  to="backgroundBeyonce" spy={true} smooth={true}>17: shakey Graves</Link>
+        <Link  to="backgroundBeyonce" spy={true} smooth={true}>17: Gary Clark Jr. </Link>
         </li>
         <li className="navItem" id="navButton">
         <Link  to="backgroundBeyonce" spy={true} smooth={true}>18: Willie Nelson</Link>

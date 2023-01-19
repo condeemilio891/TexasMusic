@@ -12,11 +12,7 @@ export const thatWillBeTheDayAccordionData = [
       Producers	Norman Petty`
                 
     },
-    {
-      title: 'Description',
-      content: `
-      The first professional recording the Beatles (then the Quarrymen) ever made was their rendition of "That'll Be The Day", recorded 12(?) July 1958, but not commercially released until The Beatles Anthology 1.`
-    },
+
     {
       title: 'Lyrics',
       content: `Well, that'll be the day
@@ -86,12 +82,7 @@ export const thatWillBeTheDayAccordionData = [
       Songwriter(s)	Buddy Holly, Norman Petty`
                 
     },
-    {
-      title: 'Description',
-      content: ` True love ways sentimentaly displays the comfort a loved one can offer in times of sadness. 
-      Holly reflects about the beauty of companionship even and especially in the hard times. 
-     `
-    },
+
     {
       title: 'Lyrics',
       content: `Just you know why
@@ -135,11 +126,7 @@ export const thatWillBeTheDayAccordionData = [
       Producer(s)	Norman Petty, Bob Thiele`
                 
     },
-    {
-      title: 'Description',
-      content: ` A hopeful romantic ballad. The celesta sounds great.  
-     `
-    },
+
     {
       title: 'Lyrics',
       content: `Everyday, it's a-gettin' closer
@@ -180,11 +167,7 @@ export const thatWillBeTheDayAccordionData = [
       Duration: 2:18`
                 
     },
-    {
-      title: 'Description',
-      content: ` One of many rock and roll standards Buddy nails. Originally by Little Richard. 
-     `
-    },
+ 
     {
       title: 'Lyrics',
       content: `Send me some loving, send it I pray
@@ -220,11 +203,7 @@ export const thatWillBeTheDayAccordionData = [
       Producer(s)	Norman Petty`
                 
     },
-    {
-      title: 'Description',
-      content: ` A Sentemental song  
-     `
-    },
+ 
     {
       title: 'Lyrics',
       content: `Heartbeat
@@ -261,11 +240,7 @@ export const thatWillBeTheDayAccordionData = [
       Songwriter(s)	Paul Anka`
                 
     },
-    {
-      title: 'Description',
-      content: ` A playful song about the pain of a breakup and moving on. It sounds like something a Disney Character would sing. 
-     `
-    },
+
     {
       title: 'Lyrics',
       content: `There you go and baby, here am I
@@ -310,11 +285,7 @@ export const thatWillBeTheDayAccordionData = [
       Producer(s)	Jack Hansen`
                 
     },
-    {
-      title: 'Description',
-      content: ` A Country blues song about longing.  
-     `
-    },
+  
     {
       title: 'Lyrics',
       content: `Crying, waiting, hoping, you'll come back
@@ -346,11 +317,7 @@ export const thatWillBeTheDayAccordionData = [
       Producer(s)	Sam Phillips`
                 
     },
-    {
-      title: 'Description',
-      content: ` Considered one of rockabilly's first songs. Written by Carl Perkins.
-     `
-    },
+
     {
       title: 'Lyrics',
       content: `Well, it's one for the money two for the show
@@ -396,11 +363,7 @@ export const thatWillBeTheDayAccordionData = [
       Songwriter(s)	Fats Domino, Dave Bartholomew`
                 
     },
-    {
-      title: 'Description',
-      content: ` Another cover that Buddy nailed the essence of. Sentimental and Cathardic.   
-     `
-    },
+
     {
       title: 'Lyrics',
       content: `I want you to take me
@@ -434,11 +397,7 @@ export const thatWillBeTheDayAccordionData = [
       Producer(s)	Norman Petty`
                 
     },
-    {
-      title: 'Description',
-      content: ` 
-     `
-    },
+ 
     {
       title: 'Lyrics',
       content: `I want you to take me
@@ -473,11 +432,7 @@ export const thatWillBeTheDayAccordionData = [
       Producer(s)	Norman Petty`
                 
     },
-    {
-      title: 'Description',
-      content: ` 
-     `
-    },
+  
     {
       title: 'Lyrics',
       content: `I want you to take me

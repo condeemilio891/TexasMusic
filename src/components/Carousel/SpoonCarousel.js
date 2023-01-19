@@ -17,7 +17,7 @@ const SpoonCarousel = () => {
       <CarouselItem>
       
         <h3 className='selenah6' style={{color:'#3B6DC2'}}> Spoon</h3>
-          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=P6S5pSlASOk'/>
+          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=IpT5SBg1Mmk'/>
           <div className="accordion" >
         {teenIdolAccordionData.map(({ title, content }) => (
           <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />

@@ -8,12 +8,7 @@ export const myChurchAccordionData = [
       Genre: Country`
                 
     },
-    {
-      title: 'Description',
-      content: `"My Church", Maren's debut single, contains heavy elements of gospel, soul and country while also hitting a punchy Pop aesthetic. There is something 
-      for everybody in this song 
-                `
-    },
+  
     {
       title: 'Lyrics',
       content: `I've cussed on a Sunday
@@ -78,11 +73,7 @@ export const myChurchAccordionData = [
       busbee Maren Morris`
                 
     },
-    {
-      title: 'Description',
-      content: `  When single, a love song can be used for escapism. 
-                `
-    },
+  
     {
       title: 'Lyrics',
       content: `Usually a drink will do the trick
@@ -144,11 +135,7 @@ export const myChurchAccordionData = [
       Genre: Dance`
                 
     },
-    {
-      title: 'Description',
-      content: ` Maren doesn't seem out of her comfort zone when singing something out her wheelhouse.  
-                `
-    },
+ 
     {
       title: 'Lyrics',
       content: `Take a seat, right over there, sat on the stairs
@@ -210,11 +197,7 @@ export const myChurchAccordionData = [
       Genre: Country`
                 
     },
-    {
-      title: 'Description',
-      content: ` Position and money can go away sometimes its smart to value the personality of the person because that is who they are. 
-                `
-    },
+ 
     {
       title: 'Lyrics',
       content: `We're in the homestretch of the hard times
@@ -267,11 +250,7 @@ export const myChurchAccordionData = [
       Producers: busbee Maren Morris Greg Kurstin`
                 
     },
-    {
-      title: 'Description',
-      content: ` “Failure is not a permanent condition.” ― Angela Duckworth
-                `
-    },
+
     {
       title: 'Lyrics',
       content: `[Verse 1]
@@ -359,11 +338,7 @@ export const myChurchAccordionData = [
       busbeeMaren Morris`
                 
     },
-    {
-      title: 'Description',
-      content: `  
-                `
-    },
+ 
     {
       title: 'Lyrics',
       content: `La-a-a-a-a-di-da
@@ -441,11 +416,6 @@ export const myChurchAccordionData = [
                 
     },
     {
-      title: 'Description',
-      content: ` 
-                `
-    },
-    {
       title: 'Lyrics',
       content: `La-a-a-a-a-di-da
       La-a-a-a-a-di-da
@@ -515,11 +485,7 @@ export const myChurchAccordionData = [
       Album: Humble Quest`
                 
     },
-    {
-      title: 'Description',
-      content: `  
-                `
-    },
+
     {
       title: 'Lyrics',
       content: `[Verse 1]
@@ -587,12 +553,7 @@ export const myChurchAccordionData = [
       Genre: Country`
                 
     },
-    {
-      title: 'Description',
-      content: ` 80's Mercedes begins relaxing, slow country song  and accelerates into a pop song with the catchy lyric: "I'm a 90's baby in my 80's 
-      Mercedes." 
-                `
-    },
+
     {
       title: 'Lyrics',
       content: `[Verse 1]

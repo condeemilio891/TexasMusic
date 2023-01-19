@@ -6,10 +6,7 @@ export const allGasNoBrakesAccordionData = [
       `
                 
     },
-    {
-      title: 'Description',
-      content: `'All Gas no Brakes' describes the race of life and how Big Jade is Winning. `
-    },
+   
     {
       title: 'Lyrics',
       content: `(Why your face so ugly?)
@@ -90,10 +87,7 @@ export const allGasNoBrakesAccordionData = [
       `
                 
     },
-    {
-      title: 'Description',
-      content: `congruous with Big Jades individualistic values, 'Jade Wins' has an aggresive, tight rapping style.`
-    },
+ 
     {
       title: 'Lyrics',
       content: `[Intro]
@@ -211,10 +205,7 @@ export const allGasNoBrakesAccordionData = [
       `
                 
     },
-    {
-      title: 'Description',
-      content: `The production in 'Pressed' brings in the southern trap-like beat. `
-    },
+ 
     {
       title: 'Lyrics',
       content: `Yo' man check this motherf- out
@@ -290,11 +281,7 @@ export const allGasNoBrakesAccordionData = [
       `
                 
     },
-    {
-      title: 'Description',
-      content: `'Get It' shows another dimension to Big Jades rapping ability. The production and memorable chorus
-       appeal to a club going audience.`
-    },
+
     {
       title: 'Lyrics',
       content: `[Intro]
@@ -379,10 +366,7 @@ export const allGasNoBrakesAccordionData = [
       `
                 
     },
-    {
-      title: 'Description',
-      content: `The transitions in Big Jades verse occur right when the rhythm start to get repetitive.`
-    },
+  
     {
       title: 'Lyrics',
       content: `Yup, hold up bitch, ay
@@ -472,10 +456,7 @@ export const allGasNoBrakesAccordionData = [
       `
                 
     },
-    {
-      title: 'Description',
-      content: `Big Jade Freestyle `
-    },
+  
     {
       title: 'Lyrics',
       content: `Freestyle`
@@ -490,11 +471,7 @@ export const allGasNoBrakesAccordionData = [
       `
                 
     },
-    {
-      title: 'Description',
-      content: `An Homage to Texas. It is true most Texans Mosey but the ones who choose to hustle go hard in the paint. Big Jade is a
-      good example of this.`
-    },
+
     {
       title: 'Lyrics',
       content: `They upset 'cause I'm that bitch, no lie despite of my location
@@ -542,10 +519,7 @@ export const allGasNoBrakesAccordionData = [
       `
                 
     },
-    {
-      title: 'Description',
-      content: `Big Jade 2022 Freestyle on The Come Up Show Live. `
-    },
+ 
     {
       title: 'Lyrics',
       content: `Freestyle`

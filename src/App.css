@@ -62,3 +62,9 @@ section{
 #backgroundBeyonce{
   background-image: url("./Assets/Images/BeyonceBackground.jfif");
 }
+#backgroundSpoon{
+  background-image: url(./Assets/Images/spoonBackground.jpg);
+}
+#backgroundGhostland{
+  background-image: url(./Assets/Images/ghostlandObservatoryBackground.jpg);
+}

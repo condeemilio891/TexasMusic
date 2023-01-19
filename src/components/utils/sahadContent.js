@@ -6,13 +6,7 @@ export const blueVelvetAccordianData = [
       Album: Nané`
                 
     },
-    {
-      title: 'Description',
-      content: `
-      In the own bands words " 'Blue Velvet' is about not taking yourself too seriously, having fun, and coming together. 
-      Don't let peoples opinions keep you captive." 
-      `
-    },
+ 
     {
       title: 'Lyrics',
       content: `Let me take you round the ocean
@@ -101,12 +95,7 @@ export const blueVelvetAccordianData = [
       Album: Nané`
                 
     },
-    {
-      title: 'Description',
-      content: ` 'Always on my Mind'
-       
-      `
-    },
+ 
     {
       title: 'Lyrics',
       content: `This girl was always on my mind 
@@ -151,14 +140,7 @@ export const blueVelvetAccordianData = [
       Album: Nané`
                 
     },
-    {
-      title: 'Description',
-      content: ` "Sweet and sour as the fruit, but filled with overwhelming power on each extreme. This is Nané's newest powerhouse single." - Where the Music Meets. 
-      I would like to that I love Sahads patience here. 
 
-       
-      `
-    },
     {
       title: 'Lyrics',
       content: `I'm so certain I know you're my kind
@@ -208,13 +190,7 @@ export const blueVelvetAccordianData = [
       Album: Nané`
                 
     },
-    {
-      title: 'Description',
-      content: ` 
-      'Seventeen' reminds Austinites of our greatest strength. Our ability to 
-      be weird and blur the lines without breaking them. 
-      `
-    },
+
     {
       title: 'Lyrics',
       content: ``
@@ -235,12 +211,7 @@ export const blueVelvetAccordianData = [
       Album: Nané`
                 
     },
-    {
-      title: 'Description',
-      content: ` An Authentic look at the pain love and loss can cause permanently. In this track Nane begs the listener to not "hideaway" from pain
-      but instead "not let the love go to waste." 
-      `
-    },
+ 
     {
       title: 'Lyrics',
       content: `We were lovers from the start
@@ -288,11 +259,7 @@ export const blueVelvetAccordianData = [
       Album: Nané`
                 
     },
-    {
-      title: 'Description',
-      content: ` Sahad's delicate voice and a guitarist that draws passion from every note reminds me "Pink Jag" is  like Sade, sophisticated and Smooth
-      `
-    },
+   
     {
       title: 'Lyrics',
       content: `You got me with your longing eyes
@@ -342,12 +309,7 @@ export const blueVelvetAccordianData = [
       Album: Nané`
                 
     },
-    {
-      title: 'Description',
-      content: ` The journey Nane takes the classic song 'Buona Sera' through takes a similar structure of Tina Turner's cover of "Proud Mary."
-      It starts "easy" and finishes "Rough."  
-      `
-    },
+  
     {
       title: 'Lyrics',
       content: `Buona sera senorina buona sera
@@ -381,12 +343,7 @@ export const blueVelvetAccordianData = [
       Album: Nané`
                 
     },
-    {
-      title: 'Description',
-      content: ` 
-      'null 
-      `
-    },
+  
     {
       title: 'Lyrics',
       content: ``

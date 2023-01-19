@@ -8,10 +8,6 @@ export const sleepWhenDeadAccordionData = [
                 
     },
     {
-      title: 'Description',
-      content: `Swing  `
-    },
-    {
       title: 'Lyrics',
       content: ``
     }

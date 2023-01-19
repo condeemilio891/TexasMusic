@@ -19,7 +19,8 @@ import CommentButton from './components/Comments/CommentsButton/CommentButton'
 import SideBarNav from './components/SideBarNav/SideBarNav'
 import CommentBox from './components/Comments/CommentBox/CommentBox'
 import BeyonceCarousel from './components/Carousel/Beyonce'
-
+import SpoonCarousel from './components/Carousel/SpoonCarousel'
+import GhostlandCarousel from './components/Carousel/GhostLandObservatory'
 const App = () => {
   return (
     <>
@@ -68,7 +69,7 @@ const App = () => {
     <section id="backgroundBarryWhite">
       <BarryWhiteCarousel/>
     </section>
-    <section id="backgroundBarryWhite">
+    <section id="backgroundTheWell">
       <TheWellCarousel/>
     </section>
     <section id="backgroundBeyonce">
@@ -76,6 +77,11 @@ const App = () => {
     </section>
     <section id="backgroundGeorge">
       <GeorgeCarousel/>
+    </section>
+    <section id="backgroundSpoon">
+      <SpoonCarousel/>
+    </section>    <section id="backgroundGhostland">
+      <GhostlandCarousel/>
     </section>
     {/* <CommentButton/> */}
     <SideBarNav/>

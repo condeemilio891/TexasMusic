@@ -7,10 +7,7 @@ export const yourHandInMineAccordionData = [
       Duration: 1:52`
                 
     },
-    {
-      title: 'Description',
-      content: `Swing  `
-    },
+
     {
       title: 'Lyrics',
       content: ``

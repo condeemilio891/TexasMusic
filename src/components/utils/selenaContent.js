@@ -9,11 +9,7 @@ export const siUnaVezAccordionData = [
                 Producers:A.B. QuintanillaBebu Silvetti`
                 
     },
-    {
-      title: 'Description',
-      content: `Sentimental and in possession of heavy tones of duende, Selena reminiscences her failed relationship.
-      She askes what she was thinking. Although she regrets it (arrepiento) she wants to move on and feels empowered.`
-    },
+  
     {
       title: 'Lyrics',
       content: `Yo 
@@ -64,11 +60,7 @@ export const siUnaVezAccordionData = [
                   
       },
 
-      {
-        title: 'Description',
-        content: `While extreamly bubbly and sugary, BidiBidiBomBom still manages to be sentimental. Named after the sound your heart makes when you see someone you love and the inabilty to control the biological response that comes with seeing your significant other.
-        It topped the charts at number 1 and stayed their for four weeks in 1994`
-      },
+    
       {
         title: 'Lyrics',
         content: `Bidi bidi bom bom
@@ -139,11 +131,7 @@ export const baileEstaCumbiaAccoridionData=
                   
       },
 
-      {
-        title: 'Description',
-        content: `Baile esta Cumbia is a perfect example of Selena using Latin American influnce in her music. Cumbia is the national dance of Colombia.
-        `
-      },
+
       {
         title: 'Lyrics',
         content: `Siento algo que me mueve
@@ -207,10 +195,7 @@ export const comoLaFlorAccoridionData=
                   
       },
 
-      {
-        title: 'Description',
-        content: `Selena's iconic and breathtaking song Como La Flor reminds us all to strive for true love and not possession and obsession`
-      },
+   
       {
         title: 'Lyrics',
         content: `Yo sé que tienes un nuevo amor
@@ -255,10 +240,7 @@ export const besitosAccoridionData=
                   
       },
 
-      {
-        title: 'Description',
-        content: `From her debut album, Selena, Besitos demonstrates her strength as a solo artist `
-      },
+     
       {
         title: 'Lyrics',
         content: `Con cada beso que me das
@@ -305,10 +287,7 @@ export const quieroAccoridionData=
                   
       },
 
-      {
-        title: 'Description',
-        content: `A simple and enchanting song. Quiero shows Selena's roots and where she started, with los Dinos.`
-      },
+ 
       {
         title: 'Lyrics',
         content: `Quiero, quiero que me digas que me quieres con todo tu corazón
@@ -360,12 +339,7 @@ export const iCouldFallInLoveAccoridionData=
                   
       },
 
-      {
-        title: 'Description',
-        content: `A slow and romantic ballad,'I Could Fall In Love' shows the Selena's versitility.
-        Not only did 'I Could Fall in Love' break into the English speaking world but that of Pop, R&B and Soul.
-        .`
-      },
+    
       {
         title: 'Lyrics',
         content: `I could lose my heart tonight
@@ -423,12 +397,7 @@ export const amorProhibidoAccoridionData=
                   
       },
 
-      {
-        title: 'Description',
-        content: `Selenas first single to top the number 1 charts, Amor prohibido, stayed there for nine weeks. 
-         Amor prohibido means "Forbidden Love." Some claim that the inspiration for the song came from the relationship between Selenas Grandparents who could not love each other due to class.
-         Others say the inspiration came from Selena going against her father and eloping with Perez in 1992. `
-      },
+  
       {
         title: 'Lyrics',
         content: `Con unas ansias locas
@@ -495,11 +464,7 @@ export const noMeQuedaMasAccoridionData=
                   
       },
 
-      {
-        title: 'Description',
-        content: `A poingnant ballad of unreciprocated love, No Me Queda Mas Describes the pain of wishing
-        your crush the best while having to put a brave face on when they dont choose you.`
-      },
+
       {
         title: 'Lyrics',
         content: `No me queda más
@@ -558,12 +523,7 @@ export const ElChicoAccoridionData=
                   
       },
 
-      {
-        title: 'Description',
-        content: `Festive and upbeat, El Chico del Apartamento 512 tells the story of a girl who writes letters to a boy she admires from afar but is too afraid to send them.
-                Despite her shyness, The hope uplifts her emotions to joyous ones. 
-        `
-      },
+     
       {
         title: 'Lyrics',
         content: `Cada día es igual por mi pasillo

@@ -12,10 +12,7 @@ export const loveStruckBabyAccordionData = [
       Richard Mullen`
                 
     },
-    {
-      title: 'Description',
-      content: ``
-    },
+ 
     {
       title: 'Lyrics',
       content: `Well I'm a love struck baby I must confess
@@ -61,11 +58,7 @@ export const loveStruckBabyAccordionData = [
       Producer(s)	Stevie Ray Vaughan, Richard Mullen, and Double Trouble`
                 
     },
-    {
-      title: 'Description',
-      content: ` A Signature song that Stevie wrote himself. The Texas Shovel is a guitar technique that opens the strings when stroking up 
-      and closing them when moving down. This creates a circular rhythm that swings around and around. Innovative`
-    },
+  
     {
       title: 'Lyrics',
       content: `Well, you've heard about love givin' sight to the blind
@@ -127,10 +120,7 @@ export const loveStruckBabyAccordionData = [
       Producer(s)	Chas Chandler`
                 
     },
-    {
-      title: 'Description',
-      content: `Nailing Jimi, not only technicly but stylisticly, clearly shows mastery of the guitar. `
-    },
+
     {
       title: 'Lyrics',
       content: `Well, you've heard about love givin' sight to the blind
@@ -181,10 +171,7 @@ export const loveStruckBabyAccordionData = [
       Tune Up - Rock 38`
                 
     },
-    {
-      title: 'Description',
-      content: `This song walks a tightrope with its sound. Some blues, some rock and roll, some psychedelic rock, some swing. `
-    },
+
     {
       title: 'Lyrics',
       content: `Caught up in a whirlwind can't catch my breath
@@ -226,10 +213,7 @@ export const loveStruckBabyAccordionData = [
       Tune Up - Rock 38`
                 
     },
-    {
-      title: 'Description',
-      content: `This song walks a tightrope with its sound. Some blues, some rock and roll, some psychedelic rock, some swing. `
-    },
+ 
     {
       title: 'Lyrics',
       content: `Caught up in a whirlwind can't catch my breath
@@ -269,10 +253,7 @@ export const loveStruckBabyAccordionData = [
       Genre: Blues`
                 
     },
-    {
-      title: 'Description',
-      content: `Swing  `
-    },
+
     {
       title: 'Lyrics',
       content: `Well, the house is a rockin', don't bother knockin'
@@ -313,10 +294,7 @@ export const loveStruckBabyAccordionData = [
       Duration: 1:52`
                 
     },
-    {
-      title: 'Description',
-      content: `Swing  `
-    },
+  
     {
       title: 'Lyrics',
       content: ``
@@ -333,10 +311,7 @@ export const loveStruckBabyAccordionData = [
       Genre: Blues`
                 
     },
-    {
-      title: 'Description',
-      content: `Inspired by Stevie's Wife  `
-    },
+
     {
       title: 'Lyrics',
       content: ``
@@ -353,10 +328,7 @@ export const loveStruckBabyAccordionData = [
       Genre: Pop music`
                 
     },
-    {
-      title: 'Description',
-      content: ` `
-    },
+
     {
       title: 'Lyrics',
       content: `Day by day night after night
@@ -407,10 +379,7 @@ export const loveStruckBabyAccordionData = [
       Genre: Blues`
                 
     },
-    {
-      title: 'Description',
-      content: `Inspired by Stevie's Wife  `
-    },
+   
     {
       title: 'Lyrics',
       content: `[Verse 1]

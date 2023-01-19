@@ -12,11 +12,7 @@ export const allMyExesLiveInTexasAccordionData = [
       Producer(s)	Jimmy Bowen, George Strait`
                 
     },
-    {
-      title: 'Description',
-      content: ` All my Exes live in Texas begins with the comfortable country slide guitar
-      and goes on with some truly great lyrics`
-    },
+
     {
       title: 'Lyrics',
       content: `All my exes live in Texas
@@ -62,10 +58,7 @@ export const allMyExesLiveInTexasAccordionData = [
       Genres: Country music, Country`
                 
     },
-    {
-      title: 'Description',
-      content: ` Few natural wonders in Texas rival the beauty of the Amarillo Sunset.`
-    },
+
     {
       title: 'Lyrics',
       content: `Amarillo by mornin'
@@ -116,10 +109,7 @@ export const allMyExesLiveInTexasAccordionData = [
       Producer(s)	Ray Baker`
                 
     },
-    {
-      title: 'Description',
-      content: `A song about true love. `
-    },
+ 
     {
       title: 'Lyrics',
       content: `Oh how you sparkle and oh how you shine
@@ -166,10 +156,7 @@ export const allMyExesLiveInTexasAccordionData = [
       Genres: Country music, Country`
                 
     },
-    {
-      title: 'Description',
-      content: ` It hurts to let someone go. `
-    },
+ 
     {
       title: 'Lyrics',
       content: `I knew the stakes were high right from the start
@@ -203,10 +190,7 @@ export const allMyExesLiveInTexasAccordionData = [
       Genre: Country`
                 
     },
-    {
-      title: 'Description',
-      content: ` I normally recomend building rapport in a natural manner but if you are this good with the pickup lines go Strait for it. :) `
-    },
+
     {
       title: 'Lyrics',
       content: `Well, excuse me, but I think you've got my chair

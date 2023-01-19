@@ -8,11 +8,7 @@ export const meAndBobbyMcgeeeAccordionData = [
       Genre: Country`
                 
     },
-    {
-      title: 'Description',
-      content: `   
-     `
-    },
+
     {
       title: 'Lyrics',
       content: `If it sounds country man
@@ -67,10 +63,7 @@ export const meAndBobbyMcgeeeAccordionData = [
       Genre: Blues`
                 
     },
-    {
-      title: 'Description',
-      content: `   `
-    },
+
     {
       title: 'Lyrics',
       content: `
@@ -117,10 +110,7 @@ export const meAndBobbyMcgeeeAccordionData = [
       Songwriter(s)	Jerry Ragovoy, Bert Berns`
                 
     },
-    {
-      title: 'Description',
-      content: `   `
-    },
+
     {
       title: 'Lyrics',
       content: `Oh, come on, come on, come on, come on!
@@ -185,10 +175,7 @@ export const meAndBobbyMcgeeeAccordionData = [
         Producer(s)	Gabriel Mekler`
                 
     },
-    {
-      title: 'Description',
-      content: `   `
-    },
+ 
     {
       title: 'Lyrics',
       content: `Time keeps moving on
@@ -274,10 +261,7 @@ export const meAndBobbyMcgeeeAccordionData = [
       Producer(s)	Paul A. Rothchild`
                 
     },
-    {
-      title: 'Description',
-      content: `   `
-    },
+ 
     {
       title: 'Lyrics',
       content: `Cry baby, cry baby, cry baby

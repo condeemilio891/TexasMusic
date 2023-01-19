@@ -12,10 +12,7 @@ export const trashardAccordionData = [
       Producer	Spike Cassidy and Bill Metoyer`
                 
     },
-    {
-      title: 'Description',
-      content: `A perfect example of "show dont tell" Thrashard describes what it sounds,feels and looks like to Mosh.`
-    },
+
     {
       title: 'Lyrics',
       content: `There's a gig
@@ -101,11 +98,7 @@ export const trashardAccordionData = [
       Producer	Spike Cassidy and Bill Metoyer`
                 
     },
-    {
-      title: 'Description',
-      content: `“When you tear out a man's tongue, you are not proving him a liar, 
-      you're only telling the world that you fear what he might say.” ― George R.R. Martin`
-    },
+
     {
       title: 'Lyrics',
       content: `Kill the author Of the best seller
@@ -147,10 +140,7 @@ export const trashardAccordionData = [
       Songwriter(s)	Ike Turner`
                 
     },
-    {
-      title: 'Description',
-      content: `Trevors Song`
-    },
+
     {
       title: 'Lyrics',
       content: `[Verse 1]
@@ -198,10 +188,7 @@ export const trashardAccordionData = [
       Genre: Crossover Thrash`
                 
     },
-    {
-      title: 'Description',
-      content: `Good political punk stays relevant for generations`
-    },
+
     {
       title: 'Lyrics',
       content: `Will our children look back
@@ -260,11 +247,7 @@ export const trashardAccordionData = [
       Producer	Spike Cassidy and Bill Metoyer`
                 
     },
-    {
-      title: 'Description',
-      content: `Much of punk revolves around a sword of Damocles themed sarcasm criticizing the belief that money and power will save you from suffering.
-      `
-    },
+
     {
       title: 'Lyrics',
       content: `Suit and tie guy
@@ -307,11 +290,7 @@ export const trashardAccordionData = [
       Producer	Spike Cassidy and Bill Metoyer`
                 
     },
-    {
-      title: 'Description',
-      content: `Punk will use traditional Greek parody and ironically imitate someones behavior in a society.
-       Here they act like an inconsiderate driver. `
-    },
+  
     {
       title: 'Lyrics',
       content: `Go! Don't be late
@@ -366,10 +345,7 @@ export const trashardAccordionData = [
       Released: 1984`
                 
     },
-    {
-      title: 'Description',
-      content: `The other side of the Hegemonic stability theory coin`
-    },
+ 
     {
       title: 'Lyrics',
       content: `Forces united the choice is yours
@@ -409,11 +385,7 @@ export const trashardAccordionData = [
       Genre: Crossover Thrash`
                 
     },
-    {
-      title: 'Description',
-      content: `In one minute, "I'd Rather be Sleeping" spits out many mosh-pit invoking riffs while transition seamlessly. The variable pacing
-      appeals to many.   `
-    },
+ 
     {
       title: 'Lyrics',
       content: `From sun-up to sun-down
@@ -454,10 +426,7 @@ export const trashardAccordionData = [
       Producer	Spike Cassidy and Bill Metoyer`
                 
     },
-    {
-      title: 'Description',
-      content: `"At Dooms Gate" (both the new and old version) took inspiration from the guitar riff from DRI's "hooked" song.`
-    },
+
     {
       title: 'Lyrics',
       content: ``
@@ -472,10 +441,7 @@ export const trashardAccordionData = [
       Released: 2016`
                 
     },
-    {
-      title: 'Description',
-      content: `A Punk styled criticism of our consumer culture.`
-    },
+
     {
       title: 'Lyrics',
       content: `[Intro]

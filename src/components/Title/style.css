@@ -35,8 +35,17 @@
     
   
 }
+@media screen and (max-width: 480px){
+    #titleh1{
+        font-size: 1.5rem;
+        right:15%;
+        top:20%;
+        
+        
+    }
+}
 #titleh2{
-    font-size: 3rem;
+    font-size: 2rem;
     color: blue;
     z-index: 1;
 
@@ -58,6 +67,15 @@
    
   
 }
+@media screen and (max-width: 480px){
+    #titleh2{
+        font-size: 2rem;
+        right:0%;
+        top:40%;
+        
+    }
+}
+
 
 .titleImg1
 {
