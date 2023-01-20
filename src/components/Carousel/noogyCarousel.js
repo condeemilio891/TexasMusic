@@ -20,7 +20,7 @@ const NoogyCarousel = () => {
           <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=P6S5pSlASOk'/>
           <div className="accordion" >
         {teenIdolAccordionData.map(({ title, content }) => (
-          <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+          <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#ffffff" title={title} content={content} />
         ))}
         </div>
       </CarouselItem>
@@ -30,7 +30,7 @@ const NoogyCarousel = () => {
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=jPxtTr5czsk'/>
         <div className="accordion" >
       {teenIdolAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+    <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#ffffff" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -40,7 +40,7 @@ const NoogyCarousel = () => {
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=TQXbmh5NZG8'/>
         <div className="accordion" >
       {teenIdolAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+      <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#ffffff" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -50,7 +50,7 @@ const NoogyCarousel = () => {
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=mW5BN9MHDlQ'/>
         <div className="accordion" >
       {teenIdolAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+       <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#ffffff" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>

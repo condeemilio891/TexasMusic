@@ -6,7 +6,7 @@ const Title = () => {
     <div className='title'>
       <img className='titleImg1'/>
       
-      <h1 id='titleh1'>20 Musicians from Texas</h1>
+      <h1 id='titleh1'>15 Musicians from Texas</h1>
       <h1 id='titleh2'>In Memory of Daniel Sahad</h1>
 
         <div className='redTexasFlagElement'/>

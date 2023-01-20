@@ -12,7 +12,7 @@ const ExplosionsInTheSkyCarousel = () => {
       <>
     <h1 className='selenah1' style={{color:'#C0C0C0'}}>Explosions In The Sky</h1>
     <h2 className='selenah2' style={{color:'#FFFFFF'}}>Creating moving soundtracks for movies like Lone Survivor and shows like Friday Night Lights,
-    this quartet have mastery over the theming and patience.  </h2>
+    this quartet has mastery over the theming and patience.  </h2>
 
   <Carousel><CarouselItem>
       
@@ -20,7 +20,7 @@ const ExplosionsInTheSkyCarousel = () => {
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=aznXne3juPk'/>
         <div className="accordion" >
       {firstBreathAfterComaAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+        <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#26f7fd" backgroundColorContent="#26f7fd" color="#000000" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -30,7 +30,7 @@ const ExplosionsInTheSkyCarousel = () => {
           <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=cdiY6kijYHE'/>
           <div className="accordion" >
         {yourHandInMineAccordionData.map(({ title, content }) => (
-          <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+          <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#26f7fd" backgroundColorContent="#26f7fd" color="#000000" title={title} content={content} />
         ))}
         </div>
       </CarouselItem>
@@ -40,7 +40,7 @@ const ExplosionsInTheSkyCarousel = () => {
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=tCzzd3BwLAc'/>
         <div className="accordion" >
       {theOnlyMomentAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+      <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#26f7fd" backgroundColorContent="#26f7fd" color="#000000" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -50,7 +50,7 @@ const ExplosionsInTheSkyCarousel = () => {
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=Gh5s_mPMuWU'/>
         <div className="accordion" >
       {neverGiveUpAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+ <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#26f7fd" backgroundColorContent="#26f7fd" color="#000000" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>

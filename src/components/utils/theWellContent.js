@@ -4,7 +4,8 @@ export const MortalBonesAccordionData = [
       content: `Album: Samsara
       Artist: Well
       Release year: 2014
-      Duration: 5:31`
+      Duration: 5:31
+      Riding Easy Records `
                 
     },
    
@@ -21,6 +22,7 @@ export const MortalBonesAccordionData = [
       content: `Album: Death and Consolation
       Artist: The Well
       Release year: 2019
+      Riding Easy Records
       `
                 
     },
@@ -37,6 +39,7 @@ export const MortalBonesAccordionData = [
       content: `Album: Death and Consolation
       Artist: The Well
       Release year: 2019
+      Riding Easy Records
       `
                 
     },
@@ -44,5 +47,20 @@ export const MortalBonesAccordionData = [
     {
       title: 'Lyrics',
       content: `not Published :(`
+    }
+  ];
+  export const thisIsHowTheWorldEndsAccordionData = [
+    {
+      title: ' The House is Rockin Quick Info',
+      content: `Album: Death and Consolation
+      Artist: The Well
+      Release year: 2019
+      Riding Easy Recors `
+                
+    },
+
+    {
+      title: 'Lyrics',
+      content: ``
     }
   ];

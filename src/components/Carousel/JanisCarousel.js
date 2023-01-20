@@ -18,51 +18,51 @@ const JanisCarousel = () => {
   <Carousel>
       <CarouselItem>
       
-        <h3 className='selenah6' style={{color:'#3B6DC2'}}> Me and Bobby Mcgee</h3>
+        <h3 className='selenah6' style={{color:'#FF7861'}}> Me and Bobby Mcgee</h3>
           <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=sfjon-ZTqzU'/>
           <div className="accordion" >
         {meAndBobbyMcgeeeAccordionData.map(({ title, content }) => (
-          <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+ <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#ffffff" title={title} content={content} />
         ))}
         </div>
       </CarouselItem>
       <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#3B6DC2'}}> Maybe</h3>
+      <h3 className='selenah6' style={{color:'#FF7861'}}> Maybe</h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=zad3bDnjsII'/>
         <div className="accordion" >
       {maybeAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+       <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#ffffff" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
     <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#3B6DC2'}}> Piece of My Heart</h3>
+      <h3 className='selenah6' style={{color:'#FF7861'}}> Piece of My Heart</h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=sfjon-ZTqzU'/>
         <div className="accordion" >
       {pieceOfMyHeartAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+         <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#ffffff" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
     <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#3B6DC2'}}> Kozmic Blues</h3>
+      <h3 className='selenah6' style={{color:'#FF7861'}}> Kozmic Blues</h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=sfjon-ZTqzU'/>
         <div className="accordion" >
       {KozmicBluesAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#ffffff" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
     <CarouselItem>
       
-      <h3 className='selenah6' style={{color:'#3B6DC2'}}> Cry Baby</h3>
+      <h3 className='selenah6' style={{color:'#FF7861'}}> Cry Baby</h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=sfjon-ZTqzU'/>
         <div className="accordion" >
       {cryBabyAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#ffffff" title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
