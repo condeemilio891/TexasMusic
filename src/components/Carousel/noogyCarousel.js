@@ -24,6 +24,37 @@ const NoogyCarousel = () => {
         ))}
         </div>
       </CarouselItem>
+      <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#3B6DC2'}}> Grandmas House</h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=jPxtTr5czsk'/>
+        <div className="accordion" >
+      {teenIdolAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#3B6DC2'}}> 2017</h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=TQXbmh5NZG8'/>
+        <div className="accordion" >
+      {teenIdolAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    <CarouselItem>
+      
+      <h3 className='selenah6' style={{color:'#3B6DC2'}}> ACAB</h3>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=mW5BN9MHDlQ'/>
+        <div className="accordion" >
+      {teenIdolAccordionData.map(({ title, content }) => (
+        <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
+      ))}
+      </div>
+    </CarouselItem>
+    
     
   </Carousel>
   </>

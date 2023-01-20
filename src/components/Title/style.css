@@ -1,3 +1,11 @@
+.titleContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
 .title{
     display:flex;
     flex-direction: column;
@@ -13,11 +21,11 @@
 
 #titleh1{
     font-size: 3rem;
-    color: blue;
+    color: #7C0A02;
     z-index: 1;
   
     position: absolute;
-    top:15%;
+    top:20%;
     right:34%;
     text-shadow: 0 1px 0 #ccc, 
                0 2px 0 #c9c9c9,
@@ -35,22 +43,30 @@
     
   
 }
+@media screen and (max-width: 720px){
+    #titleh1{
+        font-size: 1.8rem;
+        right:0%;
+        top:10%;
+        
+    }
+}
 @media screen and (max-width: 480px){
     #titleh1{
-        font-size: 1.5rem;
+        font-size:1.8rem;
         right:15%;
-        top:20%;
+        top:10%;
         
         
     }
 }
 #titleh2{
-    font-size: 2rem;
-    color: blue;
+    font-size: 3rem;
+    color: #ffffff;
     z-index: 1;
 
    position: absolute;
-   right:40%;
+   right:30%;
    top:-3%;
    text-shadow: 0 1px 0 #ccc, 
                0 2px 0 #c9c9c9,
@@ -67,11 +83,20 @@
    
   
 }
+@media screen and (max-width: 720px){
+    #titleh2{
+        font-size: 1.8rem;
+        right:0%;
+        top:20%;
+        
+    }
+}
+
 @media screen and (max-width: 480px){
     #titleh2{
-        font-size: 2rem;
+        font-size: 1.8rem;
         right:0%;
-        top:40%;
+        top:20%;
         
     }
 }

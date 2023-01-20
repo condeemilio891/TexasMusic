@@ -75,12 +75,7 @@ const App = () => {
     <section id="backgroundBeyonce">
       <BeyonceCarousel/>
     </section>
-    <section id="backgroundGeorge">
-      <GeorgeCarousel/>
-    </section>
-    <section id="backgroundSpoon">
-      <SpoonCarousel/>
-    </section>    <section id="backgroundGhostland">
+ <section id="backgroundGhostland">
       <GhostlandCarousel/>
     </section>
     {/* <CommentButton/> */}

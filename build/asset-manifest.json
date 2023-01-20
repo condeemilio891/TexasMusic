@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/TexasMusic/static/css/main.4e362a76.css",
-    "main.js": "/TexasMusic/static/js/main.9352b3d8.js",
+    "main.css": "/TexasMusic/static/css/main.b24ba347.css",
+    "main.js": "/TexasMusic/static/js/main.780ab210.js",
     "static/js/787.ebdd164d.chunk.js": "/TexasMusic/static/js/787.ebdd164d.chunk.js",
     "static/media/MarenBackground.jpg": "/TexasMusic/static/media/MarenBackground.0cfc3b35f4a996ad9217.jpg",
     "static/media/ExplosionsInTheSky.png": "/TexasMusic/static/media/ExplosionsInTheSky.9ee14264da6115cd8f09.png",
     "static/media/BarryWhite.png": "/TexasMusic/static/media/BarryWhite.f20c18d386d31875862d.png",
     "static/media/noogyBackground.png": "/TexasMusic/static/media/noogyBackground.a70337369f82bb2e1028.png",
     "static/media/BigJadebackground.jpeg": "/TexasMusic/static/media/BigJadebackground.fa4e29e915d36f1f95c5.jpeg",
+    "static/media/ghostlandObservatoryBackground.jpg": "/TexasMusic/static/media/ghostlandObservatoryBackground.ac93e20cf09c75ffbf0b.jpg",
     "static/media/TheWell.png": "/TexasMusic/static/media/TheWell.8f6a22aa277693759692.png",
     "static/media/AGiantDog.jpg": "/TexasMusic/static/media/AGiantDog.f9d0b4880d8910a457b8.jpg",
     "static/media/naneBackground.webp": "/TexasMusic/static/media/naneBackground.453d7f8a0a8d89f1d4d8.webp",
+    "static/media/spoonBackground.jpg": "/TexasMusic/static/media/spoonBackground.7955089a4afeb81bf926.jpg",
     "static/media/GeorgeBackground.jpg": "/TexasMusic/static/media/GeorgeBackground.ca8ce5415bc854cf82df.jpg",
     "static/media/DRIBackground.jpg": "/TexasMusic/static/media/DRIBackground.dbc155ab34b2130d7019.jpg",
     "static/media/selenabackground2.jpg": "/TexasMusic/static/media/selenabackground2.4fe24ec7aededca71e91.jpg",
@@ -20,12 +22,12 @@
     "static/media/BeyonceBackground.jfif": "/TexasMusic/static/media/BeyonceBackground.37f5494cacb61b04627e.jfif",
     "static/media/TexasStar.png": "/TexasMusic/static/media/TexasStar.4c4c64b2c8cfeecfe115.png",
     "index.html": "/TexasMusic/index.html",
-    "main.4e362a76.css.map": "/TexasMusic/static/css/main.4e362a76.css.map",
-    "main.9352b3d8.js.map": "/TexasMusic/static/js/main.9352b3d8.js.map",
+    "main.b24ba347.css.map": "/TexasMusic/static/css/main.b24ba347.css.map",
+    "main.780ab210.js.map": "/TexasMusic/static/js/main.780ab210.js.map",
     "787.ebdd164d.chunk.js.map": "/TexasMusic/static/js/787.ebdd164d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e362a76.css",
-    "static/js/main.9352b3d8.js"
+    "static/css/main.b24ba347.css",
+    "static/js/main.780ab210.js"
   ]
 }

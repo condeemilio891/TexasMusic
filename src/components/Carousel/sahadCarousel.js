@@ -1,6 +1,6 @@
 import React, {useState,useEffect} from 'react'
 import Carousel, {CarouselItem} from './Carousel'
-import ReactPlayer from 'react-player'
+import ReactPlayer from 'react-player/youtube'
 import Accordion from '../Accordion/Accordion'
 import { blueVelvetAccordianData,alwaysOnMyMindAccordianData,clementineTreeAccordianData,seventeenAccordianData,
 pinkJagTreeAccordianData,ladyBirdAccordianData,buonaseraAccordianData, runAccordianData } from '../utils/sahadContent'
@@ -20,7 +20,9 @@ const SahadCarousel = () => {
   <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#189AB4'}}> Clementine Tree</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=oduElbJDfHw'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=oduElbJDfHw' 
+        width='40%'
+        />
         <div className="accordion" style={{color:'#D4F1F4'}} >
       {clementineTreeAccordianData.map(({ title, content }) => (
         <Accordion style={{color:'#D4F1F4'}} borderColor="#c9c19f" borderColor2="#630330" color="#b8336a" backgroundColorContent="#acacde" backgroundColor="#acacde" title={title} content={content} />

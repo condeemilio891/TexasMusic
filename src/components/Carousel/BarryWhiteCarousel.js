@@ -14,16 +14,17 @@ const BarryWhiteCarousel = () => {
     <h2 className='selenah2' style={{color:'#9B9BA1'}}> </h2>
 
   <Carousel>
+
       <CarouselItem>
-      
         <h3 className='selenah6' style={{color:'#3B6DC2'}}> You Sexy Thing</h3>
-          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=37FGwDMMZEg'/>
+          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=aOl4oeHZnBk'/>
           <div className="accordion" >
         {youSexyThingAccordionData.map(({ title, content }) => (
           <Accordion borderColor="#F0AC25" borderColor2="#F0AC25" backgroundColor="#FF7861" backgroundColorContent="#FF7861" color="#D2C0B8" title={title} content={content} />
         ))}
         </div>
       </CarouselItem>
+      
     
   </Carousel>
   </>

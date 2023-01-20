@@ -107,3 +107,17 @@
         
     }
 }
+/* @media screen and (max-width: 420px){
+    .reactPlayer{
+        display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: auto;
+    align-content: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+        position:relative;
+        right:40%;
+        width:10%;
+    }
+} */

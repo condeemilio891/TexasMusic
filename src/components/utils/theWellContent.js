@@ -1,15 +1,48 @@
 export const MortalBonesAccordionData = [
     {
-      title: ' The House is Rockin Quick Info',
-      content: `Album: Couldn't Stand the Weather
-      Artist: Stevie Ray Vaughan
-      Release year: 1990
-      Duration: 1:52`
+      title: ' Mortal Bones Quick Info',
+      content: `Album: Samsara
+      Artist: Well
+      Release year: 2014
+      Duration: 5:31`
                 
     },
    
     {
       title: 'Lyrics',
-      content: ``
+      content: `not Published :(`
+    }
+  ];
+  
+
+  export const DeathSongAccordionData = [
+    {
+      title: ' Death Song Quick Info',
+      content: `Album: Death and Consolation
+      Artist: The Well
+      Release year: 2019
+      `
+                
+    },
+   
+    {
+      title: 'Lyrics',
+      content: `not Published :(`
+    }
+  ];
+  
+  export const TheRavenAccordionData = [
+    {
+      title: ' The Raven Quick Info',
+      content: `Album: Death and Consolation
+      Artist: The Well
+      Release year: 2019
+      `
+                
+    },
+   
+    {
+      title: 'Lyrics',
+      content: `not Published :(`
     }
   ];
