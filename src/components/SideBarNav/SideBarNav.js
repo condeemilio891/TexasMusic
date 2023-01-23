@@ -11,31 +11,31 @@ const SideBarNav = () => {
     <div id="sideNavBox">
       <ul className='navItems' id="navItems">
         <li className="navItem" id="navButton">
-        <Link activeClass="active" to="backgroundSahad" spy={true} smooth={true}>1: Nané</Link>
+        <Link activeClass="active" to="backgroundSahad" spy={true} smooth={true}>01: Nané</Link>
         </li>
         <li className="navItem" id="navButton">
-        <Link  to="backgroundSelena" spy={true} smooth={true}>2: Selena </Link>
+        <Link  to="backgroundSelena" spy={true} smooth={true}>02: Selena </Link>
         </li>
         <li className="navItem" id="navButton">
-        <Link  to="backgroundBigJade" spy={true} smooth={true}>3: Big Jade</Link>
+        <Link  to="backgroundBigJade" spy={true} smooth={true}>03: Big Jade</Link>
         </li>
         <li className="navItem" id="navButton">
-        <Link  to="backgroundNoogy" spy={true} smooth={true}>4: Noogy</Link>
+        <Link  to="backgroundNoogy" spy={true} smooth={true}>04: Noogy</Link>
         </li>
         <li className="navItem" id="navButton">
-        <Link  to="backgroundHolly" spy={true} smooth={true}>5: Buddy Holly</Link>
+        <Link  to="backgroundHolly" spy={true} smooth={true}>05: Buddy Holly</Link>
         </li>
         <li className="navItem" id="navButton">
-        <Link  to="backgroundMaren" spy={true} smooth={true}>6: Maren Morris</Link>
+        <Link  to="backgroundMaren" spy={true} smooth={true}>06: Maren Morris</Link>
         </li>
         <li className="navItem" id="navButton">
-        <Link  to="backgroundDRI" spy={true} smooth={true}>7: DRI</Link>
+        <Link  to="backgroundDRI" spy={true} smooth={true}>07: DRI</Link>
         </li>
         <li className="navItem" id="navButton">
-        <Link  to="backgroundStevie" spy={true} smooth={true}>8: Stevie Ray</Link>
+        <Link  to="backgroundStevie" spy={true} smooth={true}>08: Stevie Ray</Link>
         </li>
         <li className="navItem" id="navButton">
-        <Link  to="backgroundJanisJoplin" spy={true} smooth={true}>9: Janis Joplin</Link>
+        <Link  to="backgroundJanisJoplin" spy={true} smooth={true}>09: Janis Joplin</Link>
         </li>
         <li className="navItem" id="navButton">
         <Link  to="backgroundAGiantDog" spy={true} smooth={true}>10:A Giant Dog</Link>

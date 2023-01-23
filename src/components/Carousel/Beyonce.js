@@ -18,7 +18,7 @@ const BeyonceCarousel = () => {
   <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#EE9E1B'}}> Crazy In Love</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=5bnxJnYiMwk'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=5bnxJnYiMwk' playsinline/>
         <div className="accordion" >
       {crazyInLoveAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#D72058" backgroundColorContent="#D72058" color="#D2C0B8" title={title} content={content} />
@@ -28,7 +28,7 @@ const BeyonceCarousel = () => {
     <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#EE9E1B'}}> Irreplacable</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=2EwViQxSJJQ'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=2EwViQxSJJQ' playsinline/>
         <div className="accordion" >
       {irreplaceableAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#D72058" backgroundColorContent="#D72058" color="#D2C0B8" title={title} content={content} />
@@ -38,7 +38,7 @@ const BeyonceCarousel = () => {
       <CarouselItem>
       
         <h3 className='selenah6' style={{color:'#EE9E1B'}}> Love on top</h3>
-          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=Ob7vObnFUJc'/>
+          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=Ob7vObnFUJc' playsinline/>
           <div className="accordion" >
         {loveOnTopAccordionData.map(({ title, content }) => (
           <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#D72058" backgroundColorContent="#D72058" color="#D2C0B8" title={title} content={content} />
@@ -48,7 +48,7 @@ const BeyonceCarousel = () => {
       <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#EE9E1B'}}> Single Ladies</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=4m1EFMoRFvY'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=4m1EFMoRFvY' playsinline/>
         <div className="accordion" >
       {singleLadiesAccordionData.map(({ title, content }) => (
     <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#D72058" backgroundColorContent="#D72058" color="#D2C0B8" title={title} content={content} />
@@ -58,7 +58,7 @@ const BeyonceCarousel = () => {
     <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#EE9E1B'}}> Beautiful Liar</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=QrOe2h9RtWI'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=QrOe2h9RtWI' playsinline/>
         <div className="accordion" >
       {beautifulLiarAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#D72058" backgroundColorContent="#D72058" color="#D2C0B8" title={title} content={content} />

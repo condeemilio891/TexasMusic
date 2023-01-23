@@ -18,7 +18,7 @@ const TheWellCarousel = () => {
       <CarouselItem>
       
         <h3 className='selenah6' style={{color:'#3B6DC2'}}> Mortal Bones</h3>
-          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=nrPVB8sfPCs'/>
+          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=nrPVB8sfPCs' playsinline/>
           <div className="accordion" >
         {MortalBonesAccordionData.map(({ title, content }) => (
           <Accordion borderColor="#36013f" borderColor2="#36013f" backgroundColor="#ae647f" backgroundColorContent="#ae647f" color="#D2C0B8" title={title} content={content} />
@@ -28,7 +28,7 @@ const TheWellCarousel = () => {
       <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#3B6DC2'}}> Death Song</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=PFVrAJTYY54'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=PFVrAJTYY54' playsinline/>
         <div className="accordion" >
       {DeathSongAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#36013f" borderColor2="#36013f" backgroundColor="#ae647f" backgroundColorContent="#ae647f" color="#D2C0B8" title={title} content={content} />
@@ -38,7 +38,7 @@ const TheWellCarousel = () => {
     <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#3B6DC2'}}> The Raven</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=oXWBMZOjwyM'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=oXWBMZOjwyM' playsinline/>
         <div className="accordion" >
       {TheRavenAccordionData.map(({ title, content }) => (
    <Accordion borderColor="#36013f" borderColor2="#36013f" backgroundColor="#ae647f" backgroundColorContent="#ae647f" color="#D2C0B8" title={title} content={content} />
@@ -48,7 +48,7 @@ const TheWellCarousel = () => {
     <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#3B6DC2'}}> This Is How the World Ends</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=e5coWmo3Jq4'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=e5coWmo3Jq4' playsinline/>
         <div className="accordion" >
       {thisIsHowTheWorldEndsAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#36013f" borderColor2="#36013f" backgroundColor="#ae647f" backgroundColorContent="#ae647f" color="#D2C0B8" title={title} content={content} />

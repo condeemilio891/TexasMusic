@@ -1,10 +1,11 @@
 export const teenIdolAccordionData = [
     {
       title: ' Teen Idol Quick Info',
-      content: `Album: Couldn't Stand the Weather
-      Artist: Stevie Ray Vaughan
-      Release year: 1990
-      Duration: 1:52`
+      content: `Album: Roughhousin
+      Artist: Noogy
+      Release year: 2020
+      Duration: 3:02
+      Genre: Punk Rock`
                 
     },
 

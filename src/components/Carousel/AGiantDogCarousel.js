@@ -19,7 +19,7 @@ psychedelia and punk have roots in counter-culture they are from different eras 
   <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#ffffff'}}> Sleep When Dead</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=FxLVO3XBWLc'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=FxLVO3XBWLc' playsinline/>
         <div className="accordion" >
       {sleepWhenDeadAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#e75480" backgroundColorContent="#e75480" color="#ffffff" title={title} content={content} />
@@ -29,7 +29,7 @@ psychedelia and punk have roots in counter-culture they are from different eras 
       <CarouselItem>
       
         <h3 className='selenah6' style={{color:'#ffffff'}}> Rollercoaster</h3>
-          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=eH9WhZLvHYY'/>
+          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=eH9WhZLvHYY' playsinline/>
           <div className="accordion" >
         {rollercoasterAccordionData.map(({ title, content }) => (
                  <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#e75480" backgroundColorContent="#e75480" color="#ffffff" title={title} content={content} />
@@ -39,7 +39,7 @@ psychedelia and punk have roots in counter-culture they are from different eras 
       <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#ffffff'}}> I'll Come Crashing</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=FxLVO3XBWLc'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=FxLVO3XBWLc' playsinline/>
         <div className="accordion" >
       {illcomecrashingAccordionData.map(({ title, content }) => (
           <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#e75480" backgroundColorContent="#e75480" color="#ffffff" title={title} content={content} />
@@ -49,7 +49,7 @@ psychedelia and punk have roots in counter-culture they are from different eras 
     <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#ffffff'}}> Photograph</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=O5CO6og5lA0'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=O5CO6og5lA0' playsinline/>
         <div className="accordion" >
       {photographAccordionData.map(({ title, content }) => (
        <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#e75480" backgroundColorContent="#e75480" color="#ffffff" title={title} content={content} />
@@ -59,7 +59,7 @@ psychedelia and punk have roots in counter-culture they are from different eras 
     <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#ffffff'}}> ChatterTeeth</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=U80qYa3XWYU'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=U80qYa3XWYU' playsinline/>
         <div className="accordion" >
       {chatterteethAccordionData.map(({ title, content }) => (
        <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#e75480" backgroundColorContent="#e75480" color="#ffffff" title={title} content={content} />
