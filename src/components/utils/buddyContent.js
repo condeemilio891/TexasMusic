@@ -1,5 +1,6 @@
 export const thatWillBeTheDayAccordionData = [
     {
+      id:0,
       title: 'That Will Be The Day Quick Info',
       content: `B-side	"I'm Looking for Someone to Love"
       Released	May 1957
@@ -14,6 +15,7 @@ export const thatWillBeTheDayAccordionData = [
     },
 
     {
+      id:1,
       title: 'Lyrics',
       content: `Well, that'll be the day
       When you say goodbye
@@ -72,6 +74,7 @@ export const thatWillBeTheDayAccordionData = [
 
   export const trueLoveWaysAccordionData = [
     {
+      id:0,
       title: 'True Love Ways Quick Info',
       content: `B-side	"That Makes It Tough"
       Released	June 29, 1960
@@ -84,6 +87,7 @@ export const thatWillBeTheDayAccordionData = [
     },
 
     {
+      id:1,
       title: 'Lyrics',
       content: `Just you know why
       Why you and I
@@ -116,6 +120,7 @@ export const thatWillBeTheDayAccordionData = [
   ];
   export const everydayAccordionData = [
     {
+      id:0,
       title: 'Everyday Quick Info',
       content: `Released	September 20, 1957[1]
       Recorded	May 29, 1957
@@ -128,6 +133,7 @@ export const thatWillBeTheDayAccordionData = [
     },
 
     {
+      id:1,
       title: 'Lyrics',
       content: `Everyday, it's a-gettin' closer
       Goin' faster than a roller coaster
@@ -159,6 +165,7 @@ export const thatWillBeTheDayAccordionData = [
 
   export const sendMeSomeLovinAccordionData = [
     {
+      id:0,
       title: 'Send Me Some Lovin Quick Info',
       content: ` By: Little Richard
       Track 10 on Buddy Holly And The Crickets  
@@ -169,6 +176,7 @@ export const thatWillBeTheDayAccordionData = [
     },
  
     {
+      id:1,
       title: 'Lyrics',
       content: `Send me some loving, send it I pray
       How can I love you when you're far away
@@ -192,6 +200,7 @@ export const thatWillBeTheDayAccordionData = [
 
   export const heartbeatAccordionData = [
     {
+      id:0,
       title: ' Heartbeat Quick Info',
       content: `B-side	"Well... All Right"
       Released	November 5, 1958
@@ -205,6 +214,7 @@ export const thatWillBeTheDayAccordionData = [
     },
  
     {
+      id:1,
       title: 'Lyrics',
       content: `Heartbeat
       Why do you miss when my baby kisses me?
@@ -229,6 +239,7 @@ export const thatWillBeTheDayAccordionData = [
 
   export const itDoesntMatterAnymoreAccordionData = [
     {
+      id:0,
       title: " It Doesn't Matter Anymore Quick Info",
       content: `B-side	"Raining in My Heart"
       Released	January 5, 1959
@@ -242,6 +253,7 @@ export const thatWillBeTheDayAccordionData = [
     },
 
     {
+      id:1,
       title: 'Lyrics',
       content: `There you go and baby, here am I
       Oh well you left me here so I could sit and cry
@@ -272,6 +284,7 @@ export const thatWillBeTheDayAccordionData = [
   ];
   export const cryingWaitingHopingAccordionData = [
     {
+      id:0,
       title: 'Crying Waiting Hoping Quick Info',
       content: `A-side	"Peggy Sue Got Married"
       Released	
@@ -287,6 +300,7 @@ export const thatWillBeTheDayAccordionData = [
     },
   
     {
+      id:1,
       title: 'Lyrics',
       content: `Crying, waiting, hoping, you'll come back
       I just can't seem to get you off my mind
@@ -305,6 +319,7 @@ export const thatWillBeTheDayAccordionData = [
   ];
   export const blueSuedeShoesAccordionData = [
     {
+      id:0,
       title: 'Blue Sued Shoes Quick Info',
       content: `B-side	"Honey Don't"
       Released	January 1956[1]
@@ -319,6 +334,7 @@ export const thatWillBeTheDayAccordionData = [
     },
 
     {
+      id:1,
       title: 'Lyrics',
       content: `Well, it's one for the money two for the show
       Three to get ready now go, cat, go
@@ -354,6 +370,7 @@ export const thatWillBeTheDayAccordionData = [
 
   export const valleyOfTearsAccordionData = [
     {
+      id:0,
       title: 'Valley of Tears Quick Info',
       content: `B-side	"You Made Up My Mind"
       Released	April 1957
@@ -365,6 +382,7 @@ export const thatWillBeTheDayAccordionData = [
     },
 
     {
+      id:1,
       title: 'Lyrics',
       content: `I want you to take me
       Where I belong
@@ -385,7 +403,8 @@ export const thatWillBeTheDayAccordionData = [
     }
   ];
   export const wordsOfLoveAccordionData = [
-    {
+    { 
+      id:0,
       title: 'Words of Love Quick Info',
       content: `B-side	"Mailman, Bring Me No More Blues"
       Released	June 20, 1957
@@ -399,6 +418,7 @@ export const thatWillBeTheDayAccordionData = [
     },
  
     {
+      id:1,
       title: 'Lyrics',
       content: `I want you to take me
       Where I belong
@@ -421,6 +441,7 @@ export const thatWillBeTheDayAccordionData = [
 
   export const slippinAndSlidinAccordionData = [
     {
+      id:0,
       title: "Slippin'n'Slidin Quick Info",
       content: `B-side	"Mailman, Bring Me No More Blues"
       Released	June 20, 1957
@@ -433,7 +454,8 @@ export const thatWillBeTheDayAccordionData = [
                 
     },
   
-    {
+    { 
+      id:1,
       title: 'Lyrics',
       content: `I want you to take me
       Where I belong

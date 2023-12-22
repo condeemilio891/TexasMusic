@@ -1,20 +1,22 @@
 export const teenIdolAccordionData = [
     {
+      id:0,
       title: ' Teen Idol Quick Info',
-      content: `Album: Couldn't Stand the Weather
-      Artist: Stevie Ray Vaughan
-      Release year: 1990
-      Duration: 1:52`
+      content: `Album: Roughhousin
+      Artist: Noogy
+      Release year: 2020
+      Duration: 3:02
+      Genre: Punk Rock`
                 
     },
 
-    {
+    { id:1,
       title: 'Lyrics',
       content: `Not Published :(`
     }
   ];
   export const grandmasHouseAccordionData = [
-    {
+    { id:0,
       title: ' Grandmas House Quick Info',
       content: `Album: Roughhousin
       Artist: Noogy
@@ -24,7 +26,7 @@ export const teenIdolAccordionData = [
                 
     },
 
-    {
+    { id:1,
       title: 'Lyrics',
       content: `Ohhhh
       At Grandma's house.
@@ -67,7 +69,7 @@ export const teenIdolAccordionData = [
     }
   ];
   export const twoThousandAccordionData = [
-    {
+    { id:0,
       title: ' 2017 Quick Info',
       content: `Album: Whatever
       Artist: Noogy
@@ -76,13 +78,15 @@ export const teenIdolAccordionData = [
                 
     },
 
-    {
+    { 
+      id:1,
       title: 'Lyrics',
       content: `not published :(`
     }
   ];
   export const acabAccordionData = [
     {
+      id:0,
       title: ' ACAB Quick Info',
       content: `Album: Roughhousin
       Artist: Noogy
@@ -92,6 +96,7 @@ export const teenIdolAccordionData = [
     },
 
     {
+      id:1,
       title: 'Lyrics',
       content: `not published :(`
     }

@@ -101,8 +101,10 @@ export const loveStruckBabyAccordionData = [
 
   export const voodooChildAccordionData = [
     {
-      title: ' Voodoo Child  Quick Info',
-      content: `B-side	
+      title: ' Voodoo Child (Jimi Cover) Quick Info',
+      content: `
+      Original Song By Jimi
+      B-side	
       "Hey Joe"
       "All Along the Watchtower"
       Released	
@@ -123,41 +125,23 @@ export const loveStruckBabyAccordionData = [
 
     {
       title: 'Lyrics',
-      content: `Well, you've heard about love givin' sight to the blind
-      My baby lovin' cause the sun to shine
-      She my sweet little thing
-      She my pride and joy
-      She my sweet little baby
-      I'm her little lover boy
-      Yeah, I love my baby
-      Heart and soul
-      Love like ours won't never grow old
-      She my sweet little thing
-      She my pride and joy
-      She my sweet little baby
-      I'm her little lover boy
-      Yeah, I love my Lenee
-      She long and lean
-      You mess with her
-      You'll see a man get mean
-      She my sweet little thing
-      She my pride and joy
-      She my sweet little baby
-      I'm her little lover boy
-      Well, I love my baby
-      Like the finest wine
-      Stick with her until the end of time
-      She my sweet little thing
-      She my pride and joy
-      She my sweet little baby
-      I'm her little lover boy
-      Yeah, I love my baby
-      Heart and soul
-      Love like ours won't never grow old
-      She my sweet little thing
-      She my pride and joy
-      She my sweet little baby
-      I'm her little lover boy`
+      content: `Well, I'm standing next to a mountain
+      Chop it down with the edge of my hand
+      Well, I'm standing next to a mountain
+      Chop it down with the edge of my hand
+      Pick up all the pieces, make an island
+      Might even raise a little sand
+      'Cause I'm a voodoo child, yeah
+      Lord knows I'm a voodoo child
+      I didn't mean to take up all your sweet time
+      Give it right back to you one of these days
+      I didn't mean to take up all your sweet time
+      Give it right back to you the rest of my days
+      I won't see you again in this world
+      See you in the next one, don't be late
+      Don't be late
+      'Cause I'm a voodoo child, yeah
+      Lord knows I'm a voodoo child`
     }
   ];
   export const tightRopeAccordionData = [
@@ -204,43 +188,33 @@ export const loveStruckBabyAccordionData = [
 
   export const skyIsCryingAccordionData = [
     {
-      title: ' Voodoo Child  Quick Info',
-      content: `Artist
-      Stevie Ray Vaughan
-      Release Date
-      June 6, 1989
-      Album
-      Tune Up - Rock 38`
+      title: ' Sky Is Crying Quick Info',
+      content: `Artist: Stevie Ray Vaughan & Double Trouble
+      Release date: November 5, 1991
+      Label: Epic`
                 
     },
  
     {
       title: 'Lyrics',
-      content: `Caught up in a whirlwind can't catch my breath
-      Knee deep in hot water, broke out in a cold sweat
-      Can't catch a turtle in this rat race
-      Feels like I'm losin' time at a breakneck pace
-      Afraid of my own shadow in the face of grace
-      Heart full of darkness spotlight on my face
-      There was love all around me but I was lookin' for revenge
-      Thank God it never found me would have been the end
-      Walkin' the tightrope, steppin' on my friends
-      Walkin' the tightrope, it was a shame and a sin
-      Walkin' the tightrope between wrong and right
-      Walkin' the tightrope both day and night
-      Lookin' back in front of me, the mirror's a grin
-      Through eyes of love I see I'm really lookin' at a friend
-      We've all had our problems, that's the way life is
-      My heart goes out to others, who are there to make amends?
-      We've been walkin' the tightrope tryin' to make it right
-      Walkin' the tightrope, every day and every night
-      Walkin' the tightrope, bring it all around
-      Walkin' the tightrope from the lost to found
-      Walkin' the tightrope, stretched around the world
-      Walkin' the tightrope, save the boys and girls
-      Walkin' the tightrope, let's make it right
-      Walkin' the tightrope, do it, do it tonight
-      Walkin' the tightrope`
+      content: `The sky is crying
+      Can you see the tears rollin' down the street?
+      The sky is crying
+      Can you see the tears roll down the street?
+      I've been lookin' for my baby
+      And I wonder where can she be
+      I saw my baby early one morning
+      She was walkin' on down the street
+      I saw my baby early this morning
+      She was walkin' on down the street
+      You don't wanna hurt me, hurt me so bad
+      Let my poor heart skip a beat
+      I've got a real, real, real, real bad feelin'
+      That my baby, she don't love me no more
+      I've got a real, real bad feeling
+      That my baby don't love me no more
+      You know the sky, the sky's been crying, yeah
+      Can you see the tears rollin' down my nose?`
     }
   ];
   export const theHouseisRockinAccordionData = [

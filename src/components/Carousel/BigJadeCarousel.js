@@ -20,8 +20,8 @@ const BigJadeCarousel = () => {
       <h3 className='selenah6' style={{color:'#59E255'}}> Jade Wins </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=WN4aTcqXmy4'/>
         <div className="accordion" >
-      {jadeWinsAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" title={title} content={content} />
+      {jadeWinsAccordionData.map(({id, title, content }) => (
+        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" key={id} title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -30,9 +30,9 @@ const BigJadeCarousel = () => {
         <h3 className='selenah6' style={{color:'#59E255'}}> All Gas No Brakes </h3>
           <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=qH1B_TTxOjM&ab_channel=BigJade'/>
           <div className="accordion" >
-        {allGasNoBrakesAccordionData.map(({ title, content }) => (
-       <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" title={title} content={content} />
-        ))}
+        {allGasNoBrakesAccordionData.map(({id, title, content }) => (
+        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" key={id} title={title} content={content} />
+      ))}
         </div>
       </CarouselItem>
       <CarouselItem>
@@ -40,8 +40,8 @@ const BigJadeCarousel = () => {
       <h3 className='selenah6' style={{color:'#59E255'}}> Big Jade Free Styling </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=yuyCcm2TSDk'/>
         <div className="accordion" >
-      {allGasNoBrakesAccordionData.map(({ title, content }) => (
-    <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" title={title} content={content} />
+      {allGasNoBrakesAccordionData.map(({id, title, content }) => (
+        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" key={id} title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -50,8 +50,8 @@ const BigJadeCarousel = () => {
       <h3 className='selenah6' style={{color:'#59E255'}}> Pressed </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=xmyvOWWg684'/>
         <div className="accordion" >
-      {pressedAccordionData.map(({ title, content }) => (
-       <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" title={title} content={content} />
+      {pressedAccordionData.map(({id, title, content }) => (
+        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" key={id} title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -60,8 +60,8 @@ const BigJadeCarousel = () => {
       <h3 className='selenah6' style={{color:'#59E255'}}> Get It </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=HH7S7hrvA7E'/>
         <div className="accordion" >
-      {getItAccordionData.map(({ title, content }) => (
-        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" title={title} content={content} />
+      {getItAccordionData.map(({id, title, content }) => (
+        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" key={id} title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -70,8 +70,8 @@ const BigJadeCarousel = () => {
       <h3 className='selenah6' style={{color:'#59E255'}}> Dem Girlz </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=H77DtT9MqAE'/>
         <div className="accordion" >
-      {demGirldAccordionData.map(({ title, content }) => (
-       <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" title={title} content={content} />
+      {demGirldAccordionData.map(({id, title, content }) => (
+        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" key={id} title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -80,8 +80,8 @@ const BigJadeCarousel = () => {
       <h3 className='selenah6' style={{color:'#59E255'}}>Super Gremlin Freestyle </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=s4UdX2QY-XU'/>
         <div className="accordion" >
-      {superGremlinFreeStyleAccordionData.map(({ title, content }) => (
-    <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" title={title} content={content} />
+      {superGremlinFreeStyleAccordionData.map(({id, title, content }) => (
+        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" key={id} title={title} content={content} />
       ))}
       </div>
     </CarouselItem>
@@ -91,8 +91,8 @@ const BigJadeCarousel = () => {
       <h3 className='selenah6' style={{color:'#59E255'}}> I'll Tell You What </h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=ibLLUVUXzzY'/>
         <div className="accordion" >
-      {illTellYouWhatAccordionData.map(({ title, content }) => (
-       <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" title={title} content={content} />
+      {illTellYouWhatAccordionData.map(({id, title, content }) => (
+        <Accordion borderColor="#59E255" borderColor2="#59E255" backgroundColor="#45693E" backgroundColorContent="#97A3A9" color="#ffffff" key={id} title={title} content={content} />
       ))}
       </div>
     </CarouselItem>

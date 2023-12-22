@@ -12,7 +12,7 @@ const GeorgeCarousel = () => {
   return (
       <>
     <h1 className='selenah1' style={{color:'#7380A2'}}> George Strait</h1>
-    <h2 className='selenah2' style={{color:'#9B9BA1'}}> </h2>
+    <h2 className='selenah2' style={{color:'#9B9BA1'}}> He Wrote All My Exes Live in Texas! </h2>
 
   <Carousel>
       <CarouselItem>

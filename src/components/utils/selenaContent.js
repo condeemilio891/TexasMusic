@@ -1,5 +1,6 @@
 export const siUnaVezAccordionData = [
     {
+      id:0,
       title: 'Si Una Vez Quick Info',
       content: `Released: 1994
                 Genre: Mariachi, Cumbia
@@ -11,6 +12,7 @@ export const siUnaVezAccordionData = [
     },
   
     {
+      id:1,
       title: 'Lyrics',
       content: `Yo 
       Te di todo mi amor y más
@@ -48,6 +50,7 @@ export const siUnaVezAccordionData = [
 
   export const bidibidibombomAccordionData=[
     {
+      id:0,
         title: 'BidiBidiBomBom Quick Info',
 
         content: `  Released: July 1994
@@ -62,6 +65,7 @@ export const siUnaVezAccordionData = [
 
     
       {
+        id:1,
         title: 'Lyrics',
         content: `Bidi bidi bom bom
         Bidi bidi bom bom
@@ -118,6 +122,7 @@ export const siUnaVezAccordionData = [
 export const baileEstaCumbiaAccoridionData= 
 [
     {
+      id:0,
         title: 'Baile Esta Cumbia Quick Info',
 
         content: `  Released	August 28, 1990
@@ -133,6 +138,7 @@ export const baileEstaCumbiaAccoridionData=
 
 
       {
+        id:1,
         title: 'Lyrics',
         content: `Siento algo que me mueve
         Un ritmo que me hace bailar
@@ -182,6 +188,7 @@ export const baileEstaCumbiaAccoridionData=
 export const comoLaFlorAccoridionData= 
 [
     {
+      id:0,
         title: 'Como La Flor Quick Info',
 
         content: `  Released	June 1992
@@ -197,6 +204,7 @@ export const comoLaFlorAccoridionData=
 
    
       {
+        id:1,
         title: 'Lyrics',
         content: `Yo sé que tienes un nuevo amor
         Sin embargo, te deseo lo mejor
@@ -229,6 +237,7 @@ export const comoLaFlorAccoridionData=
 export const besitosAccoridionData= 
 [
     {
+      id:0,
         title: 'Besitos Quick Info',
 
         content: `  Released	September 15, 1989
@@ -242,6 +251,7 @@ export const besitosAccoridionData=
 
      
       {
+        id:1,
         title: 'Lyrics',
         content: `Con cada beso que me das
         Yo te quiero más y más
@@ -278,6 +288,7 @@ export const besitosAccoridionData=
 export const quieroAccoridionData= 
 [
     {
+        id:0,
         title: 'Quiero Quick Info',
 
         content: ` Released	March 30, 1988
@@ -289,6 +300,7 @@ export const quieroAccoridionData=
 
  
       {
+        id:1,
         title: 'Lyrics',
         content: `Quiero, quiero que me digas que me quieres con todo tu corazón
         Quiero, quiero que me des un beso y que me des tu amor, por favor
@@ -327,6 +339,7 @@ export const quieroAccoridionData=
 export const iCouldFallInLoveAccoridionData= 
 [
     {
+      id:0,
         title: 'I Could Fall In Love Quick Info',
 
         content: ` Released	26 June 1995
@@ -341,6 +354,7 @@ export const iCouldFallInLoveAccoridionData=
 
     
       {
+        id:1,
         title: 'Lyrics',
         content: `I could lose my heart tonight
         If you don't turn and walk away
@@ -384,6 +398,7 @@ export const iCouldFallInLoveAccoridionData=
 export const amorProhibidoAccoridionData= 
 [
     {
+      id:0,
         title: 'Amor Prohibido Quick Info',
 
         content: `Released	March 13, 1994
@@ -399,6 +414,7 @@ export const amorProhibidoAccoridionData=
 
   
       {
+        id:1,
         title: 'Lyrics',
         content: `Con unas ansias locas
         Quiero verte hoy
@@ -451,7 +467,7 @@ export const amorProhibidoAccoridionData=
 
 export const noMeQuedaMasAccoridionData= 
 [
-    {
+    { id:0,
         title: 'No Me Queda Mas Quick Info',
 
         content: `Released	October 1994
@@ -466,6 +482,7 @@ export const noMeQuedaMasAccoridionData=
 
 
       {
+        id:1,
         title: 'Lyrics',
         content: `No me queda más
         Que perderme en un abismo
@@ -511,6 +528,7 @@ export const noMeQuedaMasAccoridionData=
 export const ElChicoAccoridionData= 
 [
     {
+      id:0,
         title: 'El Chico Del Apartamento 512 Quick Info',
 
         content: `A-side	"Fotos y Recuerdos"
@@ -525,6 +543,7 @@ export const ElChicoAccoridionData=
 
      
       {
+        id:1,
         title: 'Lyrics',
         content: `Cada día es igual por mi pasillo
         Nunca llegó a mi puerta sin oír el chiflido

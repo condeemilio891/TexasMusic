@@ -17,7 +17,7 @@ const ExplosionsInTheSkyCarousel = () => {
   <Carousel><CarouselItem>
       
       <h3 className='selenah6' style={{color:'#DC1D44'}}> First Breath After Coma</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=aznXne3juPk'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=aznXne3juPk' playsinline/>
         <div className="accordion" >
       {firstBreathAfterComaAccordionData.map(({ title, content }) => (
         <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#26f7fd" backgroundColorContent="#26f7fd" color="#000000" title={title} content={content} />
@@ -27,7 +27,7 @@ const ExplosionsInTheSkyCarousel = () => {
       <CarouselItem>
       
         <h3 className='selenah6' style={{color:'#DC1D44'}}> Your Hand In Mine</h3>
-          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=cdiY6kijYHE'/>
+          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=cdiY6kijYHE' playsinline/>
           <div className="accordion" >
         {yourHandInMineAccordionData.map(({ title, content }) => (
           <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#26f7fd" backgroundColorContent="#26f7fd" color="#000000" title={title} content={content} />
@@ -37,7 +37,7 @@ const ExplosionsInTheSkyCarousel = () => {
       <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#DC1D44'}}> The Only Moment We're Alone</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=tCzzd3BwLAc'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=tCzzd3BwLAc' playsinline/>
         <div className="accordion" >
       {theOnlyMomentAccordionData.map(({ title, content }) => (
       <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#26f7fd" backgroundColorContent="#26f7fd" color="#000000" title={title} content={content} />
@@ -47,7 +47,7 @@ const ExplosionsInTheSkyCarousel = () => {
       <CarouselItem>
       
       <h3 className='selenah6' style={{color:'#DC1D44'}}> Never, Never Give Up</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=Gh5s_mPMuWU'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=Gh5s_mPMuWU' playsinline/>
         <div className="accordion" >
       {neverGiveUpAccordionData.map(({ title, content }) => (
  <Accordion borderColor="#000000" borderColor2="#000000" backgroundColor="#26f7fd" backgroundColorContent="#26f7fd" color="#000000" title={title} content={content} />

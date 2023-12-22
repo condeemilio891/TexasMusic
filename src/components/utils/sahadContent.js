@@ -1,5 +1,6 @@
 export const blueVelvetAccordianData = [
     {
+      id:0,
       title: 'Blue Velvet Quick Info',
       content: `Artist: Nané The Band
       Release Date: July 31, 2020
@@ -8,6 +9,7 @@ export const blueVelvetAccordianData = [
     },
  
     {
+      id:1,
       title: 'Lyrics',
       content: `Let me take you round the ocean
       I’m Mr. Big with my hand up on my hips
@@ -89,6 +91,7 @@ export const blueVelvetAccordianData = [
 
   export const alwaysOnMyMindAccordianData = [
     {
+      id:0,
       title: 'Always On My Mind Quick Info',
       content: `Artist: Nané The Band
       Release Date: July 31, 2020
@@ -97,6 +100,7 @@ export const blueVelvetAccordianData = [
     },
  
     {
+      id:1,
       title: 'Lyrics',
       content: `This girl was always on my mind 
       That’s why you’ve got me confused 
@@ -134,6 +138,7 @@ export const blueVelvetAccordianData = [
 
   export const clementineTreeAccordianData = [
     {
+      id:0,
       title: 'Clementine Tree Quick Info',
       content: `Artist: Nané The Band
       Release Date: July 31, 2020
@@ -142,6 +147,7 @@ export const blueVelvetAccordianData = [
     },
 
     {
+      id:1,
       title: 'Lyrics',
       content: `I'm so certain I know you're my kind
       We're caught in between
@@ -184,6 +190,7 @@ export const blueVelvetAccordianData = [
 
   export const seventeenAccordianData = [
     {
+      id:0,
       title: 'Seventeen Quick Info',
       content: `Artist: Nané The Band
       Release Date: July 31, 2020
@@ -192,6 +199,7 @@ export const blueVelvetAccordianData = [
     },
 
     {
+      id:1,
       title: 'Lyrics',
       content: ``
     }
@@ -205,6 +213,7 @@ export const blueVelvetAccordianData = [
 
   export const ladyBirdAccordianData = [
     {
+      id:0,
       title: 'Lady Bird Quick Info',
       content: `Artist: Nané The Band
       Release Date: July 31, 2020
@@ -213,6 +222,7 @@ export const blueVelvetAccordianData = [
     },
  
     {
+      id:1,
       title: 'Lyrics',
       content: `We were lovers from the start
       Burning oils and sage
@@ -253,6 +263,7 @@ export const blueVelvetAccordianData = [
 
   export const pinkJagTreeAccordianData = [
     {
+      id:0,
       title: 'Pink Jag Quick Info',
       content: `Artist: Nané The Band
       Release Date: July 31, 2020
@@ -261,6 +272,7 @@ export const blueVelvetAccordianData = [
     },
    
     {
+      id:1,
       title: 'Lyrics',
       content: `You got me with your longing eyes
       You got me in your room
@@ -303,6 +315,7 @@ export const blueVelvetAccordianData = [
 
   export const buonaseraAccordianData = [
     {
+      id:0,
       title: 'Buona Sera Quick Info',
       content: `Artist: Nané The Band
       Release Date: Febuary, 24 2022
@@ -311,6 +324,7 @@ export const blueVelvetAccordianData = [
     },
   
     {
+      id:1,
       title: 'Lyrics',
       content: `Buona sera senorina buona sera
       It is time to say good night to Napoli
@@ -337,6 +351,7 @@ export const blueVelvetAccordianData = [
   ];
   export const runAccordianData = [
     {
+      id:0,
       title: 'Run Quick Info',
       content: `Artist: Nané The Band
       Release Date: July 31, 2020
@@ -345,6 +360,7 @@ export const blueVelvetAccordianData = [
     },
   
     {
+      id:1,
       title: 'Lyrics',
       content: ``
     }

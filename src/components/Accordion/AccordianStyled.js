@@ -9,6 +9,7 @@ export const AccordionWrap = styled.div`
     right:0%;
     top:0%;
     color:${props=>props.color};
+  
 
 
 `

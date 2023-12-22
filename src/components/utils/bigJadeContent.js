@@ -1,5 +1,6 @@
 export const allGasNoBrakesAccordionData = [
     {
+      id:0,
       title: 'All Gas No Brakes Quick Info',
       content: `Artist: Big Jade
       Release date: May 12, 2021
@@ -8,6 +9,7 @@ export const allGasNoBrakesAccordionData = [
     },
    
     {
+      id:1,
       title: 'Lyrics',
       content: `(Why your face so ugly?)
       Ayy, ayy, ayy
@@ -81,6 +83,7 @@ export const allGasNoBrakesAccordionData = [
   ];
   export const jadeWinsAccordionData = [
     {
+      id:0,
       title: 'Jade Wins Quick Info',
       content: `Artist: Big Jade
       Release date: May 12, 2021
@@ -89,6 +92,7 @@ export const allGasNoBrakesAccordionData = [
     },
  
     {
+      id:1,
       title: 'Lyrics',
       content: `[Intro]
       (Jade wins)
@@ -198,6 +202,7 @@ export const allGasNoBrakesAccordionData = [
   ];
   export const pressedAccordionData = [
     {
+      id:0,
       title: 'Big Jade Freestyle Quick Info',
       content: `Artist: Big Jade
       Release date: May 12, 2021
@@ -207,6 +212,7 @@ export const allGasNoBrakesAccordionData = [
     },
  
     {
+      id:1,
       title: 'Lyrics',
       content: `Yo' man check this motherf- out
       A lot of y'all - be talkin' that shit (stand up)
@@ -275,6 +281,7 @@ export const allGasNoBrakesAccordionData = [
   
   export const getItAccordionData = [
     {
+      id:0,
       title: 'Big Jade Freestyle Quick Info',
       content: `Artist: Big Jade
                 Release date: May 12, 2021
@@ -282,7 +289,7 @@ export const allGasNoBrakesAccordionData = [
                 
     },
 
-    {
+    { id:1,
       title: 'Lyrics',
       content: `[Intro]
       Uh
@@ -357,6 +364,7 @@ export const allGasNoBrakesAccordionData = [
 
   export const demGirldAccordionData = [
     {
+      id:0,
       title: 'Dem Girls Quick Info',
       content: `Artist: Big Jade
       Featured artists: BeatKing, Erica Banks
@@ -367,7 +375,7 @@ export const allGasNoBrakesAccordionData = [
                 
     },
   
-    {
+    {id:1,
       title: 'Lyrics',
       content: `Yup, hold up bitch, ay
       Hold up bitch, ay
@@ -450,6 +458,7 @@ export const allGasNoBrakesAccordionData = [
 
   export const superGremlinFreeStyleAccordionData = [
     {
+      id:0,
       title: 'Big Jade Freestyle Quick Info',
       content: `Artist: Big Jade
       
@@ -457,7 +466,8 @@ export const allGasNoBrakesAccordionData = [
                 
     },
   
-    {
+    { 
+      id:1,
       title: 'Lyrics',
       content: `Freestyle`
     }
@@ -465,6 +475,7 @@ export const allGasNoBrakesAccordionData = [
 
   export const illTellYouWhatAccordionData = [
     {
+      id:0,
       title: 'Ill Tell You What Quick Info',
       content: `Artist: Big Jade
       
@@ -473,6 +484,7 @@ export const allGasNoBrakesAccordionData = [
     },
 
     {
+      id:1,
       title: 'Lyrics',
       content: `They upset 'cause I'm that bitch, no lie despite of my location
       Whether I'm in county or in Texas stressin' stuff on my probation
@@ -513,6 +525,7 @@ export const allGasNoBrakesAccordionData = [
   ];
   export const jadeFreestyleAccordionData = [
     {
+      id:0,
       title: 'Big Jade Freestyle Quick Info',
       content: `Artist: Big Jade
       
@@ -520,7 +533,7 @@ export const allGasNoBrakesAccordionData = [
                 
     },
  
-    {
+    {id:1,
       title: 'Lyrics',
       content: `Freestyle`
     }

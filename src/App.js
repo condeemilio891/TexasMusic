@@ -1,4 +1,4 @@
-import React from 'react'
+import React,{useState,useEffect} from 'react'
 import "./App.css"
 import Title from './components/Title/Title'
 import SelenaCarousel from './components/Carousel/SelenaCarousel'
@@ -14,13 +14,14 @@ import AGiantDogCarousel from './components/Carousel/AGiantDogCarousel'
 import NoogyCarousel from './components/Carousel/noogyCarousel'
 import BarryWhiteCarousel from './components/Carousel/BarryWhiteCarousel'
 import ExplosionsInTheSkyCarousel from './components/Carousel/ExplosionsInTheSkyCarousel'
-import TheWellCarousel from './components/Carousel/TheWellCarousel'
+import ErykaBaduCarousel from './components/Carousel/ErykahBadu'
 import CommentButton from './components/Comments/CommentsButton/CommentButton'
 import SideBarNav from './components/SideBarNav/SideBarNav'
 import CommentBox from './components/Comments/CommentBox/CommentBox'
 import BeyonceCarousel from './components/Carousel/Beyonce'
 import SpoonCarousel from './components/Carousel/SpoonCarousel'
 import GhostlandCarousel from './components/Carousel/GhostLandObservatory'
+import ErkykaBaduCarousel from './components/Carousel/ErykahBadu'
 const App = () => {
   return (
     <>
@@ -69,16 +70,18 @@ const App = () => {
     <section id="backgroundBarryWhite">
       <BarryWhiteCarousel/>
     </section>
-    <section id="backgroundTheWell">
-      <TheWellCarousel/>
+    <section id="backgroundErykahBadu">
+      <ErkykaBaduCarousel/>
     </section>
     <section id="backgroundBeyonce">
       <BeyonceCarousel/>
     </section>
- <section id="backgroundGhostland">
-      <GhostlandCarousel/>
+ <section id="backgroundGeorge">
+      <GeorgeCarousel/>
     </section>
+
     {/* <CommentButton/> */}
+    
     <SideBarNav/>
    
 

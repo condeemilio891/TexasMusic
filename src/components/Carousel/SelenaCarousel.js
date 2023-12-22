@@ -20,7 +20,7 @@ function SelenaCarousel() {
       
     <CarouselItem>
         <h3 className='selenah6'> Besitos</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=awV5IcTkpQ8&ab_channel=cesar.urtrick'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=awV5IcTkpQ8&ab_channel=cesar.urtrick' playsinline/>
           <div className="accordion">
         {besitosAccoridionData.map(({ title, content }) => (
           <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193" title={title} content={content} />
@@ -30,7 +30,7 @@ function SelenaCarousel() {
         </CarouselItem>
         <CarouselItem>
         <h3 className='selenah6'> Si Una Vez </h3>
-          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=pjDc3nK8cN4&ab_channel=SelenaVEVO'/>
+          <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=pjDc3nK8cN4&ab_channel=SelenaVEVO' playsinline/>
           <div className="accordion" id="selenaAccordianColors">
         {siUnaVezAccordionData.map(({ title, content }) => (
           <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193" title={title} content={content} />
@@ -40,10 +40,10 @@ function SelenaCarousel() {
         
         <CarouselItem>
         <h3 className='selenah6'> BidiBidiBomBom</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=4GsooP7u6N0&ab_channel=ArleneHawkins'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=4GsooP7u6N0&ab_channel=ArleneHawkins' playsinline/>
           <div className="accordion">
-        {bidibidibombomAccordionData.map(({ title, content }) => (
-          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193" title={title} content={content} />
+        {bidibidibombomAccordionData.map(({id, title, content }) => (
+          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193"key={id} title={title} content={content} />
         ))}
         </div>
         
@@ -51,10 +51,10 @@ function SelenaCarousel() {
 
         <CarouselItem>
         <h3 className='selenah6'> Baile esta Cumbia</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=JgmDB7XsOKY&ab_channel=Omster12'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=JgmDB7XsOKY&ab_channel=Omster12' playsinline/>
           <div className="accordion">
-        {baileEstaCumbiaAccoridionData.map(({ title, content }) => (
-          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193" title={title} content={content} />
+        {baileEstaCumbiaAccoridionData.map(({id, title, content }) => (
+          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193"key={id} title={title} content={content} />
         ))}
         </div>
         
@@ -62,10 +62,10 @@ function SelenaCarousel() {
 
         <CarouselItem>
         <h3 className='selenah6'> Como la Flor</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=98mU-744U2A&ab_channel=JadeStratus'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=98mU-744U2A&ab_channel=JadeStratus' playsinline/>
           <div className="accordion">
-        {comoLaFlorAccoridionData.map(({ title, content }) => (
-          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193" title={title} content={content} />
+        {comoLaFlorAccoridionData.map(({id, title, content }) => (
+          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193"key={id} title={title} content={content} />
         ))}
         </div>
         
@@ -74,10 +74,10 @@ function SelenaCarousel() {
 
         <CarouselItem>
         <h3 className='selenah6'> Quiero</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=p636I82GV5k&ab_channel=SelenaQRestorer'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=p636I82GV5k&ab_channel=SelenaQRestorer' playsinline/>
           <div className="accordion">
-        {quieroAccoridionData.map(({ title, content }) => (
-          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193" title={title} content={content} />
+        {quieroAccoridionData.map(({id, title, content }) => (
+          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193"key={id} title={title} content={content} />
         ))}
         </div>
         
@@ -85,10 +85,10 @@ function SelenaCarousel() {
 
         <CarouselItem>
         <h3 className='selenah6'> I Could Fall In Love</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=XBCDvINm0Vo&ab_channel=SelenaVEVO'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=XBCDvINm0Vo&ab_channel=SelenaVEVO' playsinline/>
           <div className="accordion">
-        {iCouldFallInLoveAccoridionData.map(({ title, content }) => (
-          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193" title={title} content={content} />
+        {iCouldFallInLoveAccoridionData.map(({id, title, content }) => (
+          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193"key={id} title={title} content={content} />
         ))}
         </div>
         
@@ -96,10 +96,10 @@ function SelenaCarousel() {
 
         <CarouselItem>
         <h3 className='selenah6'> Amor Prohibido</h3>
-        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=UDZrTAaMjfk&ab_channel=ArleneHawkins'/>
+        <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=UDZrTAaMjfk&ab_channel=ArleneHawkins' playsinline/>
           <div className="accordion">
-        {amorProhibidoAccoridionData.map(({ title, content }) => (
-          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193" title={title} content={content} />
+        {amorProhibidoAccoridionData.map(({id, title, content }) => (
+          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193"key={id} title={title} content={content} />
         ))}
         </div>
         
@@ -109,8 +109,8 @@ function SelenaCarousel() {
         <h3 className='selenah6'> No Me Queda mas</h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=hKVH5g99FPI&ab_channel=SelenaVEVO'/>
           <div className="accordion">
-        {noMeQuedaMasAccoridionData.map(({ title, content }) => (
-          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193" title={title} content={content} />
+        {noMeQuedaMasAccoridionData.map(({id, title, content }) => (
+          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193"key={id} title={title} content={content} />
         ))}
         </div>
         
@@ -120,8 +120,8 @@ function SelenaCarousel() {
         <h3 className='selenah6'> El Chico del Apartamento 512</h3>
         <ReactPlayer className="reactPlayer" url ='https://www.youtube.com/watch?v=_g2KBWNHdgw&t=1s&ab_channel=SelenaVEVO'/>
           <div className="accordion">
-        {ElChicoAccoridionData.map(({ title, content }) => (
-          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193" title={title} content={content} />
+        {ElChicoAccoridionData.map(({id, title, content }) => (
+          <Accordion borderColor="#630330" borderColor2="#630330" color="#DA70D6" backgroundColorContent="#630330" backgroundColor="#710193"key={id} title={title} content={content} />
         ))}
         </div>
         

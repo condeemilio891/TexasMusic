@@ -1,16 +1,21 @@
 import React, {useState} from "react"
 import "./Carousel.css"
+import LazyLoad from 'react-lazy-load';
+import ReactPlayer from 'react-player'
+
+export const CarouselItem = ({ children, width }) => {
+    return (
+        // just put {children} for the styling to work again
+      <div className="carousel-item" style={{ width: width }}>
+        <LazyLoad  offset={100}>
+          <div className="video-container">{children}</div>
+        </LazyLoad>
 
 
-
-export const CarouselItem=({children,width})=>{
-    return(
-       <div className="carousel-item" style={{width:width}}>
-           {children}
-    
-       </div>
+        {/* {children} */}
+      </div>
     );
-};
+  };
 
 
 const Carousel= ({children})=>{

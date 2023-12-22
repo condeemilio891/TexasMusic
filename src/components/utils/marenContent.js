@@ -1,5 +1,6 @@
 export const myChurchAccordionData = [
     {
+      id:0,
       title: 'My Church Quick Info',
       content: `Album: Hero
       Artist: Maren Morris
@@ -10,6 +11,7 @@ export const myChurchAccordionData = [
     },
   
     {
+      id:1,
       title: 'Lyrics',
       content: `I've cussed on a Sunday
       I've cheated and I've lied
@@ -61,7 +63,7 @@ export const myChurchAccordionData = [
 
 
   export const iCouldUseALoveSongAccordionData = [
-    {
+    { id:0,
       title: 'I Could Use a Love Song Quick Info',
       content: `Released	March 27, 2017
       Genre	Country
@@ -74,7 +76,7 @@ export const myChurchAccordionData = [
                 
     },
   
-    {
+    { id:1,
       title: 'Lyrics',
       content: `Usually a drink will do the trick
       Take the edge off quick, sittin' in the dark
@@ -126,7 +128,7 @@ export const myChurchAccordionData = [
   ];
 
   export const theMiddleAccordionData = [
-    {
+    { id:0,
       title: 'The Middle Quick Info',
       content: `Album: The Middle - Single
       Artists: Maren Morris · Zedd · Grey
@@ -136,7 +138,7 @@ export const myChurchAccordionData = [
                 
     },
  
-    {
+    { id:1,
       title: 'Lyrics',
       content: `Take a seat, right over there, sat on the stairs
       Stay or leave, the cabinets are bare, and I'm unaware
@@ -188,7 +190,7 @@ export const myChurchAccordionData = [
   ];
 
   export const theBonesAccordionData = [
-    {
+    { id:0,
       title: 'The Middle Quick Info',
       content: `Album: GIRL
       Artist: Maren Morris
@@ -198,7 +200,7 @@ export const myChurchAccordionData = [
                 
     },
  
-    {
+    { id:1,
       title: 'Lyrics',
       content: `We're in the homestretch of the hard times
       We took a hard left, but we're alright
@@ -240,7 +242,7 @@ export const myChurchAccordionData = [
     }
   ];
   export const girlAccordionData = [
-    {
+    { id:0,
       title: 'Girl Quick Info',
       content: `Released	March 8, 2019
       Recorded:	2017–2019
@@ -251,7 +253,7 @@ export const myChurchAccordionData = [
                 
     },
 
-    {
+    { id:1,
       title: 'Lyrics',
       content: `[Verse 1]
       Man, this shit's unflatterin', all up in my head again
@@ -325,7 +327,7 @@ export const myChurchAccordionData = [
   ];
 
   export const richAccordionData = [
-    {
+    { id:0,
       title: 'Rich Quick Info',
       content: `Released	February 12, 2018
       Genre	
@@ -339,7 +341,7 @@ export const myChurchAccordionData = [
                 
     },
  
-    {
+    { id:1,
       title: 'Lyrics',
       content: `La-a-a-a-a-di-da
       La-a-a-a-a-di-da
@@ -402,7 +404,7 @@ export const myChurchAccordionData = [
   ];
 
   export const makeOutWithMeAccordionData = [
-    {
+    { id:0,
       title: 'Rich Quick Info',
       content: `Released	February 12, 2018
       Genre	
@@ -415,7 +417,7 @@ export const myChurchAccordionData = [
       busbeeMaren Morris`
                 
     },
-    {
+    { id:1,
       title: 'Lyrics',
       content: `La-a-a-a-a-di-da
       La-a-a-a-a-di-da
@@ -478,7 +480,7 @@ export const myChurchAccordionData = [
   ];
 
   export const iCantLoveYouAnymoreAccordionData = [
-    {
+    { id:0,
       title: 'I Cant Love You Anymore Quick Info',
       content: `Artist: Maren Morris
       Release Date: March 25, 2022
@@ -486,7 +488,7 @@ export const myChurchAccordionData = [
                 
     },
 
-    {
+    { id:1,
       title: 'Lyrics',
       content: `[Verse 1]
       Shoulda known what I was gettin' in
@@ -544,7 +546,7 @@ export const myChurchAccordionData = [
     }
   ];
   export const eightiesMercedesAccordionData = [
-    {
+    { id:0,
       title: "80's Mercedes Quick Info",
       content: `Album: Hero
       Artist: Maren Morris
@@ -554,7 +556,7 @@ export const myChurchAccordionData = [
                 
     },
 
-    {
+    { id:1,
       title: 'Lyrics',
       content: `[Verse 1]
       Still runs good, built to last
